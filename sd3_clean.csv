@@ -1,0 +1,802 @@
+,year,Brand,no. of motorcycles
+0,2005,adiva,0
+1,2005,aprilia,1075
+2,2005,bmw,610
+3,2005,bsa,12
+4,2005,bajaj,198
+5,2005,benelli,71
+6,2005,bimota,6
+7,2005,cagiva,186
+8,2005,can-am,0
+9,2005,chunlan,39
+10,2005,cosa,413
+11,2005,cpi,0
+12,2005,daelim,2755
+13,2005,derbi,0
+14,2005,ducati,319
+15,2005,emax,0
+16,2005,gas gas,53
+17,2005,harley davidson,892
+18,2005,hartford,9
+19,2005,honda,65881
+20,2005,husqvarna,36
+21,2005,hyosung,404
+22,2005,italjet,41
+23,2005,ktm,701
+24,2005,kawasaki,4129
+25,2005,keeway,0
+26,2005,kymco,784
+27,2005,lambretta,17
+28,2005,lml,630
+29,2005,mv agusta,0
+30,2005,mv augusta,11
+31,2005,megelli,0
+32,2005,mle,0
+33,2005,modenas,359
+34,2005,moto guzzi,20
+35,2005,norton,20
+36,2005,pgo,199
+37,2005,paijifa,10
+38,2005,peugeot,0
+39,2005,piaggio,6863
+40,2005,regal-raptor,0
+41,2005,rieju,0
+42,2005,royal enfield,0
+43,2005,sachs,0
+44,2005,sacin,0
+45,2005,sang yang,15
+46,2005,sanyang,262
+47,2005,sipstar,27
+48,2005,suzuki,8297
+49,2005,sym,722
+50,2005,tgb,0
+51,2005,tgb,9
+52,2005,tiger,66
+53,2005,triumph,48
+54,2005,tvs,0
+55,2005,vespa,7012
+56,2005,vincent,0
+57,2005,yamaha,35955
+58,2005,zipstar,0
+59,2005,zongshen,239
+60,2005,others,39
+61,2006,adiva,0
+62,2006,aprilia,1075
+63,2006,bmw,632
+64,2006,bsa,21
+65,2006,bajaj,754
+66,2006,benelli,70
+67,2006,bimota,6
+68,2006,cagiva,167
+69,2006,can-am,0
+70,2006,chunlan,34
+71,2006,cosa,320
+72,2006,cpi,0
+73,2006,daelim,2618
+74,2006,derbi,0
+75,2006,ducati,355
+76,2006,emax,0
+77,2006,gas gas,46
+78,2006,harley davidson,1005
+79,2006,hartford,7
+80,2006,honda,66879
+81,2006,husqvarna,50
+82,2006,hyosung,405
+83,2006,italjet,29
+84,2006,ktm,694
+85,2006,kawasaki,4106
+86,2006,keeway,0
+87,2006,kymco,819
+88,2006,lambretta,17
+89,2006,lml,635
+90,2006,mv agusta,20
+91,2006,mv augusta,0
+92,2006,megelli,0
+93,2006,mle,0
+94,2006,modenas,348
+95,2006,moto guzzi,20
+96,2006,norton,21
+97,2006,pgo,202
+98,2006,paijifa,9
+99,2006,peugeot,0
+100,2006,piaggio,7452
+101,2006,regal-raptor,0
+102,2006,rieju,0
+103,2006,royal enfield,20
+104,2006,sachs,0
+105,2006,sacin,0
+106,2006,sang yang,15
+107,2006,sanyang,219
+108,2006,sipstar,0
+109,2006,suzuki,8179
+110,2006,sym,1027
+111,2006,tgb,0
+112,2006,tgb,8
+113,2006,tiger,47
+114,2006,triumph,72
+115,2006,tvs,0
+116,2006,vespa,6404
+117,2006,vincent,0
+118,2006,yamaha,37640
+119,2006,zipstar,25
+120,2006,zongshen,229
+121,2006,others,35
+122,2007,adiva,0
+123,2007,aprilia,1050
+124,2007,bmw,652
+125,2007,bsa,21
+126,2007,bajaj,1102
+127,2007,benelli,75
+128,2007,bimota,6
+129,2007,cagiva,142
+130,2007,can-am,0
+131,2007,chunlan,25
+132,2007,cosa,265
+133,2007,cpi,0
+134,2007,daelim,2375
+135,2007,derbi,0
+136,2007,ducati,436
+137,2007,emax,0
+138,2007,gas gas,37
+139,2007,harley davidson,1115
+140,2007,hartford,5
+141,2007,honda,67340
+142,2007,husqvarna,54
+143,2007,hyosung,349
+144,2007,italjet,18
+145,2007,ktm,691
+146,2007,kawasaki,4042
+147,2007,keeway,0
+148,2007,kymco,821
+149,2007,lambretta,17
+150,2007,lml,585
+151,2007,mv agusta,25
+152,2007,mv augusta,0
+153,2007,megelli,0
+154,2007,mle,0
+155,2007,modenas,334
+156,2007,moto guzzi,28
+157,2007,norton,21
+158,2007,pgo,208
+159,2007,paijifa,8
+160,2007,peugeot,0
+161,2007,piaggio,7712
+162,2007,regal-raptor,0
+163,2007,rieju,0
+164,2007,royal enfield,29
+165,2007,sachs,0
+166,2007,sacin,0
+167,2007,sang yang,15
+168,2007,sanyang,195
+169,2007,sipstar,0
+170,2007,suzuki,8227
+171,2007,sym,1203
+172,2007,tgb,0
+173,2007,tgb,5
+174,2007,tiger,36
+175,2007,triumph,91
+176,2007,tvs,0
+177,2007,vespa,5917
+178,2007,vincent,0
+179,2007,yamaha,38806
+180,2007,zipstar,20
+181,2007,zongshen,206
+182,2007,others,31
+183,2008,adiva,10
+184,2008,aprilia,1033
+185,2008,bmw,706
+186,2008,bsa,21
+187,2008,bajaj,1587
+188,2008,benelli,72
+189,2008,bimota,6
+190,2008,cagiva,110
+191,2008,can-am,0
+192,2008,chunlan,21
+193,2008,cosa,225
+194,2008,cpi,11
+195,2008,daelim,2120
+196,2008,derbi,6
+197,2008,ducati,521
+198,2008,emax,0
+199,2008,gas gas,27
+200,2008,harley davidson,1200
+201,2008,hartford,5
+202,2008,honda,67459
+203,2008,husqvarna,74
+204,2008,hyosung,294
+205,2008,italjet,16
+206,2008,ktm,690
+207,2008,kawasaki,4005
+208,2008,keeway,0
+209,2008,kymco,886
+210,2008,lambretta,17
+211,2008,lml,556
+212,2008,mv agusta,25
+213,2008,mv augusta,0
+214,2008,megelli,0
+215,2008,mle,0
+216,2008,modenas,304
+217,2008,moto guzzi,33
+218,2008,norton,19
+219,2008,pgo,219
+220,2008,paijifa,8
+221,2008,peugeot,0
+222,2008,piaggio,7866
+223,2008,regal-raptor,0
+224,2008,rieju,0
+225,2008,royal enfield,41
+226,2008,sachs,130
+227,2008,sacin,0
+228,2008,sang yang,14
+229,2008,sanyang,181
+230,2008,sipstar,0
+231,2008,suzuki,8403
+232,2008,sym,1420
+233,2008,tgb,0
+234,2008,tgb,0
+235,2008,tiger,31
+236,2008,triumph,126
+237,2008,tvs,0
+238,2008,vespa,5536
+239,2008,vincent,0
+240,2008,yamaha,39865
+241,2008,zipstar,16
+242,2008,zongshen,174
+243,2008,others,31
+244,2009,adiva,27
+245,2009,aprilia,1073
+246,2009,bmw,743
+247,2009,bsa,21
+248,2009,bajaj,1952
+249,2009,benelli,65
+250,2009,bimota,6
+251,2009,cagiva,94
+252,2009,can-am,5
+253,2009,chunlan,11
+254,2009,cosa,182
+255,2009,cpi,26
+256,2009,daelim,2011
+257,2009,derbi,39
+258,2009,ducati,595
+259,2009,emax,0
+260,2009,gas gas,18
+261,2009,harley davidson,1277
+262,2009,hartford,0
+263,2009,honda,66702
+264,2009,husqvarna,96
+265,2009,hyosung,242
+266,2009,italjet,13
+267,2009,ktm,673
+268,2009,kawasaki,3936
+269,2009,keeway,0
+270,2009,kymco,906
+271,2009,lambretta,17
+272,2009,lml,479
+273,2009,mv agusta,30
+274,2009,mv augusta,0
+275,2009,megelli,0
+276,2009,mle,0
+277,2009,modenas,279
+278,2009,moto guzzi,39
+279,2009,norton,20
+280,2009,pgo,226
+281,2009,paijifa,8
+282,2009,peugeot,0
+283,2009,piaggio,8045
+284,2009,regal-raptor,0
+285,2009,rieju,0
+286,2009,royal enfield,52
+287,2009,sachs,159
+288,2009,sacin,0
+289,2009,sang yang,11
+290,2009,sanyang,171
+291,2009,sipstar,0
+292,2009,suzuki,8281
+293,2009,sym,1651
+294,2009,tgb,0
+295,2009,tgb,0
+296,2009,tiger,16
+297,2009,triumph,171
+298,2009,tvs,0
+299,2009,vespa,5117
+300,2009,vincent,0
+301,2009,yamaha,41543
+302,2009,zipstar,13
+303,2009,zongshen,138
+304,2009,others,36
+305,2010,adiva,40
+306,2010,aprilia,1152
+307,2010,bmw,825
+308,2010,bsa,21
+309,2010,bajaj,2166
+310,2010,benelli,61
+311,2010,bimota,7
+312,2010,cagiva,79
+313,2010,can-am,16
+314,2010,chunlan,8
+315,2010,cosa,140
+316,2010,cpi,26
+317,2010,daelim,1940
+318,2010,derbi,65
+319,2010,ducati,724
+320,2010,emax,5
+321,2010,gas gas,15
+322,2010,harley davidson,1372
+323,2010,hartford,0
+324,2010,honda,65354
+325,2010,husqvarna,108
+326,2010,hyosung,193
+327,2010,italjet,8
+328,2010,ktm,684
+329,2010,kawasaki,3821
+330,2010,keeway,0
+331,2010,kymco,912
+332,2010,lambretta,17
+333,2010,lml,384
+334,2010,mv agusta,51
+335,2010,mv augusta,0
+336,2010,megelli,0
+337,2010,mle,0
+338,2010,modenas,229
+339,2010,moto guzzi,42
+340,2010,norton,20
+341,2010,pgo,235
+342,2010,paijifa,7
+343,2010,peugeot,0
+344,2010,piaggio,8261
+345,2010,regal-raptor,0
+346,2010,rieju,27
+347,2010,royal enfield,57
+348,2010,sachs,173
+349,2010,sacin,0
+350,2010,sang yang,10
+351,2010,sanyang,149
+352,2010,sipstar,0
+353,2010,suzuki,7998
+354,2010,sym,1996
+355,2010,tgb,0
+356,2010,tgb,0
+357,2010,tiger,11
+358,2010,triumph,214
+359,2010,tvs,76
+360,2010,vespa,4851
+361,2010,vincent,0
+362,2010,yamaha,43397
+363,2010,zipstar,11
+364,2010,zongshen,170
+365,2010,others,32
+366,2011,adiva,62
+367,2011,aprilia,1265
+368,2011,bmw,959
+369,2011,bsa,21
+370,2011,bajaj,2251
+371,2011,benelli,40
+372,2011,bimota,7
+373,2011,cagiva,81
+374,2011,can-am,24
+375,2011,chunlan,0
+376,2011,cosa,92
+377,2011,cpi,71
+378,2011,daelim,1895
+379,2011,derbi,76
+380,2011,ducati,885
+381,2011,emax,6
+382,2011,gas gas,9
+383,2011,harley davidson,1519
+384,2011,hartford,0
+385,2011,honda,62471
+386,2011,husqvarna,131
+387,2011,hyosung,142
+388,2011,italjet,6
+389,2011,ktm,781
+390,2011,kawasaki,3437
+391,2011,keeway,19
+392,2011,kymco,900
+393,2011,lambretta,17
+394,2011,lml,344
+395,2011,mv agusta,60
+396,2011,mv augusta,0
+397,2011,megelli,45
+398,2011,mle,0
+399,2011,modenas,164
+400,2011,moto guzzi,44
+401,2011,norton,20
+402,2011,pgo,277
+403,2011,paijifa,7
+404,2011,peugeot,0
+405,2011,piaggio,8313
+406,2011,regal-raptor,11
+407,2011,rieju,85
+408,2011,royal enfield,62
+409,2011,sachs,169
+410,2011,sacin,0
+411,2011,sang yang,10
+412,2011,sanyang,129
+413,2011,sipstar,0
+414,2011,suzuki,7766
+415,2011,sym,2529
+416,2011,tgb,0
+417,2011,tgb,0
+418,2011,tiger,6
+419,2011,triumph,277
+420,2011,tvs,95
+421,2011,vespa,4418
+422,2011,vincent,0
+423,2011,yamaha,44319
+424,2011,zipstar,10
+425,2011,zongshen,202
+426,2011,others,30
+427,2012,adiva,70
+428,2012,aprilia,1384
+429,2012,bmw,1158
+430,2012,bsa,21
+431,2012,bajaj,2330
+432,2012,benelli,32
+433,2012,bimota,7
+434,2012,cagiva,75
+435,2012,can-am,27
+436,2012,chunlan,0
+437,2012,cosa,57
+438,2012,cpi,76
+439,2012,daelim,1852
+440,2012,derbi,79
+441,2012,ducati,1062
+442,2012,emax,5
+443,2012,gas gas,8
+444,2012,harley davidson,1679
+445,2012,hartford,0
+446,2012,honda,58614
+447,2012,husqvarna,135
+448,2012,hyosung,115
+449,2012,italjet,6
+450,2012,ktm,999
+451,2012,kawasaki,3195
+452,2012,keeway,49
+453,2012,kymco,938
+454,2012,lambretta,17
+455,2012,lml,307
+456,2012,mv agusta,73
+457,2012,mv augusta,0
+458,2012,megelli,89
+459,2012,mle,0
+460,2012,modenas,143
+461,2012,moto guzzi,46
+462,2012,norton,20
+463,2012,pgo,341
+464,2012,paijifa,6
+465,2012,peugeot,13
+466,2012,piaggio,8327
+467,2012,regal-raptor,22
+468,2012,rieju,120
+469,2012,royal enfield,85
+470,2012,sachs,159
+471,2012,sacin,25
+472,2012,sang yang,9
+473,2012,sanyang,88
+474,2012,sipstar,0
+475,2012,suzuki,7238
+476,2012,sym,3357
+477,2012,tgb,0
+478,2012,tgb,0
+479,2012,tiger,6
+480,2012,triumph,380
+481,2012,tvs,102
+482,2012,vespa,3755
+483,2012,vincent,0
+484,2012,yamaha,45158
+485,2012,zipstar,8
+486,2012,zongshen,216
+487,2012,others,27
+488,2013,adiva,97
+489,2013,aprilia,1436
+490,2013,bmw,1502
+491,2013,bsa,21
+492,2013,bajaj,2688
+493,2013,benelli,26
+494,2013,bimota,7
+495,2013,cagiva,65
+496,2013,can-am,37
+497,2013,chunlan,0
+498,2013,cosa,27
+499,2013,cpi,75
+500,2013,daelim,1745
+501,2013,derbi,77
+502,2013,ducati,1201
+503,2013,emax,5
+504,2013,gas gas,5
+505,2013,harley davidson,1806
+506,2013,hartford,0
+507,2013,honda,55797
+508,2013,husqvarna,137
+509,2013,hyosung,82
+510,2013,italjet,6
+511,2013,ktm,1280
+512,2013,kawasaki,3075
+513,2013,keeway,121
+514,2013,kymco,1056
+515,2013,lambretta,17
+516,2013,lml,274
+517,2013,mv agusta,81
+518,2013,mv augusta,0
+519,2013,megelli,85
+520,2013,mle,89
+521,2013,modenas,123
+522,2013,moto guzzi,52
+523,2013,norton,20
+524,2013,pgo,374
+525,2013,paijifa,6
+526,2013,peugeot,29
+527,2013,piaggio,8298
+528,2013,regal-raptor,22
+529,2013,rieju,134
+530,2013,royal enfield,112
+531,2013,sachs,149
+532,2013,sacin,46
+533,2013,sang yang,5
+534,2013,sanyang,60
+535,2013,sipstar,0
+536,2013,suzuki,6771
+537,2013,sym,4142
+538,2013,tgb,0
+539,2013,tgb,0
+540,2013,tiger,6
+541,2013,triumph,493
+542,2013,tvs,106
+543,2013,vespa,3446
+544,2013,vincent,0
+545,2013,yamaha,47390
+546,2013,zipstar,8
+547,2013,zongshen,199
+548,2013,others,23
+549,2014,adiva,221
+550,2014,aprilia,1451
+551,2014,bmw,1950
+552,2014,bsa,22
+553,2014,bajaj,2745
+554,2014,benelli,20
+555,2014,bimota,8
+556,2014,cagiva,59
+557,2014,can-am,42
+558,2014,chunlan,0
+559,2014,cosa,23
+560,2014,cpi,64
+561,2014,daelim,1573
+562,2014,derbi,72
+563,2014,ducati,1369
+564,2014,emax,0
+565,2014,gas gas,5
+566,2014,harley davidson,1883
+567,2014,hartford,0
+568,2014,honda,54633
+569,2014,husqvarna,132
+570,2014,hyosung,65
+571,2014,italjet,5
+572,2014,ktm,1648
+573,2014,kawasaki,3070
+574,2014,keeway,131
+575,2014,kymco,1208
+576,2014,lambretta,21
+577,2014,lml,247
+578,2014,mv agusta,85
+579,2014,mv augusta,0
+580,2014,megelli,82
+581,2014,mle,127
+582,2014,modenas,112
+583,2014,moto guzzi,63
+584,2014,norton,21
+585,2014,pgo,402
+586,2014,paijifa,6
+587,2014,peugeot,55
+588,2014,piaggio,8126
+589,2014,regal-raptor,20
+590,2014,rieju,136
+591,2014,royal enfield,124
+592,2014,sachs,135
+593,2014,sacin,48
+594,2014,sang yang,0
+595,2014,sanyang,44
+596,2014,sipstar,0
+597,2014,suzuki,6442
+598,2014,sym,4479
+599,2014,tgb,0
+600,2014,tgb,0
+601,2014,tiger,5
+602,2014,triumph,575
+603,2014,tvs,104
+604,2014,vespa,3303
+605,2014,vincent,0
+606,2014,yamaha,47651
+607,2014,zipstar,5
+608,2014,zongshen,175
+609,2014,others,34
+610,2015,a-bike,6
+611,2015,adiva,393
+612,2015,aprilia,1414
+613,2015,bmw,2319
+614,2015,bsa,21
+615,2015,bajaj,2666
+616,2015,benelli,15
+617,2015,bimota,8
+618,2015,cagiva,52
+619,2015,can-am,46
+620,2015,chunlan,0
+621,2015,cosa,21
+622,2015,cpi,59
+623,2015,daelim,1456
+624,2015,derbi,68
+625,2015,ducati,1457
+626,2015,emax,0
+627,2015,gas gas,0
+628,2015,harley davidson,1955
+629,2015,hartford,0
+630,2015,honda,53256
+631,2015,husqvarna,124
+632,2015,hyosung,31
+633,2015,indian,18
+634,2015,italjet,5
+635,2015,ktm,1991
+636,2015,kawasaki,3095
+637,2015,keeway,135
+638,2015,kymco,1351
+639,2015,lambretta,22
+640,2015,lml,178
+641,2015,mv agusta,115
+642,2015,mv augusta,0
+643,2015,megelli,75
+644,2015,mle,125
+645,2015,modenas,93
+646,2015,moto guzzi,68
+647,2015,norton,21
+648,2015,pgo,447
+649,2015,paijifa,6
+650,2015,peugeot,55
+651,2015,piaggio,7825
+652,2015,regal-raptor,19
+653,2015,rieju,138
+654,2015,royal enfield,122
+655,2015,sachs,108
+656,2015,sacin,48
+657,2015,sang yang,0
+658,2015,sanyang,41
+659,2015,sipstar,0
+660,2015,suzuki,6387
+661,2015,sym,4480
+662,2015,tgb,0
+663,2015,tgb,0
+664,2015,tiger,5
+665,2015,triumph,662
+666,2015,tvs,98
+667,2015,vespa,3196
+668,2015,victory,8
+669,2015,vincent,0
+670,2015,yamaha,47389
+671,2015,zipstar,0
+672,2015,zongshen,168
+673,2015,others,39
+674,2016,a-bike,6
+675,2016,adiva,569
+676,2016,aprilia,1379
+677,2016,bmw,2690
+678,2016,bsa,0
+679,2016,bajaj,2461
+680,2016,benelli,13
+681,2016,bimota,8
+682,2016,cagiva,45
+683,2016,can-am,47
+684,2016,chunlan,0
+685,2016,cosa,17
+686,2016,cpi,45
+687,2016,daelim,1336
+688,2016,derbi,64
+689,2016,ducati,1520
+690,2016,emax,0
+691,2016,gas gas,0
+692,2016,harley davidson,2017
+693,2016,hartford,0
+694,2016,honda,52246
+695,2016,husqvarna,107
+696,2016,hyosung,13
+697,2016,indian,23
+698,2016,italjet,5
+699,2016,jianshe,20
+700,2016,ktm,2291
+701,2016,kawasaki,2987
+702,2016,keeway,140
+703,2016,kymco,1465
+704,2016,lambretta,24
+705,2016,lml,143
+706,2016,mv agusta,143
+707,2016,megelli,64
+708,2016,mle,124
+709,2016,modenas,71
+710,2016,moto guzzi,85
+711,2016,norton,21
+712,2016,pgo,465
+713,2016,paijifa,5
+714,2016,peugeot,54
+715,2016,piaggio,7391
+716,2016,qingqi,5
+717,2016,regal-raptor,17
+718,2016,rieju,140
+719,2016,royal enfield,120
+720,2016,sachs,98
+721,2016,sacin,46
+722,2016,sang yang,0
+723,2016,sanyang,38
+724,2016,scomadi,103
+725,2016,suzuki,6277
+726,2016,sym,4471
+727,2016,tgb,17
+728,2016,tiger,0
+729,2016,triumph,716
+730,2016,tvs,96
+731,2016,vespa,3044
+732,2016,victory,13
+733,2016,yamaha,47503
+734,2016,zipstar,0
+735,2016,zongshen,190
+736,2016,others,54
+737,2017,a-bike,5
+738,2017,adiva,758
+739,2017,aprilia,1342
+740,2017,bmw,2890
+741,2017,bsa,21
+742,2017,bajaj,2344
+743,2017,benelli,9
+744,2017,bimota,8
+745,2017,cagiva,39
+746,2017,can-am,47
+747,2017,chunlan,0
+748,2017,cosa,10
+749,2017,cpi,33
+750,2017,daelim,1209
+751,2017,derbi,50
+752,2017,ducati,1537
+753,2017,emax,0
+754,2017,gas gas,0
+755,2017,harley davidson,2090
+756,2017,hartford,0
+757,2017,honda,50118
+758,2017,husqvarna,98
+759,2017,hyosung,10
+760,2017,indian,31
+761,2017,italjet,5
+762,2017,jianshe,23
+763,2017,ktm,2557
+764,2017,kawasaki,2925
+765,2017,keeway,141
+766,2017,kymco,1536
+767,2017,lambretta,27
+768,2017,lexmoto,47
+769,2017,lml,116
+770,2017,mv agusta,179
+771,2017,megelli,52
+772,2017,mle,119
+773,2017,modenas,55
+774,2017,moto guzzi,94
+775,2017,norton,27
+776,2017,pgo,464
+777,2017,paijifa,5
+778,2017,peugeot,48
+779,2017,piaggio,6962
+780,2017,qingqi,8
+781,2017,regal-raptor,16
+782,2017,rieju,134
+783,2017,royal enfield,130
+784,2017,sachs,62
+785,2017,sacin,45
+786,2017,sang yang,0
+787,2017,sanyang,27
+788,2017,scomadi,137
+789,2017,suzuki,6076
+790,2017,sym,4598
+791,2017,tgb,35
+792,2017,tiger,0
+793,2017,triumph,841
+794,2017,tvs,94
+795,2017,vespa,2775
+796,2017,victory,18
+797,2017,yamaha,48664
+798,2017,zipstar,0
+799,2017,zongshen,194
+800,2017,others,31

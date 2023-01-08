@@ -1,0 +1,1636 @@
+,motor_name,motor_price,Brand,model,engine_cap,classification,type_of_vehicle
+0,BMW R1250RT,68000,bmw,BMW R1250RT,1254,Class 2,Sport Tourers
+1,Honda VFR800X CrossRunner,16800,honda,Honda VFR800X CrossRunner,782,Class 2,Sport Tourers
+2,Yamaha XSR900,28888,yamaha,Yamaha XSR900,847,Class 2,Street Bikes
+3,Honda PCX150,9222,honda,Honda PCX150,153,Class 2B,Scooters
+4,Honda Shadow 400,12800,honda,Honda Shadow 400,398,Class 2A,Cruiser
+5,Yamaha FJR1300,12500,yamaha,Yamaha FJR1300,1298,Class 2,Sport Tourers
+6,Vespa LX150 I.E.,3999,vespa,Vespa LX150 I.E.,155,Class 2B,Scooters
+7,Honda NT700V Deauville,12500,honda,Honda NT700V Deauville,680,Class 2,Sport Tourers
+8,Yamaha Nmax 155,13800,yamaha,Yamaha Nmax 155,155,Class 2B,Scooters
+9,KTM 1290 Super Adventure,18800,ktm,KTM 1290 Super Adventure,1301,Class 2,Sport Tourers
+10,KTM 390 Duke,4888,ktm,KTM 390 Duke,373,Class 2A,Street Bikes
+11,Vespa GTS 300 Supertech HPE,21800,vespa,Vespa GTS 300 Supertech HPE,278,Class 2A,Scooters
+12,MV Agusta Dragster 800 RC,49888,mv agusta,MV Agusta Dragster 800 RC,798,Class 2,Street Bikes
+13,Harley Davidson Fat Bob 114,34888,harley davidson,Harley Davidson Fat Bob 114,1868,Class 2,Cruiser
+14,Honda CB400 Super 4 Bold'or,14588,honda,Honda CB400 Super 4 Bold'or,399,Class 2A,Street Bikes
+15,Royal Enfield Bullet 500,10500,royal enfield,Royal Enfield Bullet 500,499,Class 2,Street Bikes
+16,Yamaha FZ8-S,13500,yamaha,Yamaha FZ8-S,779,Class 2,Street Bikes
+17,Aprilia Dorsoduro 1200 ABS,9800,aprilia,Aprilia Dorsoduro 1200 ABS,1197,Class 2,Super Motards
+18,Royal Enfield Meteor 350,16588,royal enfield,Royal Enfield Meteor 350,350,Class 2A,Street Bikes
+19,Honda CBF150,3800,honda,Honda CBF150,149,Class 2B,Street Bikes
+20,SYM Joyride S200i,9300,sym,SYM Joyride S200i,175,Class 2B,Scooters
+21,Honda CB150R ExMotion,10800,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+22,Yamaha XSR700,29500,yamaha,Yamaha XSR700,689,Class 2,Street Bikes
+23,Ducati Diavel,27000,ducati,Ducati Diavel,1198,Class 2,Street Bikes
+24,Kawasaki Z1000 ABS,12888,kawasaki,Kawasaki Z1000 ABS,1043,Class 2,Street Bikes
+25,Yamaha XSR900,21800,yamaha,Yamaha XSR900,847,Class 2,Street Bikes
+26,Yamaha MT-15 Xabre,8900,yamaha,Yamaha MT-15 Xabre,150,Class 2B,Street Bikes
+27,Suzuki GSX-R1000,4500,suzuki,Suzuki GSX-R1000,988,Class 2,Sport Bikes
+28,MV Agusta Dragster 800 RC,23888,mv agusta,MV Agusta Dragster 800 RC,798,Class 2,Street Bikes
+29,Royal Enfield Meteor 350,17888,royal enfield,Royal Enfield Meteor 350,350,Class 2A,Street Bikes
+30,Honda CB150R ExMotion,9288,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+31,Honda Forza 300,18888,honda,Honda Forza 300,279,Class 2A,Scooters
+32,SYM Joyride 200i Evo,4800,sym,SYM Joyride 200i Evo,171,Class 2B,Scooters
+33,Yamaha YZF-R15,10888,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+34,Yamaha Aerox 155,11888,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+35,SYM GTS 200,13800,sym,SYM GTS 200,172,Class 2B,Scooters
+36,Ducati Superbike 899 Panigale,22800,ducati,Ducati Superbike 899 Panigale,898,Class 2,Sport Bikes
+37,SYM HD2 200I,5500,sym,SYM HD2 200I,172,Class 2B,Scooters
+38,Suzuki GSX-R1300 Hayabusa,13500,suzuki,Suzuki GSX-R1300 Hayabusa,1299,Class 2,Sport Bikes
+39,Kymco Downtown 200I,5700,kymco,Kymco Downtown 200I,199,Class 2B,Scooters
+40,Honda PCX150,3388,honda,Honda PCX150,153,Class 2B,Scooters
+41,BMW R1200GS Adventure,45800,bmw,BMW R1200GS Adventure,1170,Class 2,Sport Tourers
+42,Honda CB400 Super 4 Spec 3,6000,honda,Honda CB400 Super 4 Spec 3,399,Class 2A,Street Bikes
+43,SYM Excel II 150,7300,sym,SYM Excel II 150,150,Class 2B,Scooters
+44,BMW G310GS,13888,bmw,BMW G310GS,313,Class 2A,Sport Tourers
+45,Yamaha FZ8-S,8500,yamaha,Yamaha FZ8-S,779,Class 2A,Street Bikes
+46,BMW S1000XR,23500,bmw,BMW S1000XR,999,Class 2,Sport Tourers
+47,Yamaha YZF-R15,13800,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+48,KTM 390 Duke,3800,ktm,KTM 390 Duke,373,Class 2A,Street Bikes
+49,Suzuki GSX-S1000,12800,suzuki,Suzuki GSX-S1000,999,Class 2,Street Bikes
+50,Honda Forza 300,14800,honda,Honda Forza 300,279,Class 2A,Scooters
+51,Honda CB400 Super 4 Revo,7800,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+52,Kawasaki ZX10R Ninja ABS,13800,kawasaki,Kawasaki ZX10R Ninja ABS,998,Class 2,Sport Bikes
+53,Suzuki V-Strom 1000 ABS Adventure,10800,suzuki,Suzuki V-Strom 1000 ABS Adventure,1037,Class 2,Sport Tourers
+54,Yamaha Tmax 530 DX,25888,yamaha,Yamaha Tmax 530 DX,530,Class 2,Scooters
+55,Honda CB400X,9888,honda,Honda CB400X,399,Class 2A,Sport Tourers
+56,Yamaha Aerox 155,10800,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+57,Yamaha YZF-R15,9800,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+58,Yamaha Jupiter MX135,8000,yamaha,Yamaha Jupiter MX135,134,Class 2B,Cubs
+59,Honda CB400 Super 4 Revo,25800,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+60,Honda CB400X,5877,honda,Honda CB400X,399,Class 2A,Sport Tourers
+61,Yamaha MT-03,9888,yamaha,Yamaha MT-03,321,Class 2A,Street Bikes
+62,SYM Jet 14 200i ABS,9577,sym,SYM Jet 14 200i ABS,169,Class 2B,Scooters
+63,Yamaha FJR1300,5800,yamaha,Yamaha FJR1300,1298,Class 2,Sport Tourers
+64,Yamaha MT-15,11577,yamaha,Yamaha MT-15,155,Class 2B,Street Bikes
+65,Suzuki Burgman 200,12800,suzuki,Suzuki Burgman 200,200,Class 2B,Scooters
+66,Honda ST1300A Pan-European,10888,honda,Honda ST1300A Pan-European,1261,Class 2,Sport Tourers
+67,Royal Enfield Interceptor,19588,royal enfield,Royal Enfield Interceptor,648,Class 2,Street Bikes
+68,Honda CB200X,14588,honda,Honda CB200X,184,Class 2B,Sport Tourers
+69,Honda CB150R ExMotion,13888,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+70,Yamaha MW125 Tricity,4800,yamaha,Yamaha MW125 Tricity,125,Class 2B,Three Wheeler
+71,Yamaha FJR1300,7500,yamaha,Yamaha FJR1300,1298,Class 2,Sport Tourers
+72,Honda CB1000R,10800,honda,Honda CB1000R,998,Class 2,Street Bikes
+73,Vespa Sprint Sport 150 ABS,19500,vespa,Vespa Sprint Sport 150 ABS,155,Class 2B,Scooters
+74,Suzuki Burgman 200 ABS,8900,suzuki,Suzuki Burgman 200 ABS,200,Class 2B,Scooters
+75,Yamaha YZF-R3,16888,yamaha,Yamaha YZF-R3,321,Class 2A,Sport Bikes
+76,Yamaha FZ8-N,16500,yamaha,Yamaha FZ8-N,779,Class 2,Street Bikes
+77,Honda CB400X,13388,honda,Honda CB400X,399,Class 2A,Sport Tourers
+78,Yamaha MT-09 Tracer GT,31800,yamaha,Yamaha MT-09 Tracer GT,847,Class 2,Street Bikes
+79,Royal Enfield Classic 350,18800,royal enfield,Royal Enfield Classic 350,349,Class 2A,Street Bikes
+80,Yamaha YBR125,7500,yamaha,Yamaha YBR125,124,Class 2B,Street Bikes
+81,Ducati Scrambler 1100 Sport,32800,ducati,Ducati Scrambler 1100 Sport,1079,Class 2,Street Bikes
+82,Vespa Sprint Sport 150 ABS,20800,vespa,Vespa Sprint Sport 150 ABS,155,Class 2B,Scooters
+83,Ducati Streetfighter 848,22777,ducati,Ducati Streetfighter 848,849,Class 2,Street Bikes
+84,Honda Adv 150,16977,honda,Honda Adv 150,149,Class 2B,Scooters
+85,Honda Monkey 125,11577,honda,Honda Monkey 125,125,Class 2B,Street Bikes
+86,Honda NC750XA,6000,honda,Honda NC750XA,745,Class 2,Sport Tourers
+87,Yamaha Vixion R 155,9777,yamaha,Yamaha Vixion R 155,155,Class 2B,Street Bikes
+88,Honda CB1000RA,23777,honda,Honda CB1000RA,998,Class 2,Street Bikes
+89,Honda X-Adv 750,33777,honda,Honda X-Adv 750,745,Class 2,Scooters
+90,MV Agusta F3 800,26877,mv agusta,MV Agusta F3 800,798,Class 2,Sport Bikes
+91,BMW R18 Classic,57800,bmw,BMW R18 Classic,1802,Class 2,Cruiser
+92,Piaggio X10 350,3500,piaggio,Piaggio X10 350,330,Class 2A,Scooters
+93,Ducati Multistrada 950,43277,ducati,Ducati Multistrada 950,937,Class 2,Sport Tourers
+94,Kawasaki ZX14R Ninja,9800,kawasaki,Kawasaki ZX14R Ninja,1441,Class 2,Sport Bikes
+95,Yamaha MT-03,18500,yamaha,Yamaha MT-03,321,Class 2A,Street Bikes
+96,Honda CB400X,11500,honda,Honda CB400X,399,Class 2A,Sport Tourers
+97,Yamaha Aerox 155,13000,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+98,Suzuki GSX-R1300 Hayabusa,23000,suzuki,Suzuki GSX-R1300 Hayabusa,1340,Class 2,Sport Bikes
+99,Yamaha FZN150i,6300,yamaha,Yamaha FZN150i,149,Class 2B,Street Bikes
+100,Yamaha MT-09,9800,yamaha,Yamaha MT-09,847,Class 2,Street Bikes
+101,Yamaha MT-15 Xabre,8000,yamaha,Yamaha MT-15 Xabre,150,Class 2B,Street Bikes
+102,Yamaha MT-15 Xabre,8800,yamaha,Yamaha MT-15 Xabre,150,Class 2B,Street Bikes
+103,Vespa SXL150,16000,vespa,Vespa SXL150,149,Class 2B,Scooters
+104,ZongShen ZS200 Zone One S,6910,zongshen,ZongShen ZS200 Zone One S,199,Class 2B,Street Bikes
+105,Kawasaki Versys-X 300,20000,kawasaki,Kawasaki Versys-X 300,296,Class 2A,Sport Tourers
+106,Honda CB400X,4500,honda,Honda CB400X,399,Class 2A,Sport Tourers
+107,BMW R NineT Scrambler,48800,bmw,BMW R NineT Scrambler,1170,Class 2,Street Bikes
+108,Yamaha FZS150,10200,yamaha,Yamaha FZS150,149,Class 2B,Street Bikes
+109,Honda CB190R,6900,honda,Honda CB190R,184,Class 2B,Street Bikes
+110,Yamaha FZ150I,8500,yamaha,Yamaha FZ150I,150,Class 2B,Street Bikes
+111,Yamaha Nmax 155,15309,yamaha,Yamaha Nmax 155,155,Class 2B,Scooters
+112,Yamaha TW200,7500,yamaha,Yamaha TW200,196,Class 2B,Scrambler/Dirt Bike
+113,Honda CBR150R,7950,honda,Honda CBR150R,150,Class 2B,Sport Bikes
+114,Honda Wave 125,5800,honda,Honda Wave 125,125,Class 2B,Cubs
+115,Honda CB400X,6800,honda,Honda CB400X,399,Class 2A,Sport Tourers
+116,Honda CBF190X Fighthawk,7500,honda,Honda CBF190X Fighthawk,184,Class 2B,Sport Tourers
+117,Honda Forza 300,18500,honda,Honda Forza 300,279,Class 2A,Scooters
+118,Honda PCX150,9300,honda,Honda PCX150,153,Class 2B,Scooters
+119,Yamaha FZ16,7500,yamaha,Yamaha FZ16,153,Class 2B,Street Bikes
+120,Yamaha YZF-R6,14800,yamaha,Yamaha YZF-R6,599,Class 2,Sport Bikes
+121,Honda CB150R ExMotion,10800,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+122,Honda Forza 300,14999,honda,Honda Forza 300,279,Class 2A,Scooters
+123,MV Agusta Turismo Veloce Lusso 800,38888,mv agusta,MV Agusta Turismo Veloce Lusso 800,798,Class 2,Sport Tourers
+124,Yamaha MT-10 SP,32800,yamaha,Yamaha MT-10 SP,998,Class 2,Street Bikes
+125,Honda Adv 150,12288,honda,Honda Adv 150,149,Class 2B,Scooters
+126,Mutt GT-SS 250,16288,mutt,Mutt GT-SS 250,250,Class 2A,Street Bikes
+127,Yamaha WR155R,13800,yamaha,Yamaha WR155R,155,Class 2B,Scrambler/Dirt Bike
+128,Honda CB400 Super 4 Project Big,5800,honda,Honda CB400 Super 4 Project Big,399,Class 2A,Street Bikes
+129,Yamaha FZ16 ST,4000,yamaha,Yamaha FZ16 ST,153,Class 2B,Street Bikes
+130,Harley Davidson Fat Bob 114,49900,harley davidson,Harley Davidson Fat Bob 114,1868,Class 2,Cruiser
+131,Kawasaki Z750,11200,kawasaki,Kawasaki Z750,748,Class 2,Street Bikes
+132,Honda CB350 Hness,17500,honda,Honda CB350 Hness,348,Class 2A,Street Bikes
+133,MV Agusta Dragster 800,22999,mv agusta,MV Agusta Dragster 800,798,Class 2,Street Bikes
+134,Honda CB400 Super 4 Revo,18500,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+135,Yamaha FZN150i,5800,yamaha,Yamaha FZN150i,149,Class 2B,Street Bikes
+136,Lambretta V200 Special,10800,lambretta,Lambretta V200 Special,169,Class 2B,Scooters
+137,Yamaha Aerox 155,13000,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+138,Yamaha Sniper 155,14500,yamaha,Yamaha Sniper 155,155,Class 2B,Cubs
+139,Honda NC700XA,17777,honda,Honda NC700XA,670,Class 2,Sport Tourers
+140,Yamaha FZ8-N,8800,yamaha,Yamaha FZ8-N,779,Class 2,Street Bikes
+141,KTM 350 EXC-F,8000,ktm,KTM 350 EXC-F,347,Class 2A,Scrambler/Dirt Bike
+142,Kawasaki Z650,19800,kawasaki,Kawasaki Z650,649,Class 2,Street Bikes
+143,Honda GL1800A Goldwing,32000,honda,Honda GL1800A Goldwing,1832,Class 2,Sport Tourers
+144,MV Agusta F3 800,17000,mv agusta,MV Agusta F3 800,798,Class 2,Sport Bikes
+145,Honda CB400X,5999,honda,Honda CB400X,399,Class 2A,Sport Tourers
+146,Honda RS150R,7500,honda,Honda RS150R,149,Class 2B,Cubs
+147,BMW R1200GS Adventure,32800,bmw,BMW R1200GS Adventure,1170,Class 2,Sport Tourers
+148,Yamaha XSR155,18500,yamaha,Yamaha XSR155,155,Class 2B,Street Bikes
+149,Yamaha Nmax 155,11888,yamaha,Yamaha Nmax 155,155,Class 2B,Scooters
+150,Honda CB190R Repsol,10300,honda,Honda CB190R Repsol,184,Class 2B,Street Bikes
+151,Peugeot Tweet 150,12999,peugeot,Peugeot Tweet 150,151,Class 2B,Scooters
+152,BMW R1200GS Adventure,16900,bmw,BMW R1200GS Adventure,1170,Class 2,Sport Tourers
+153,Peugeot Tweet 150,14500,peugeot,Peugeot Tweet 150,151,Class 2B,Scooters
+154,Yamaha MT-15 Xabre,8800,yamaha,Yamaha MT-15 Xabre,150,Class 2B,Street Bikes
+155,Yamaha Aerox 155,12500,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+156,Yamaha Aerox 155,10800,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+157,Honda CB400 Super 4 Spec 3,6800,honda,Honda CB400 Super 4 Spec 3,399,Class 2A,Street Bikes
+158,Honda CB190X Tourism,9500,honda,Honda CB190X Tourism,184,Class 2B,Sport Tourers
+159,Honda VFR1200X Crosstourer,14800,honda,Honda VFR1200X Crosstourer,1237,Class 2,Sport Tourers
+160,Kawasaki ZG1400GTR Concours,28888,kawasaki,Kawasaki ZG1400GTR Concours,1352,Class 2,Sport Tourers
+161,Kawasaki Versys 1000,17000,kawasaki,Kawasaki Versys 1000,1043,Class 2,Sport Tourers
+162,Honda Adv 150,15700,honda,Honda Adv 150,149,Class 2B,Scooters
+163,KTM 200 Duke,14700,ktm,KTM 200 Duke,200,Class 2B,Street Bikes
+164,Honda Forza 300,18500,honda,Honda Forza 300,279,Class 2A,Scooters
+165,Honda CB400X,7888,honda,Honda CB400X,399,Class 2A,Sport Tourers
+166,Royal Enfield Interceptor,20588,royal enfield,Royal Enfield Interceptor,648,Class 2,Street Bikes
+167,Honda Adv 150,14288,honda,Honda Adv 150,149,Class 2B,Scooters
+168,Honda CBR1000RR,42888,honda,Honda CBR1000RR,1000,Class 2,Sport Bikes
+169,Yamaha FZ16 ST,1500,yamaha,Yamaha FZ16 ST,153,Class 2B,Street Bikes
+170,Yamaha Jupiter MX135,1200,yamaha,Yamaha Jupiter MX135,134,Class 2B,Cubs
+171,Royal Alloy TG300,16888,royal alloy,Royal Alloy TG300,278,Class 2A,Scooters
+172,Honda CB400 Super 4 Revo,12500,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+173,Yamaha XSR900,16800,yamaha,Yamaha XSR900,847,Class 2,Street Bikes
+174,BMW R1200R,26800,bmw,BMW R1200R,1170,Class 2,Street Bikes
+175,BMW R1200GS,53800,bmw,BMW R1200GS,1170,Class 2,Sport Tourers
+176,Yamaha Nmax 155,13800,yamaha,Yamaha Nmax 155,155,Class 2B,Scooters
+177,Honda CB190X Tourism,9800,honda,Honda CB190X Tourism,184,Class 2B,Sport Tourers
+178,Yamaha YZF-R15,15800,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+179,Yamaha Xmax 300,20500,yamaha,Yamaha Xmax 300,292,Class 2A,Scooters
+180,Honda CB400X,13500,honda,Honda CB400X,399,Class 2A,Sport Tourers
+181,Harley Davidson Roadster,29500,harley davidson,Harley Davidson Roadster,1202,Class 2,Cruiser
+182,BMW S1000R,35500,bmw,BMW S1000R,999,Class 2,Street Bikes
+183,Yamaha YZF-R15,5999,yamaha,Yamaha YZF-R15,150,Class 2B,Sport Bikes
+184,Harley Davidson Street Bob,34888,harley davidson,Harley Davidson Street Bob,1745,Class 2,Cruiser
+185,Yamaha YZF-R1,6500,yamaha,Yamaha YZF-R1,998,Class 2,Sport Bikes
+186,Honda CB400X,13500,honda,Honda CB400X,399,Class 2A,Sport Tourers
+187,Yamaha MX King 150,11800,yamaha,Yamaha MX King 150,150,Class 2B,Cubs
+188,Honda CB150R ExMotion,12800,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+189,Yamaha Sniper 150,7800,yamaha,Yamaha Sniper 150,150,Class 2B,Cubs
+190,Honda CB400X,13000,honda,Honda CB400X,399,Class 2A,Sport Tourers
+191,Honda CB190R,7800,honda,Honda CB190R,184,Class 2B,Street Bikes
+192,Yamaha MT-09,17800,yamaha,Yamaha MT-09,847,Class 2,Street Bikes
+193,BMW R1150RT,8800,bmw,BMW R1150RT,1130,Class 2,Sport Tourers
+194,Honda CB400 Super 4 Revo,9800,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+195,Suzuki Burgman 200 ABS,5800,suzuki,Suzuki Burgman 200 ABS,200,Class 2B,Scooters
+196,Honda Forza 300,15800,honda,Honda Forza 300,279,Class 2A,Scooters
+197,Honda CB150R ExMotion,9888,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+198,KTM 125 Duke,11800,ktm,KTM 125 Duke,125,Class 2B,Street Bikes
+199,Honda CBR500R,6800,honda,Honda CBR500R,471,Class 2,Sport Bikes
+200,Ducati Scrambler 1100 Sport Pro,36300,ducati,Ducati Scrambler 1100 Sport Pro,1079,Class 2,Street Bikes
+201,Yamaha YBR125,7880,yamaha,Yamaha YBR125,124,Class 2B,Street Bikes
+202,Honda CB400 Super 4 Revo,19800,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+203,Yamaha MT-09 Tracer,14800,yamaha,Yamaha MT-09 Tracer,847,Class 2,Sport Tourers
+204,Yamaha T135 Spark,8288,yamaha,Yamaha T135 Spark,135,Class 2B,Cubs
+205,Honda CBR150R,4800,honda,Honda CBR150R,150,Class 2B,Sport Bikes
+206,Yamaha MT-10,18800,yamaha,Yamaha MT-10,998,Class 2,Street Bikes
+207,Honda CB190X Tourism,9000,honda,Honda CB190X Tourism,184,Class 2B,Sport Tourers
+208,Ducati Hyperstrada 821,10988,ducati,Ducati Hyperstrada 821,821,Class 2,Super Motards
+209,Kawasaki Z800,7500,kawasaki,Kawasaki Z800,806,Class 2,Street Bikes
+210,Honda CB190R,6310,honda,Honda CB190R,184,Class 2B,Street Bikes
+211,Honda VFR1200X Crosstourer,19800,honda,Honda VFR1200X Crosstourer,1237,Class 2,Sport Tourers
+212,BMW R18 Classic,46800,bmw,BMW R18 Classic,1802,Class 2,Cruiser
+213,Ducati Scrambler Sixty2,20000,ducati,Ducati Scrambler Sixty2,399,Class 2,Street Bikes
+214,BMW R NineT Urban GS,55800,bmw,BMW R NineT Urban GS,1170,Class 2,Sport Tourers
+215,Royal Enfield Continental GT,17277,royal enfield,Royal Enfield Continental GT,648,Class 2,Street Bikes
+216,KTM 200 Duke,17277,ktm,KTM 200 Duke,200,Class 2B,Street Bikes
+217,Honda CB400 Super 4 Revo,16800,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+218,Ducati Monster 1200,19500,ducati,Ducati Monster 1200,1198,Class 2,Street Bikes
+219,Indian Springfield Dark Horse,39000,indian,Indian Springfield Dark Horse,1811,Class 2,Cruiser
+220,ZongShen ZS200 Zone One S,7910,zongshen,ZongShen ZS200 Zone One S,199,Class 2B,Street Bikes
+221,CFMoto 800MT Touring,34888,cfmoto,CFMoto 800MT Touring,799,Class 2,Sport Tourers
+222,Yamaha YZF-R3,13800,yamaha,Yamaha YZF-R3,321,Class 2A,Sport Bikes
+223,Honda CBR1000RA,27800,honda,Honda CBR1000RA,1000,Class 2,Sport Bikes
+224,Honda VFR800X CrossRunner,13800,honda,Honda VFR800X CrossRunner,782,Class 2,Sport Tourers
+225,BMW G310GS,26800,bmw,BMW G310GS,313,Class 2A,Sport Tourers
+226,KTM 1190 Adventure R,19800,ktm,KTM 1190 Adventure R,1195,Class 2,Sport Tourers
+227,Yamaha MT-09 Tracer,13800,yamaha,Yamaha MT-09 Tracer,847,Class 2,Sport Tourers
+228,Honda CBR600RR,16800,honda,Honda CBR600RR,599,Class 2,Sport Bikes
+229,Harley Davidson FLSTSB Softtail Cross Bones,29999,harley davidson,Harley Davidson FLSTSB Softtail Cross Bones,1584,Class 2,Cruiser
+230,Ducati Scrambler Sixty2,19800,ducati,Ducati Scrambler Sixty2,399,Class 2A,Street Bikes
+231,BMW G310R,23800,bmw,BMW G310R,313,Class 2A,Street Bikes
+232,BMW R1200R,32800,bmw,BMW R1200R,1170,Class 2,Street Bikes
+233,BMW F900R,37800,bmw,BMW F900R,895,Class 2,Street Bikes
+234,Suzuki GSX-R1300 Hayabusa,22800,suzuki,Suzuki GSX-R1300 Hayabusa,1340,Class 2,Sport Bikes
+235,Suzuki DRZ400SM,13800,suzuki,Suzuki DRZ400SM,398,Class 2A,Super Motards
+236,Yamaha FZN150i,6800,yamaha,Yamaha FZN150i,149,Class 2B,Street Bikes
+237,Honda CB190X Tourism,9800,honda,Honda CB190X Tourism,184,Class 2B,Sport Tourers
+238,Moto Guzzi V7 III Carbon Dark,23800,moto guzzi,Moto Guzzi V7 III Carbon Dark,744,Class 2,Street Bikes
+239,Yamaha YZF-R15,15000,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+240,Piaggio Fly 150,8800,piaggio,Piaggio Fly 150,151,Class 2B,Scooters
+241,Kawasaki Z125,9888,kawasaki,Kawasaki Z125,125,Class 2B,Street Bikes
+242,Honda CB190R,8500,honda,Honda CB190R,184,Class 2B,Street Bikes
+243,Yamaha MT-15,15200,yamaha,Yamaha MT-15,155,Class 2B,Street Bikes
+244,KTM 390 Duke,4700,ktm,KTM 390 Duke,373,Class 2A,Street Bikes
+245,Honda Rebel 500,25000,honda,Honda Rebel 500,471,Class 2,Street Bikes
+246,Honda VFR1200X Crosstourer,10800,honda,Honda VFR1200X Crosstourer,1237,Class 2,Sport Tourers
+247,Honda CB400F,5300,honda,Honda CB400F,399,Class 2A,Street Bikes
+248,Ducati Scrambler Nightshift,31888,ducati,Ducati Scrambler Nightshift,803,Class 2,Street Bikes
+249,Honda Adv 150,16288,honda,Honda Adv 150,149,Class 2B,Scooters
+250,Kawasaki Z1000SX,8899,kawasaki,Kawasaki Z1000SX,1043,Class 2,Sport Bikes
+251,Honda CBR150R,6888,honda,Honda CBR150R,150,Class 2B,Sport Bikes
+252,Yamaha MT-15,11388,yamaha,Yamaha MT-15,155,Class 2B,Street Bikes
+253,Yamaha Aerox 155,12388,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+254,Royal Enfield Himalayan,15888,royal enfield,Royal Enfield Himalayan,411,Class 2,Street Bikes
+255,Yamaha Tmax 530,12800,yamaha,Yamaha Tmax 530,530,Class 2,Scooters
+256,Triumph Speed Twin,36800,triumph,Triumph Speed Twin,1197,Class 2,Street Bikes
+257,Yamaha FZ8-S,9800,yamaha,Yamaha FZ8-S,779,Class 2,Street Bikes
+258,Yamaha Nmax 155,10888,yamaha,Yamaha Nmax 155,155,Class 2B,Scooters
+259,Honda CB400 Super 4 Spec 3,6588,honda,Honda CB400 Super 4 Spec 3,399,Class 2A,Street Bikes
+260,Lambretta V200 Special,12800,lambretta,Lambretta V200 Special,169,Class 2B,Scooters
+261,BMW K1300GT,29500,bmw,BMW K1300GT,1293,Class 2,Sport Tourers
+262,Honda CB190SS,15800,honda,Honda CB190SS,184,Class 2B,Street Bikes
+263,Honda CB400X,22950,honda,Honda CB400X,399,Class 2A,Sport Tourers
+264,Honda Adv 150,13800,honda,Honda Adv 150,149,Class 2B,Scooters
+265,Harley Davidson Fat Boy 114,56900,harley davidson,Harley Davidson Fat Boy 114,1868,Class 2,Cruiser
+266,Honda CB400 Super 4 Revo,19000,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+267,SYM Jet 14 200i ABS,8800,sym,SYM Jet 14 200i ABS,169,Class 2B,Scooters
+268,Vespa SPRI,10888,vespa,Vespa SPRI,150,Class 2B,Scooters
+269,Suzuki GSX-R1000,17888,suzuki,Suzuki GSX-R1000,999,Class 2,Sport Bikes
+270,Yamaha Xmax 300,20900,yamaha,Yamaha Xmax 300,292,Class 2A,Scooters
+271,BMW G310GS,15888,bmw,BMW G310GS,313,Class 2A,Sport Tourers
+272,BMW R1200CL,17000,bmw,BMW R1200CL,1170,Class 2,Cruiser
+273,BMW R1200ST,17500,bmw,BMW R1200ST,1170,Class 2,Sport Tourers
+274,BMW F800GS,22800,bmw,BMW F800GS,798,Class 2,Sport Tourers
+275,Yamaha XT1200Z Super Tenere,16800,yamaha,Yamaha XT1200Z Super Tenere,1199,Class 2,Sport Tourers
+276,Honda VFR800X CrossRunner,13800,honda,Honda VFR800X CrossRunner,782,Class 2,Sport Tourers
+277,Honda CB400 Super 4 Revo,19500,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+278,Honda GL1800A Goldwing,38800,honda,Honda GL1800A Goldwing,1832,Class 2,Sport Tourers
+279,Honda CB150R ExMotion,16700,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+280,Daelim XQ250,13500,daelim,Daelim XQ250,247,Class 2A,Scooters
+281,Honda CBR1000RR,14500,honda,Honda CBR1000RR,999,Class 2,Sport Bikes
+282,Honda VFR800X CrossRunner,15888,honda,Honda VFR800X CrossRunner,782,Class 2,Sport Tourers
+283,Yamaha XSR155,16800,yamaha,Yamaha XSR155,155,Class 2B,Street Bikes
+284,MV Agusta Brutale 800,29888,mv agusta,MV Agusta Brutale 800,798,Class 2,Street Bikes
+285,Honda NC750X,6200,honda,Honda NC750X,745,Class 2,Sport Tourers
+286,Yamaha MT-15,13800,yamaha,Yamaha MT-15,155,Class 2B,Street Bikes
+287,Honda CB150R ExMotion,13800,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+288,Vespa SPRI,8888,vespa,Vespa SPRI,150,Class 2B,Scooters
+289,Honda CB350 Hness,19500,honda,Honda CB350 Hness,348,Class 2A,Street Bikes
+290,Honda CB150R ExMotion,11500,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+291,Honda RS150R Winner,9500,honda,Honda RS150R Winner,149,Class 2B,Cubs
+292,Honda Adv 150,12800,honda,Honda Adv 150,149,Class 2B,Scooters
+293,Kawasaki ZG1400GTR Concours,25800,kawasaki,Kawasaki ZG1400GTR Concours,1352,Class 2,Sport Tourers
+294,SYM Maxsym 400i,5500,sym,SYM Maxsym 400i,400,Class 2A,Scooters
+295,Ducati Scrambler Mach 2.0,25000,ducati,Ducati Scrambler Mach 2.0,803,Class 2,Street Bikes
+296,MV Agusta Turismo Veloce Lusso 800,41888,mv agusta,MV Agusta Turismo Veloce Lusso 800,798,Class 2,Sport Tourers
+297,Yamaha Aerox 155,11388,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+298,Honda VFR800X CrossRunner,13800,honda,Honda VFR800X CrossRunner,782,Class 2,Sport Tourers
+299,Kawasaki Versys-X 300,16577,kawasaki,Kawasaki Versys-X 300,296,Class 2A,Sport Tourers
+300,Honda CB400F,5800,honda,Honda CB400F,399,Class 2A,Street Bikes
+301,Honda CB400X,11800,honda,Honda CB400X,399,Class 2B,Sport Tourers
+302,Honda CB400 Super 4 Revo,15800,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+303,Yamaha Sniper 150,9300,yamaha,Yamaha Sniper 150,150,Class 2B,Cubs
+304,Kawasaki Z800,6888,kawasaki,Kawasaki Z800,806,Class 2,Street Bikes
+305,Suzuki GSR750,7500,suzuki,Suzuki GSR750,749,Class 2,Street Bikes
+306,Piaggio MP3 Yourban 300,11500,piaggio,Piaggio MP3 Yourban 300,278,Class 2A,Three Wheeler
+307,Kawasaki ZX10R Ninja,47800,kawasaki,Kawasaki ZX10R Ninja,998,Class 2,Sport Bikes
+308,BMW S1000R,18800,bmw,BMW S1000R,999,Class 2,Street Bikes
+309,Honda Wave 125,2100,honda,Honda Wave 125,125,Class 2B,Cubs
+310,Honda Supra GTR150,10500,honda,Honda Supra GTR150,149,Class 2B,Cubs
+311,Honda CB125R,9800,honda,Honda CB125R,125,Class 2B,Street Bikes
+312,KTM 1290 Super Duke R,15888,ktm,KTM 1290 Super Duke R,1301,Class 2,Street Bikes
+313,Yamaha Aerox 155,9300,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+314,Gilera ST200 Runner,2800,gilera,Gilera ST200 Runner,198,Class 2B,Scooters
+315,Suzuki GSX-S1000,13800,suzuki,Suzuki GSX-S1000,999,Class 2,Street Bikes
+316,Ducati SuperSport S,46800,ducati,Ducati SuperSport S,937,Class 2,Sport Bikes
+317,BMW F850GS,30500,bmw,BMW F850GS,853,Class 2,Sport Tourers
+318,Honda CB150R ExMotion,12000,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+319,Ducati Scrambler Nightshift,30800,ducati,Ducati Scrambler Nightshift,803,Class 2,Street Bikes
+320,Yamaha FZ16,6777,yamaha,Yamaha FZ16,153,Class 2B,Street Bikes
+321,SYM Joymax 300i,1700,sym,SYM Joymax 300i,264,Class 2A,Scooters
+322,Yamaha MT-15 Xabre,8500,yamaha,Yamaha MT-15 Xabre,150,Class 2B,Street Bikes
+323,MV Agusta Stradale 800,15500,mv agusta,MV Agusta Stradale 800,798,Class 2,Street Bikes
+324,Honda NC750XA,23800,honda,Honda NC750XA,745,Class 2,Sport Tourers
+325,BMW R18 Classic,56800,bmw,BMW R18 Classic,1802,Class 2,Cruiser
+326,BMW R NineT Scrambler,32800,bmw,BMW R NineT Scrambler,1170,Class 2,Street Bikes
+327,Yamaha X1-R 135,14500,yamaha,Yamaha X1-R 135,135,Class 2B,Cubs
+328,Yamaha Aerox 155,12000,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+329,Honda CRF1000A Africa Twin,22900,honda,Honda CRF1000A Africa Twin,998,Class 2,Sport Tourers
+330,CFMoto 700CL-X Sport,23999,cfmoto,CFMoto 700CL-X Sport,693,Class 2,Street Bikes
+331,Yamaha XA125 Cygnus,2800,yamaha,Yamaha XA125 Cygnus,125,Class 2B,Scooters
+332,Honda CB150R ExMotion,10800,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+333,Honda Adv 150,14500,honda,Honda Adv 150,149,Class 2B,Scooters
+334,Honda PCX150,10500,honda,Honda PCX150,153,Class 2B,Scooters
+335,Honda TA200 Phantom,3000,honda,Honda TA200 Phantom,197,Class 2B,Cruiser
+336,Honda NC750X,13800,honda,Honda NC750X,745,Class 2,Sport Tourers
+337,Lambretta V200 Special,13000,lambretta,Lambretta V200 Special,169,Class 2B,Scooters
+338,BMW R NineT,53000,bmw,BMW R NineT,1170,Class 2,Street Bikes
+339,BMW R NineT,46888,bmw,BMW R NineT,1170,Class 2,Street Bikes
+340,Honda CB400X,8800,honda,Honda CB400X,399,Class 2A,Sport Tourers
+341,Yamaha RXZ,18000,yamaha,Yamaha RXZ,133,Class 2B,Street Bikes
+342,BMW F750GS,44800,bmw,BMW F750GS,853,Class 2,Sport Tourers
+343,Honda Wave 125,11500,honda,Honda Wave 125,125,Class 2B,Cubs
+344,Honda CBR500R,6800,honda,Honda CBR500R,471,Class 2,Sport Bikes
+345,BMW R NineT,49800,bmw,BMW R NineT,1170,Class 2,Street Bikes
+346,BMW F900R,39000,bmw,BMW F900R,895,Class 2,Street Bikes
+347,Yamaha MT-03,9800,yamaha,Yamaha MT-03,321,Class 2A,Street Bikes
+348,SYM GTS 200,3500,sym,SYM GTS 200,172,Class 2B,Scooters
+349,Honda Adv 150,15688,honda,Honda Adv 150,149,Class 2B,Scooters
+350,Yamaha FZN150i,5500,yamaha,Yamaha FZN150i,149,Class 2B,Street Bikes
+351,Honda PCX160,14688,honda,Honda PCX160,156,Class 2B,Scooters
+352,Yamaha Tmax 530,14800,yamaha,Yamaha Tmax 530,530,Class 2,Scooters
+353,BMW S1000R,56800,bmw,BMW S1000R,999,Class 2,Street Bikes
+354,Honda Wave 125,7588,honda,Honda Wave 125,125,Class 2B,Cubs
+355,Honda CB400X,17800,honda,Honda CB400X,399,Class 2A,Sport Tourers
+356,Yamaha YZF-R3,17088,yamaha,Yamaha YZF-R3,321,Class 2A,Sport Bikes
+357,SYM Joyride 200i Evo,7950,sym,SYM Joyride 200i Evo,171,Class 2B,Scooters
+358,SYM Joyride S200i,12800,sym,SYM Joyride S200i,175,Class 2B,Scooters
+359,Honda CB1000RA,13800,honda,Honda CB1000RA,998,Class 2,Street Bikes
+360,Honda CB400 Super 4 Revo,16800,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+361,BMW F800GS,9500,bmw,BMW F800GS,798,Class 2,Sport Tourers
+362,Honda Wave 125,13888,honda,Honda Wave 125,125,Class 2B,Cubs
+363,Yamaha FZ16 ST,7222,yamaha,Yamaha FZ16 ST,153,Class 2B,Street Bikes
+364,Yamaha FZ16 ST,7400,yamaha,Yamaha FZ16 ST,153,Class 2B,Street Bikes
+365,Kawasaki Versys 1000,14800,kawasaki,Kawasaki Versys 1000,1043,Class 2,Sport Tourers
+366,Ducati Hypermotard 796,15800,ducati,Ducati Hypermotard 796,803,Class 2,Super Motards
+367,Yamaha XG250 Tricker,10000,yamaha,Yamaha XG250 Tricker,249,Class 2A,Scrambler/Dirt Bike
+368,Yamaha MT-07,7555,yamaha,Yamaha MT-07,689,Class 2,Street Bikes
+369,Harley Davidson Iron 883,27400,harley davidson,Harley Davidson Iron 883,883,Class 2,Cruiser
+370,Yamaha Xmax 300,17500,yamaha,Yamaha Xmax 300,292,Class 2A,Scooters
+371,Yamaha FZ8-N,4900,yamaha,Yamaha FZ8-N,779,Class 2,Street Bikes
+372,MV Agusta Brutale 800 RR,42888,mv agusta,MV Agusta Brutale 800 RR,798,Class 2,Street Bikes
+373,Honda CB1300SA,12500,honda,Honda CB1300SA,1284,Class 2,Street Bikes
+374,Triumph Tiger 1050,11000,triumph,Triumph Tiger 1050,1050,Class 2,Sport Tourers
+375,Yamaha YZF-R15,7800,yamaha,Yamaha YZF-R15,150,Class 2B,Street Bikes
+376,Ducati Monster 1100S,19500,ducati,Ducati Monster 1100S,1079,Class 2,Street Bikes
+377,Yamaha Nmax 155,17500,yamaha,Yamaha Nmax 155,155,Class 2B,Scooters
+378,Ducati Monster 796,19500,ducati,Ducati Monster 796,803,Class 2,Street Bikes
+379,Harley Davidson Fat Boy 114,59800,harley davidson,Harley Davidson Fat Boy 114,1868,Class 2,Cruiser
+380,Adiva AD3 400,5800,adiva,Adiva AD3 400,399,Class 2A,Three Wheeler
+381,Honda CBF150,6000,honda,Honda CBF150,149,Class 2B,Street Bikes
+382,Kawasaki ZX14R Ninja (Ohlins),18500,kawasaki,Kawasaki ZX14R Ninja (Ohlins),1441,Class 2,Sport Bikes
+383,Yamaha Aerox 155,11000,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+384,Honda CB150R ExMotion,Carry On Installment,honda,Honda CB150R ExMotion,149,Class 2B,Sport Bikes
+385,Yamaha T135 Spark,5388,yamaha,Yamaha T135 Spark,135,Class 2B,Cubs
+386,Yamaha FZN150i,5999,yamaha,Yamaha FZN150i,149,Class 2B,Street Bikes
+387,SYM Excel II 150,2100,sym,SYM Excel II 150,150,Class 2B,Scooters
+388,Honda CB400 Super 4 Revo,17800,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+389,Mutt Hilts Green 125,14500,mutt,Mutt Hilts Green 125,125,Class 2B,Street Bikes
+390,SYM Cruisym 300,17800,sym,SYM Cruisym 300,278,Class 2A,Scooters
+391,Honda CB400 Super 4 Revo,16900,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+392,BMW F800GS Adventure,12888,bmw,BMW F800GS Adventure,798,Class 2,Sport Tourers
+393,Vespa GTS 150,17500,vespa,Vespa GTS 150,155,Class 2B,Scooters
+394,Bajaj Dominar 400,7500,bajaj,Bajaj Dominar 400,373,Class 2A,Street Bikes
+395,Yamaha MT-15,14000,yamaha,Yamaha MT-15,155,Class 2B,Street Bikes
+396,Honda CB400 Super 4 Spec 3,12500,honda,Honda CB400 Super 4 Spec 3,399,Class 2A,Street Bikes
+397,Lambretta V200 Special,13500,lambretta,Lambretta V200 Special,169,Class 2B,Scooters
+398,Kawasaki ZG1400GTR Concours ABS,15000,kawasaki,Kawasaki ZG1400GTR Concours ABS,1352,Class 2,Sport Tourers
+399,Kawasaki Z1000SX,10000,kawasaki,Kawasaki Z1000SX,1043,Class 2,Sport Bikes
+400,Yamaha Xmax 300,16888,yamaha,Yamaha Xmax 300,292,Class 2A,Scooters
+401,Yamaha MT-07,19888,yamaha,Yamaha MT-07,689,Class 2,Street Bikes
+402,Suzuki V-Strom 1000,8800,suzuki,Suzuki V-Strom 1000,996,Class 2,Sport Tourers
+403,Ducati Monster 821,35000,ducati,Ducati Monster 821,821,Class 2,Street Bikes
+404,BMW K1200R,15000,bmw,BMW K1200R,1157,Class 2,Street Bikes
+405,BMW R1200RS,30000,bmw,BMW R1200RS,1170,Class 2,Sport Tourers
+406,KTM RC200,9800,ktm,KTM RC200,200,Class 2B,Sport Bikes
+407,Lambretta V200 Special,11500,lambretta,Lambretta V200 Special,169,Class 2B,Scooters
+408,Triumph Daytona 675,12000,triumph,Triumph Daytona 675,675,Class 2,Sport Bikes
+409,Ducati GT1000,24800,ducati,Ducati GT1000,992,Class 2,Street Bikes
+410,Yamaha Xmax 300,14888,yamaha,Yamaha Xmax 300,292,Class 2A,Scooters
+411,Honda CBR1000RR,19800,honda,Honda CBR1000RR,999,Class 2,Sport Bikes
+412,Honda PCX150,1800,honda,Honda PCX150,153,Class 2B,Scooters
+413,Yamaha XSR900,19888,yamaha,Yamaha XSR900,847,Class 2,Street Bikes
+414,Ducati Diavel,18786,ducati,Ducati Diavel,1198,Class 2,Street Bikes
+415,Yamaha MT-09,9500,yamaha,Yamaha MT-09,847,Class 2,Street Bikes
+416,Harley Davidson FLSTN Softail Deluxe,26900,harley davidson,Harley Davidson FLSTN Softail Deluxe,1340,Class 2,Cruiser
+417,Kymco K-XCT200I,4500,kymco,Kymco K-XCT200I,199,Class 2B,Scooters
+418,Kawasaki ZX10R Ninja,52800,kawasaki,Kawasaki ZX10R Ninja,998,Class 2,Sport Bikes
+419,Suzuki DRZ400SM,7500,suzuki,Suzuki DRZ400SM,398,Class 2A,Super Motards
+420,Yamaha FZ16 ST,3500,yamaha,Yamaha FZ16 ST,153,Class 2B,Street Bikes
+421,Kymco K-XCT200I,4500,kymco,Kymco K-XCT200I,199,Class 2B,Scooters
+422,Honda CB400 Super 4 Spec 1,5700,honda,Honda CB400 Super 4 Spec 1,399,Class 2A,Street Bikes
+423,SYM GTS 200,2100,sym,SYM GTS 200,172,Class 2B,Scooters
+424,KTM 790 Duke,30000,ktm,KTM 790 Duke,799,Class 2,Street Bikes
+425,Vespa GTS Super 300 Sport,18500,vespa,Vespa GTS Super 300 Sport,278,Class 2A,Scooters
+426,Yamaha YZF-R1,13888,yamaha,Yamaha YZF-R1,998,Class 2,Sport Bikes
+427,Qooder Quadro,30000,qooder,Qooder Quadro,398,Class 2A,Three Wheeler
+428,Yamaha Jupiter MX135,1100,yamaha,Yamaha Jupiter MX135,134,Class 2B,Cubs
+429,Suzuki GSR750,13000,suzuki,Suzuki GSR750,749,Class 2,Street Bikes
+430,Yamaha Aerox 155,13500,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+431,Harley Davidson Fat Boy 114,58100,harley davidson,Harley Davidson Fat Boy 114,1868,Class 2,Cruiser
+432,Honda CBR150R,7200,honda,Honda CBR150R,150,Class 2B,Sport Bikes
+433,Yamaha XT1200Z Super Tenere,12500,yamaha,Yamaha XT1200Z Super Tenere,1199,Class 2,Sport Tourers
+434,BMW G310GS,12800,bmw,BMW G310GS,313,Class 2A,Street Bikes
+435,Yamaha XSR155,15500,yamaha,Yamaha XSR155,155,Class 2B,Street Bikes
+436,SYM Maxsym 400i,2888,sym,SYM Maxsym 400i,400,Class 2A,Scooters
+437,Honda Forza 350,21000,honda,Honda Forza 350,329,Class 2A,Scooters
+438,Honda Steed 400,10388,honda,Honda Steed 400,398,Class 2A,Cruiser
+439,Yamaha YZF-R15,12500,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+440,Honda MSX125,12000,honda,Honda MSX125,125,Class 2B,Super Motards
+441,Honda CBR150R,11400,honda,Honda CBR150R,149,Class 2B,Sport Bikes
+442,Kawasaki Z1000 ABS,12888,kawasaki,Kawasaki Z1000 ABS,1043,Class 2,Street Bikes
+443,Vespa LX150 I.E.,5500,vespa,Vespa LX150 I.E.,155,Class 2B,Scooters
+444,SYM Maxsym 400i,11500,sym,SYM Maxsym 400i,399,Class 2A,Scooters
+445,Yamaha YZF-R15,11500,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+446,Triumph Street Triple 675,7000,triumph,Triumph Street Triple 675,675,Class 2,Street Bikes
+447,Honda CBR400R,7500,honda,Honda CBR400R,399,Class 2A,Sport Bikes
+448,Yamaha MT-09 Tracer GT,27300,yamaha,Yamaha MT-09 Tracer GT,847,Class 2,Sport Tourers
+449,Harley Davidson VRSCF V-Rod Muscle,26888,harley davidson,Harley Davidson VRSCF V-Rod Muscle,1247,Class 2,Cruiser
+450,Suzuki GSX-R1000,4500,suzuki,Suzuki GSX-R1000,998,Class 2,Sport Bikes
+451,BMW S1000XR,59500,bmw,BMW S1000XR,999,Class 2,Sport Tourers
+452,Kawasaki Versys 650,17200,kawasaki,Kawasaki Versys 650,649,Class 2,Sport Tourers
+453,SYM VF3i,8800,sym,SYM VF3i,183,Class 2B,Cubs
+454,Ducati Monster 821,32000,ducati,Ducati Monster 821,821,Class 2,Street Bikes
+455,Honda NM4 Vultus,16200,honda,Honda NM4 Vultus,745,Class 2,Cruiser
+456,Yamaha Jupiter MX135,1888,yamaha,Yamaha Jupiter MX135,134,Class 2B,Cubs
+457,Yamaha Xmax 300,17500,yamaha,Yamaha Xmax 300,292,Class 2A,Scooters
+458,Honda VT400S,14350,honda,Honda VT400S,398,Class 2A,Cruiser
+459,Honda CBR150R,12500,honda,Honda CBR150R,149,Class 2B,Sport Bikes
+460,Yamaha MT-03,10000,yamaha,Yamaha MT-03,321,Class 2A,Street Bikes
+461,Yamaha FZ6-N,9400,yamaha,Yamaha FZ6-N,600,Class 2,Street Bikes
+462,Yamaha Aerox 155,13800,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+463,Yamaha YZF-R15,12950,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+464,Yamaha Xmax 300,21000,yamaha,Yamaha Xmax 300,292,Class 2A,Scooters
+465,Harley Davidson FLSTF Softail Fat Boy,12888,harley davidson,Harley Davidson FLSTF Softail Fat Boy,1340,Class 2,Cruiser
+466,Aprilia Scarabeo 200 CVT,800,aprilia,Aprilia Scarabeo 200 CVT,181,Class 2B,Scooters
+467,Yamaha YDS2,9888,yamaha,Yamaha YDS2,246,Class 2A,Classic Bikes
+468,KTM RC200,6800,ktm,KTM RC200,200,Class 2B,Sport Bikes
+469,Ducati Multistrada 1260 Pikes Peak,39000,ducati,Ducati Multistrada 1260 Pikes Peak,1262,Class 2,Sport Tourers
+470,Harley Davidson FLHRC Road King Classic,32000,harley davidson,Harley Davidson FLHRC Road King Classic,1690,Class 2,Cruiser
+471,Honda CBR600RR,14000,honda,Honda CBR600RR,599,Class 2,Sport Bikes
+472,Suzuki Burgman 200 ABS,18300,suzuki,Suzuki Burgman 200 ABS,200,Class 2B,Scooters
+473,Yamaha YZF-R15,11388,yamaha,Yamaha YZF-R15,155,Class 2,Sport Bikes
+474,Harley Davidson XL50 Sportster 50th Annv,16000,harley davidson,Harley Davidson XL50 Sportster 50th Annv,1200,Class 2,Cruiser
+475,Yamaha FZN150i,5000,yamaha,Yamaha FZN150i,149,Class 2B,Street Bikes
+476,Honda NC700XA,5000,honda,Honda NC700XA,670,Class 2,Sport Tourers
+477,Suzuki GSX-R1300 Hayabusa,21888,suzuki,Suzuki GSX-R1300 Hayabusa,1340,Class 2,Sport Bikes
+478,Ducati SuperSport S,33000,ducati,Ducati SuperSport S,937,Class 2,Sport Bikes
+479,Vespa LX150,12000,vespa,Vespa LX150,151,Class 2B,Scooters
+480,Yamaha Sniper 150,11000,yamaha,Yamaha Sniper 150,150,Class 2B,Cubs
+481,Honda CBR400R,5188,honda,Honda CBR400R,399,Class 2A,Sport Bikes
+482,Yamaha Sniper 155,16500,yamaha,Yamaha Sniper 155,155,Class 2B,Cubs
+483,Yamaha YBR125,6900,yamaha,Yamaha YBR125,124,Class 2B,Street Bikes
+484,Suzuki GSX-R1300 Hayabusa,16600,suzuki,Suzuki GSX-R1300 Hayabusa,1340,Class 2,Sport Bikes
+485,Ducati Streetfighter V4S,66000,ducati,Ducati Streetfighter V4S,1103,Class 2,Sport Bikes
+486,Yamaha Tmax 530,13800,yamaha,Yamaha Tmax 530,530,Class 2,Scooters
+487,Gilera ST200 Runner,4288,gilera,Gilera ST200 Runner,198,Class 2B,Scooters
+488,Honda CRF1000A Africa Twin,23000,honda,Honda CRF1000A Africa Twin,998,Class 2,Sport Tourers
+489,Kawasaki Z1000SX,8500,kawasaki,Kawasaki Z1000SX,1043,Class 2,Sport Bikes
+490,Ducati Multistrada 1200,18500,ducati,Ducati Multistrada 1200,1198,Class 2,Sport Tourers
+491,Vespa GS150,10000,vespa,Vespa GS150,155,Class 2B,Scooters
+492,Suzuki V-Strom 650,12000,suzuki,Suzuki V-Strom 650,645,Class 2,Sport Tourers
+493,Vespa GTS 300 Supertech HPE,19888,vespa,Vespa GTS 300 Supertech HPE,278,Class 2A,Scooters
+494,Ducati Multistrada 1200 ABS,17500,ducati,Ducati Multistrada 1200 ABS,1198,Class 2,Sport Tourers
+495,BMW F800GS,16000,bmw,BMW F800GS,798,Class 2,Sport Tourers
+496,Yamaha MT-15,13000,yamaha,Yamaha MT-15,155,Class 2B,Street Bikes
+497,Harley Davidson Roadster,25000,harley davidson,Harley Davidson Roadster,1202,Class 2,Cruiser
+498,Aprilia RSV4 RF,28500,aprilia,Aprilia RSV4 RF,999,Class 2,Sport Bikes
+499,SYM Joymax 300i,1500,sym,SYM Joymax 300i,278,Class 2A,Scooters
+500,Honda Wave 125,6000,honda,Honda Wave 125,125,Class 2B,Cubs
+501,Yamaha YZF-R15,11500,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+502,Yamaha YZF-R15,15888,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+503,Ducati Hypermotard 950 RVE,33500,ducati,Ducati Hypermotard 950 RVE,937,Class 2,Super Motards
+504,KTM 200 Duke,7000,ktm,KTM 200 Duke,200,Class 2B,Street Bikes
+505,Harley Davidson FXDB Dyna Street Bob,21888,harley davidson,Harley Davidson FXDB Dyna Street Bob,1584,Class 2,Cruiser
+506,Honda TA200 Phantom,2900,honda,Honda TA200 Phantom,197,Class 2B,Cruiser
+507,SYM GTS 200,3250,sym,SYM GTS 200,172,Class 2B,Scooters
+508,Yamaha Sniper 150,9999,yamaha,Yamaha Sniper 150,150,Class 2B,Cubs
+509,SYM HD2 200I,8800,sym,SYM HD2 200I,172,Class 2B,Scooters
+510,Honda CBR600RR,18000,honda,Honda CBR600RR,599,Class 2,Sport Bikes
+511,Yamaha YZF-R3,15500,yamaha,Yamaha YZF-R3,321,Class 2A,Sport Bikes
+512,Honda CBR1000RR,8500,honda,Honda CBR1000RR,998,Class 2,Sport Bikes
+513,Kymco AK550,18000,kymco,Kymco AK550,550,Class 2,Scooters
+514,Honda Wave 125,3888,honda,Honda Wave 125,125,Class 2B,Cubs
+515,Yamaha YZF-R125,8888,yamaha,Yamaha YZF-R125,125,Class 2B,Sport Bikes
+516,Yamaha T135 Spark,11000,yamaha,Yamaha T135 Spark,135,Class 2B,Cubs
+517,Ducati Monster 696,11000,ducati,Ducati Monster 696,696,Class 2,Street Bikes
+518,Suzuki GSX-R1300 Hayabusa,22222,suzuki,Suzuki GSX-R1300 Hayabusa,1340,Class 2,Sport Bikes
+519,Harley Davidson VRSCX V-Rod Limited Edition,23000,harley davidson,Harley Davidson VRSCX V-Rod Limited Edition,1246,Class 2,Cruiser
+520,Rieju Marathon Pro 200,Carry On Installment,rieju,Rieju Marathon Pro 200,183,Class 2B,Super Motards
+521,Honda CB400 Super 4 Spec 2,4500,honda,Honda CB400 Super 4 Spec 2,399,Class 2A,Street Bikes
+522,Honda CBR400R,7500,honda,Honda CBR400R,399,Class 2A,Sport Bikes
+523,Yamaha Jupiter MX135,1300,yamaha,Yamaha Jupiter MX135,134,Class 2B,Cubs
+524,Honda CB750F,5200,honda,Honda CB750F,747,Class 2,Street Bikes
+525,Bajaj Pulsar NS200,2100,bajaj,Bajaj Pulsar NS200,200,Class 2B,Street Bikes
+526,Honda CBF190X Fighthawk,7500,honda,Honda CBF190X Fighthawk,184,Class 2B,Sport Tourers
+527,Triumph Tiger 800 XRx,16000,triumph,Triumph Tiger 800 XRx,800,Class 2,Sport Tourers
+528,Yamaha Sniper 150,5500,yamaha,Yamaha Sniper 150,150,Class 2B,Cubs
+529,Honda CB400 Super 4 Revo,9000,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+530,Yamaha FZ16,7088,yamaha,Yamaha FZ16,153,Class 2B,Street Bikes
+531,Honda CB400 Super 4 Bold'or,12345,honda,Honda CB400 Super 4 Bold'or,399,Class 2A,Street Bikes
+532,KTM 200 Duke,5900,ktm,KTM 200 Duke,200,Class 2B,Street Bikes
+533,Yamaha Tmax 530,13500,yamaha,Yamaha Tmax 530,530,Class 2,Scooters
+534,Honda CB400 Super 4 Spec 3,8800,honda,Honda CB400 Super 4 Spec 3,399,Class 2A,Street Bikes
+535,Yamaha TTX115,2500,yamaha,Yamaha TTX115,114,Class 2B,Scooters
+536,Honda Adv 150,16888,honda,Honda Adv 150,149,Class 2B,Scooters
+537,Honda TA200 Phantom,8400,honda,Honda TA200 Phantom,197,Class 2B,Cruiser
+538,BMW R NineT,20000,bmw,BMW R NineT,1170,Class 2,Street Bikes
+539,Zontes ZT150G,13000,zontes,Zontes ZT150G,155,Class 2B,Street Bikes
+540,Ducati Scrambler Full Throttle,24000,ducati,Ducati Scrambler Full Throttle,803,Class 2,Street Bikes
+541,Yamaha FZ16 ST,8000,yamaha,Yamaha FZ16 ST,153,Class 2B,Street Bikes
+542,Yamaha Aerox 155,13900,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+543,Honda Rebel 500,18000,honda,Honda Rebel 500,471,Class 2,Street Bikes
+544,Yamaha SDR200,23888,yamaha,Yamaha SDR200,195,Class 2B,Street Bikes
+545,Yamaha YZF-R15,14800,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+546,Harley Davidson Fat Boy Special,35000,harley davidson,Harley Davidson Fat Boy Special,1801,Class 2,Cruiser
+547,Yamaha Xmax 300,17000,yamaha,Yamaha Xmax 300,292,Class 2A,Scooters
+548,Yamaha MT-01,11425,yamaha,Yamaha MT-01,1670,Class 2,Street Bikes
+549,Kawasaki Z1000SX,8000,kawasaki,Kawasaki Z1000SX,1043,Class 2,Sport Bikes
+550,Harley Davidson FXDWG Dyna Wide Glide,18000,harley davidson,Harley Davidson FXDWG Dyna Wide Glide,1450,Class 2,Cruiser
+551,Bajaj Pulsar NS200,4500,bajaj,Bajaj Pulsar NS200,200,Class 2B,Street Bikes
+552,Zontes V310,14600,zontes,Zontes V310,312,Class 2A,Street Bikes
+553,Vespa Primavera 150,10999,vespa,Vespa Primavera 150,155,Class 2B,Scooters
+554,Ducati 1199 Panigale,36000,ducati,Ducati 1199 Panigale,1198,Class 2,Sport Bikes
+555,Ducati Hypermotard 796,15588,ducati,Ducati Hypermotard 796,803,Class 2,Super Motards
+556,Triumph Tiger Explorer,14500,triumph,Triumph Tiger Explorer,1215,Class 2,Sport Tourers
+557,Honda Adv 150,15500,honda,Honda Adv 150,149,Class 2B,Scooters
+558,Yamaha XSR155,17000,yamaha,Yamaha XSR155,155,Class 2B,Street Bikes
+559,Triumph Tiger Explorer,9988,triumph,Triumph Tiger Explorer,1215,Class 2,Sport Tourers
+560,Suzuki GSR750,20000,suzuki,Suzuki GSR750,749,Class 2,Street Bikes
+561,Yamaha MT-09 Tracer,13000,yamaha,Yamaha MT-09 Tracer,847,Class 2,Sport Tourers
+562,Suzuki V-Strom 650,8000,suzuki,Suzuki V-Strom 650,645,Class 2,Sport Tourers
+563,Adiva AD1 200,9600,adiva,Adiva AD1 200,190,Class 2B,Three Wheeler
+564,Honda CBF150,6800,honda,Honda CBF150,149,Class 2B,Street Bikes
+565,Yamaha YZF-R15,5800,yamaha,Yamaha YZF-R15,150,Class 2B,Sport Bikes
+566,Yamaha MT-03,14500,yamaha,Yamaha MT-03,321,Class 2A,Street Bikes
+567,Harley Davidson FLHRCI Road King Classic,23230,harley davidson,Harley Davidson FLHRCI Road King Classic,1450,Class 2,Cruiser
+568,Ducati Hypermotard 821,13500,ducati,Ducati Hypermotard 821,821,Class 2,Super Motards
+569,Honda CB400 Super 4 Revo,13000,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+570,Honda NM4 Vultus,13800,honda,Honda NM4 Vultus,745,Class 2,Cruiser
+571,Yamaha TTX115,2500,yamaha,Yamaha TTX115,114,Class 2B,Scooters
+572,Yamaha Jupiter MX135,4000,yamaha,Yamaha Jupiter MX135,134,Class 2B,Cubs
+573,Ducati 1199 Panigale,40000,ducati,Ducati 1199 Panigale,1198,Class 2,Sport Bikes
+574,Yamaha Fino 115,2300,yamaha,Yamaha Fino 115,114,Class 2B,Scooters
+575,Zontes X310,14000,zontes,Zontes X310,312,Class 2A,Sport Bikes
+576,KTM 390 Duke,8500,ktm,KTM 390 Duke,373,Class 2A,Street Bikes
+577,Yamaha YZF-R15,9998,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+578,Honda Winner X 150,13800,honda,Honda Winner X 150,149,Class 2B,Cubs
+579,Yamaha YZF-R15,Carry On Installment,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+580,Yamaha MT-09 Tracer,16000,yamaha,Yamaha MT-09 Tracer,847,Class 2,Sport Tourers
+581,Yamaha RXZ,11000,yamaha,Yamaha RXZ,133,Class 2B,Street Bikes
+582,Honda NC700X,8800,honda,Honda NC700X,670,Class 2,Sport Tourers
+583,Yamaha YZF-R15,15000,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+584,BMW G310GS,13200,bmw,BMW G310GS,313,Class 2A,Sport Tourers
+585,Yamaha Tmax 530,9995,yamaha,Yamaha Tmax 530,530,Class 2,Scooters
+586,BMW G310GS,16000,bmw,BMW G310GS,313,Class 2A,Sport Tourers
+587,Yamaha MT-15,12700,yamaha,Yamaha MT-15,155,Class 2B,Street Bikes
+588,Kawasaki EX300 Ninja,950,kawasaki,Kawasaki EX300 Ninja,296,Class 2A,Sport Bikes
+589,Yamaha YBR125,1500,yamaha,Yamaha YBR125,124,Class 2B,Street Bikes
+590,Harley Davidson Fat Boy,52000,harley davidson,Harley Davidson Fat Boy,1745,Class 2,Cruiser
+591,Can-Am Spyder RS-S SE5,26000,can-am,Can-Am Spyder RS-S SE5,998,Class 2,Three Wheeler
+592,BMW C400X,21500,bmw,BMW C400X,350,Class 2A,Scooters
+593,Harley Davidson Fat Boy,26888,harley davidson,Harley Davidson Fat Boy,1450,Class 2,Cruiser
+594,Suzuki Burgman 650 Executive Abs,14500,suzuki,Suzuki Burgman 650 Executive Abs,638,Class 2,Scooters
+595,Yamaha FZ8-N,4000,yamaha,Yamaha FZ8-N,779,Class 2,Street Bikes
+596,Yamaha Sniper 150,9500,yamaha,Yamaha Sniper 150,150,Class 2B,Cubs
+597,Triumph Speed Triple,12000,triumph,Triumph Speed Triple,1050,Class 2,Street Bikes
+598,Honda CBR150R,11500,honda,Honda CBR150R,149,Class 2B,Sport Bikes
+599,Harley Davidson XL883N Iron 883,25000,harley davidson,Harley Davidson XL883N Iron 883,883,Class 2,Cruiser
+600,Honda NT700V Deauville,6000,honda,Honda NT700V Deauville,680,Class 2,Sport Tourers
+601,SYM DRGBT 160,15000,sym,SYM DRGBT 160,158,Class 2B,Scooters
+602,SYM VS150,6546,sym,SYM VS150,150,Class 2B,Scooters
+603,Honda Supra GTR150,9500,honda,Honda Supra GTR150,149,Class 2B,Cubs
+604,BMW F800GS,16180,bmw,BMW F800GS,798,Class 2,Sport Tourers
+605,Honda CB400 Super 4 Revo,16500,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+606,Honda Winner X 150,13800,honda,Honda Winner X 150,149,Class 2B,Cubs
+607,Kawasaki EX300 Ninja,4700,kawasaki,Kawasaki EX300 Ninja,296,Class 2A,Sport Bikes
+608,Honda CB400 Super 4 Spec 3,7500,honda,Honda CB400 Super 4 Spec 3,399,Class 2A,Street Bikes
+609,Honda CBR250R,6800,honda,Honda CBR250R,250,Class 2A,Sport Bikes
+610,Honda ST1300A Pan-European,5888,honda,Honda ST1300A Pan-European,1261,Class 2,Sport Tourers
+611,Yamaha MW125 Tricity,5500,yamaha,Yamaha MW125 Tricity,125,Class 2B,Three Wheeler
+612,Yamaha MT-15,11000,yamaha,Yamaha MT-15,155,Class 2B,Street Bikes
+613,Yamaha YZF-R15,6800,yamaha,Yamaha YZF-R15,150,Class 2B,Sport Bikes
+614,Honda CBR150R,9300,honda,Honda CBR150R,149,Class 2B,Sport Bikes
+615,Yamaha FZ16 ST,5000,yamaha,Yamaha FZ16 ST,153,Class 2B,Street Bikes
+616,Honda CB400X,10000,honda,Honda CB400X,399,Class 2A,Sport Tourers
+617,Harley Davidson XL883N Iron 883,10500,harley davidson,Harley Davidson XL883N Iron 883,883,Class 2,Cruiser
+618,Yamaha MT-09 Tracer,18499,yamaha,Yamaha MT-09 Tracer,847,Class 2,Sport Tourers
+619,Yamaha MT-15 Xabre,7900,yamaha,Yamaha MT-15 Xabre,150,Class 2B,Street Bikes
+620,MV Agusta Brutale 1090RR,13888,mv agusta,MV Agusta Brutale 1090RR,1078,Class 2,Street Bikes
+621,Yamaha YZF-R15,3288,yamaha,Yamaha YZF-R15,150,Class 2B,Sport Bikes
+622,Kawasaki ZX14R Ninja,14000,kawasaki,Kawasaki ZX14R Ninja,1352,Class 2,Sport Bikes
+623,Bajaj Pulsar NS200,10000,bajaj,Bajaj Pulsar NS200,200,Class 2B,Street Bikes
+624,Honda CB125R,9000,honda,Honda CB125R,125,Class 2B,Street Bikes
+625,Bajaj Avenger 200 DTS-i,8900,bajaj,Bajaj Avenger 200 DTS-i,199,Class 2B,Cruiser
+626,Yamaha YZF-R1,12000,yamaha,Yamaha YZF-R1,998,Class 2,Sport Bikes
+627,KTM 200 Duke,7500,ktm,KTM 200 Duke,200,Class 2B,Street Bikes
+628,KTM 525 EXC Racing,6500,ktm,KTM 525 EXC Racing,511,Class 2,Super Motards
+629,Honda Adv 150,14500,honda,Honda Adv 150,149,Class 2B,Scooters
+630,Honda CB400X,15500,honda,Honda CB400X,399,Class 2A,Sport Tourers
+631,BMW R1200GS,15999,bmw,BMW R1200GS,1170,Class 2,Sport Tourers
+632,Harley Davidson Fat Bob 114,38000,harley davidson,Harley Davidson Fat Bob 114,1868,Class 2,Cruiser
+633,Yamaha Aerox 155 R,14888,yamaha,Yamaha Aerox 155 R,155,Class 2B,Scooters
+634,Triumph Tiger Explorer,13000,triumph,Triumph Tiger Explorer,1215,Class 2,Sport Tourers
+635,Honda NC700X,2800,honda,Honda NC700X,670,Class 2,Sport Tourers
+636,Ducati Hyperstrada 821,13888,ducati,Ducati Hyperstrada 821,821,Class 2,Super Motards
+637,Honda CB190R,6800,honda,Honda CB190R,184,Class 2B,Street Bikes
+638,Ducati Monster 1200R,36800,ducati,Ducati Monster 1200R,1198,Class 2,Street Bikes
+639,Yamaha X1-R 135,4200,yamaha,Yamaha X1-R 135,135,Class 2B,Cubs
+640,Yamaha FZN150i,6500,yamaha,Yamaha FZN150i,149,Class 2B,Street Bikes
+641,Yamaha MT-09,11188,yamaha,Yamaha MT-09,847,Class 2,Street Bikes
+642,Yamaha YZF-R1,23888,yamaha,Yamaha YZF-R1,998,Class 2,Sport Bikes
+643,Bajaj Pulsar NS200,12000,bajaj,Bajaj Pulsar NS200,200,Class 2B,Street Bikes
+644,Yamaha Xmax 400,22300,yamaha,Yamaha Xmax 400,395,Class 2A,Scooters
+645,BMW K1600GTL,24000,bmw,BMW K1600GTL,1649,Class 2,Sport Tourers
+646,Honda CBF150,900,honda,Honda CBF150,149,Class 2B,Street Bikes
+647,Yamaha Sniper 150,10000,yamaha,Yamaha Sniper 150,150,Class 2B,Cubs
+648,Adiva AD1 200,19000,adiva,Adiva AD1 200,188,Class 2B,Three Wheeler
+649,Honda CBF190TR Scrambler,11500,honda,Honda CBF190TR Scrambler,184,Class 2B,Street Bikes
+650,Ducati 1199 Panigale,29999,ducati,Ducati 1199 Panigale,1198,Class 2,Sport Bikes
+651,Yamaha YZF-R15,10788,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+652,Honda CB150R ExMotion,12000,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+653,Yamaha YZF-R3,9388,yamaha,Yamaha YZF-R3,321,Class 2A,Sport Bikes
+654,Ducati Monster 821,33000,ducati,Ducati Monster 821,821,Class 2,Street Bikes
+655,Honda X-Adv 750,35000,honda,Honda X-Adv 750,745,Class 2,Scooters
+656,Yamaha Aerox 155,10808,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+657,Yamaha MT-07,12000,yamaha,Yamaha MT-07,689,Class 2,Street Bikes
+658,Honda CB150R ExMotion,10000,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+659,Yamaha Aerox 155,10888,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+660,Yamaha YZF-R15 Ver 4,18000,yamaha,Yamaha YZF-R15 Ver 4,155,Class 2B,Sport Bikes
+661,Yamaha YZF-R15,10000,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+662,Honda CB150R Streetster,11888,honda,Honda CB150R Streetster,149,Class 2B,Street Bikes
+663,Aprilia SR Max 300,4000,aprilia,Aprilia SR Max 300,278,Class 2A,Scooters
+664,BMW K1300R,22000,bmw,BMW K1300R,1293,Class 2,Street Bikes
+665,Kawasaki Z1000 ABS,12000,kawasaki,Kawasaki Z1000 ABS,1043,Class 2,Street Bikes
+666,Piaggio MP3 400 I.E.,8997,piaggio,Piaggio MP3 400 I.E.,399,Class 2A,Three Wheeler
+667,Aprilia Dorsoduro 750,3500,aprilia,Aprilia Dorsoduro 750,750,Class 2,Super Motards
+668,Yamaha TDM900,4200,yamaha,Yamaha TDM900,897,Class 2,Sport Tourers
+669,Honda MSX125,4500,honda,Honda MSX125,125,Class 2B,Super Motards
+670,BMW R NineT,46000,bmw,BMW R NineT,1170,Class 2,Street Bikes
+671,Suzuki Burgman 650 Executive Abs,28000,suzuki,Suzuki Burgman 650 Executive Abs,638,Class 2,Scooters
+672,Ducati Superbike 899 Panigale,21500,ducati,Ducati Superbike 899 Panigale,898,Class 2,Sport Bikes
+673,Yamaha FZ16,7188,yamaha,Yamaha FZ16,153,Class 2B,Street Bikes
+674,Honda CBR400R,6000,honda,Honda CBR400R,399,Class 2A,Sport Bikes
+675,Ducati Scrambler Cafe Racer,25000,ducati,Ducati Scrambler Cafe Racer,803,Class 2,Street Bikes
+676,Lambretta V200 Special,11000,lambretta,Lambretta V200 Special,169,Class 2B,Scooters
+677,Yamaha Tmax 530,17800,yamaha,Yamaha Tmax 530,530,Class 2,Cruiser
+678,Harley Davidson Fat Bob 114,43000,harley davidson,Harley Davidson Fat Bob 114,1868,Class 2,Cruiser
+679,Suzuki DRZ400SM,11500,suzuki,Suzuki DRZ400SM,398,Class 2A,Super Motards
+680,BMW K1600GT,38000,bmw,BMW K1600GT,1649,Class 2,Sport Tourers
+681,ZongShen ZS200 Zone One S,6000,zongshen,ZongShen ZS200 Zone One S,199,Class 2B,Street Bikes
+682,Yamaha Aerox 155,12000,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+683,Triumph Trident 660,28500,triumph,Triumph Trident 660,660,Class 2,Street Bikes
+684,Triumph Thruxton R,27500,triumph,Triumph Thruxton R,1197,Class 2,Street Bikes
+685,Vespa LX150,11888,vespa,Vespa LX150,151,Class 2B,Scooters
+686,Ducati Monster 696,8900,ducati,Ducati Monster 696,696,Class 2,Street Bikes
+687,Honda CB400 Super 4 Spec 3,7500,honda,Honda CB400 Super 4 Spec 3,399,Class 2A,Street Bikes
+688,Vespa GTS 150,15500,vespa,Vespa GTS 150,155,Class 2B,Scooters
+689,Yamaha MT-15 Xabre,9500,yamaha,Yamaha MT-15 Xabre,150,Class 2B,Street Bikes
+690,Yamaha MT-03,12000,yamaha,Yamaha MT-03,321,Class 2A,Street Bikes
+691,Suzuki DRZ400SM,14900,suzuki,Suzuki DRZ400SM,398,Class 2,Super Motards
+692,Ducati Streetfighter V4S,62000,ducati,Ducati Streetfighter V4S,1130,Class 2,Street Bikes
+693,Honda CB400 Super 4 Spec 3,7500,honda,Honda CB400 Super 4 Spec 3,399,Class 2A,Street Bikes
+694,BMW K1200LT,12000,bmw,BMW K1200LT,1171,Class 2,Sport Tourers
+695,Vespa PX150,12000,vespa,Vespa PX150,151,Class 2B,Scooters
+696,Honda FJS400D SilverWing,3888,honda,Honda FJS400D SilverWing,399,Class 2A,Scooters
+697,Kawasaki Ninja 400,20000,kawasaki,Kawasaki Ninja 400,399,Class 2A,Sport Bikes
+698,Honda FJS400D SilverWing,8900,honda,Honda FJS400D SilverWing,399,Class 2A,Scooters
+699,Triumph Street Twin,17000,triumph,Triumph Street Twin,900,Class 2,Street Bikes
+700,Yamaha MT-15 Xabre,8500,yamaha,Yamaha MT-15 Xabre,150,Class 2B,Street Bikes
+701,Honda CB400 Super 4 Spec 3,5000,honda,Honda CB400 Super 4 Spec 3,399,Class 2A,Street Bikes
+702,Yamaha Sniper 150,11000,yamaha,Yamaha Sniper 150,150,Class 2B,Cubs
+703,Yamaha FZ16,2600,yamaha,Yamaha FZ16,153,Class 2B,Street Bikes
+704,Honda CB400 Super 4 Revo,11000,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+705,Honda CB400X,8400,honda,Honda CB400X,399,Class 2A,Sport Tourers
+706,Yamaha YZF-R3,3800,yamaha,Yamaha YZF-R3,321,Class 2A,Sport Bikes
+707,Suzuki DRZ400SM,13800,suzuki,Suzuki DRZ400SM,398,Class 2A,Super Motards
+708,Vespa Sprint Sport 150 ABS,10000,vespa,Vespa Sprint Sport 150 ABS,155,Class 2B,Scooters
+709,Yamaha Tmax 530 DX,23888,yamaha,Yamaha Tmax 530 DX,530,Class 2,Scooters
+710,Yamaha XJ6 Diversion F,3000,yamaha,Yamaha XJ6 Diversion F,600,Class 2,Street Bikes
+711,Honda CBR150R,7700,honda,Honda CBR150R,150,Class 2B,Sport Bikes
+712,Ducati Monster MS2R,7500,ducati,Ducati Monster MS2R,803,Class 2,Street Bikes
+713,Honda NC750XA,9000,honda,Honda NC750XA,745,Class 2,Sport Tourers
+714,Yamaha Xmax 300,15000,yamaha,Yamaha Xmax 300,292,Class 2A,Scooters
+715,Honda CBR400R,9200,honda,Honda CBR400R,399,Class 2A,Sport Bikes
+716,Harley Davidson FXDF Dyna Fat Bob,22000,harley davidson,Harley Davidson FXDF Dyna Fat Bob,1584,Class 2,Cruiser
+717,Honda CB190R,9999,honda,Honda CB190R,184,Class 2B,Street Bikes
+718,BMW G310GS,16999,bmw,BMW G310GS,313,Class 2A,Sport Tourers
+719,Yamaha Tmax 530,13000,yamaha,Yamaha Tmax 530,530,Class 2,Scooters
+720,Honda Adv 150,17856,honda,Honda Adv 150,149,Class 2B,Scooters
+721,Indian Springfield,40000,indian,Indian Springfield,1811,Class 2,Cruiser
+722,Yamaha FZ1-S,7000,yamaha,Yamaha FZ1-S,998,Class 2,Street Bikes
+723,Yamaha YBR250,12888,yamaha,Yamaha YBR250,249,Class 2A,Three Wheeler
+724,Yamaha YBR125,7288,yamaha,Yamaha YBR125,124,Class 2B,Street Bikes
+725,Honda CB400X,18500,honda,Honda CB400X,399,Class 2A,Sport Tourers
+726,BMW S1000RR,50000,bmw,BMW S1000RR,999,Class 2,Sport Bikes
+727,Yamaha FZ16,6188,yamaha,Yamaha FZ16,153,Class 2B,Street Bikes
+728,Aprilia Scarabeo 200 CVT,4388,aprilia,Aprilia Scarabeo 200 CVT,181,Class 2B,Scooters
+729,SYM Joyride 200i Evo,2200,sym,SYM Joyride 200i Evo,171,Class 2B,Scooters
+730,ZongShen ZS125 Pursuit,3288,zongshen,ZongShen ZS125 Pursuit,124,Class 2B,Cruiser
+731,SYM Joyride 200i Evo,5000,sym,SYM Joyride 200i Evo,171,Class 2B,Scooters
+732,Lambretta V200 Special,15000,lambretta,Lambretta V200 Special,169,Class 2B,Scooters
+733,Honda CB400 Super 4 Revo,12599,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+734,Honda CBR150R,3500,honda,Honda CBR150R,150,Class 2B,Sport Bikes
+735,Kawasaki EX300 Ninja,9500,kawasaki,Kawasaki EX300 Ninja,296,Class 2A,Sport Bikes
+736,SYM Joyride S200i,7999,sym,SYM Joyride S200i,175,Class 2B,Scooters
+737,Qooder Quadro,35000,qooder,Qooder Quadro,398,Class 2A,Three Wheeler
+738,Bajaj Pulsar NS200,10000,bajaj,Bajaj Pulsar NS200,200,Class 2B,Street Bikes
+739,Honda GLS200 Tiger,8000,honda,Honda GLS200 Tiger,197,Class 2B,Street Bikes
+740,Honda CB400 Super 4 Revo,16200,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+741,KTM 390 Duke,6800,ktm,KTM 390 Duke,373,Class 2A,Street Bikes
+742,Honda NC700X,11000,honda,Honda NC700X,670,Class 2,Sport Tourers
+743,Adiva AD1 200,0,adiva,Adiva AD1 200,190,Class 2B,Three Wheeler
+744,Adiva AD2 400,0,adiva,Adiva AD2 400,399,Class 2A,Scooters
+745,Adiva AD3 300,0,adiva,Adiva AD3 300,299,Class 2A,Three Wheeler
+746,Adiva AD3 400,0,adiva,Adiva AD3 400,399,Class 2A,Three Wheeler
+747,Adiva AR3 200,0,adiva,Adiva AR3 200,190,Class 2B,Three Wheeler
+748,Aprilia Dorsoduro 900,0,aprilia,Aprilia Dorsoduro 900,896,Class 2,Super Motards
+749,Aprilia RS125,0,aprilia,Aprilia RS125,124,Class 2B,Sport Bikes
+750,Aprilia RS660,0,aprilia,Aprilia RS660,659,Class 2,Sport Bikes
+751,Aprilia RSV4 1100 Factory,0,aprilia,Aprilia RSV4 1100 Factory,1077,Class 2,Sport Bikes
+752,Aprilia RSV4 RR,0,aprilia,Aprilia RSV4 RR,999,Class 2,Sport Bikes
+753,Aprilia Shiver 900,0,aprilia,Aprilia Shiver 900,896,Class 2,Street Bikes
+754,Aprilia SR GT 200,0,aprilia,Aprilia SR GT 200,174,Class 2B,Scooters
+755,Aprilia SR Max 300,0,aprilia,Aprilia SR Max 300,278,Class 2A,Scooters
+756,Aprilia SR Motard 125,0,aprilia,Aprilia SR Motard 125,124,Class 2B,Scooters
+757,Aprilia SRV 850 ABS,0,aprilia,Aprilia SRV 850 ABS,839,Class 2,Scooters
+758,Aprilia SX125,0,aprilia,Aprilia SX125,124,Class 2B,Super Motards
+759,Aprilia Tuareg 660,0,aprilia,Aprilia Tuareg 660,660,Class 2,Sport Tourers
+760,Aprilia Tuono 125,0,aprilia,Aprilia Tuono 125,124,Class 2B,Street Bikes
+761,Aprilia Tuono V4 1100 Factory,0,aprilia,Aprilia Tuono V4 1100 Factory,1077,Class 2,Sport Bikes
+762,Aprilia Tuono V4 1100RR,0,aprilia,Aprilia Tuono V4 1100RR,1077,Class 2,Sport Bikes
+763,Bajaj Avenger Cruise 220,0,bajaj,Bajaj Avenger Cruise 220,220,Class 2A,Cruiser
+764,Bajaj Avenger Street 180,0,bajaj,Bajaj Avenger Street 180,180,Class 2B,Street Bikes
+765,Bajaj Avenger Street 220,0,bajaj,Bajaj Avenger Street 220,220,Class 2A,Street Bikes
+766,Bajaj Discover 110,0,bajaj,Bajaj Discover 110,115,Class 2B,Street Bikes
+767,Bajaj Discover 125,0,bajaj,Bajaj Discover 125,125,Class 2B,Street Bikes
+768,Bajaj Dominar 400,0,bajaj,Bajaj Dominar 400,373,Class 2A,Street Bikes
+769,Bajaj Platina,0,bajaj,Bajaj Platina,102,Class 2B,Street Bikes
+770,Bajaj Pulsar 150,0,bajaj,Bajaj Pulsar 150,149,Class 2B,Street Bikes
+771,Bajaj Pulsar 180F,0,bajaj,Bajaj Pulsar 180F,178,Class 2B,Street Bikes
+772,Bajaj Pulsar NS200,0,bajaj,Bajaj Pulsar NS200,199,Class 2B,Street Bikes
+773,Bajaj Pulsar RS200,0,bajaj,Bajaj Pulsar RS200,199,Class 2B,Sport Bikes
+774,Benelli 302R,0,benelli,Benelli 302R,300,Class 2A,Sport Bikes
+775,Benelli Leoncino,0,benelli,Benelli Leoncino,499,Class 2,Street Bikes
+776,Benelli RFS150i,0,benelli,Benelli RFS150i,149,Class 2B,Cubs
+777,Benelli TNT135,0,benelli,Benelli TNT135,134,Class 2B,Super Motards
+778,Benelli TNT300,0,benelli,Benelli TNT300,300,Class 2A,Street Bikes
+779,Benelli TNT600,0,benelli,Benelli TNT600,600,Class 2,Street Bikes
+780,Benelli TRE1130K,0,benelli,Benelli TRE1130K,1131,Class 2,Sport Tourers
+781,Benelli TRK502,0,benelli,Benelli TRK502,499,Class 2,Sport Tourers
+782,Beta RR 200,0,beta,Beta RR 200,190,Class 2B,Scrambler/Dirt Bike
+783,Beta RR 300,0,beta,Beta RR 300,293,Class 2A,Scrambler/Dirt Bike
+784,Beta RR 300 Racing,0,beta,Beta RR 300 Racing,293,Class 2A,Scrambler/Dirt Bike
+785,Beta Xtrainer 300,0,beta,Beta Xtrainer 300,293,Class 2A,Scrambler/Dirt Bike
+786,Bimota BB3,0,bimota,Bimota BB3,999,Class 2,Sport Bikes
+787,Bimota DB8,0,bimota,Bimota DB8,1198,Class 2,Sport Bikes
+788,Bimota DB8 Oronero,0,bimota,Bimota DB8 Oronero,1198,Class 2,Sport Bikes
+789,Bimota DB9,0,bimota,Bimota DB9,1198,Class 2,Sport Tourers
+790,Bimota DBX,0,bimota,Bimota DBX,1078,Class 2,Super Motards
+791,Bimota Tesi 3D,0,bimota,Bimota Tesi 3D,1078,Class 2,Street Bikes
+792,BMW C400 GT,0,bmw,BMW C400 GT,350,Class 2A,Scooters
+793,BMW C400X,0,bmw,BMW C400X,350,Class 2A,Scooters
+794,BMW C650 GT,0,bmw,BMW C650 GT,647,Class 2,Scooters
+795,BMW C650 Sport,0,bmw,BMW C650 Sport,647,Class 2,Scooters
+796,BMW F700GS,0,bmw,BMW F700GS,798,Class 2,Sport Tourers
+797,BMW F750GS,0,bmw,BMW F750GS,853,Class 2,Sport Tourers
+798,BMW F850GS,0,bmw,BMW F850GS,853,Class 2,Sport Tourers
+799,BMW F850GS Adventure,0,bmw,BMW F850GS Adventure,853,Class 2,Sport Tourers
+800,BMW G310GS,0,bmw,BMW G310GS,313,Class 2A,Sport Tourers
+801,BMW G310R,0,bmw,BMW G310R,313,Class 2A,Street Bikes
+802,BMW HP4 Race,0,bmw,BMW HP4 Race,999,Class 2,Sport Bikes
+803,BMW K1600 Grand America,0,bmw,BMW K1600 Grand America,1649,Class 2,Sport Tourers
+804,BMW K1600B,0,bmw,BMW K1600B,1649,Class 2,Cruiser
+805,BMW K1600GT,0,bmw,BMW K1600GT,1649,Class 2,Sport Tourers
+806,BMW K1600GTL,0,bmw,BMW K1600GTL,1649,Class 2,Sport Tourers
+807,BMW M1000RR,0,bmw,BMW M1000RR,999,Class 2,Sport Bikes
+808,BMW R NineT,0,bmw,BMW R NineT,1170,Class 2,Street Bikes
+809,BMW R NineT Pure,0,bmw,BMW R NineT Pure,1170,Class 2,Street Bikes
+810,BMW R NineT Racer,0,bmw,BMW R NineT Racer,1170,Class 2,Classic Bikes
+811,BMW R NineT Scrambler,0,bmw,BMW R NineT Scrambler,1170,Class 2,Street Bikes
+812,BMW R NineT Urban GS,0,bmw,BMW R NineT Urban GS,1170,Class 2,Street Bikes
+813,BMW R1200GS,0,bmw,BMW R1200GS,1170,Class 2,Sport Tourers
+814,BMW R1200GS Adventure,0,bmw,BMW R1200GS Adventure,1170,Class 2,Sport Tourers
+815,BMW R1200R,0,bmw,BMW R1200R,1170,Class 2,Street Bikes
+816,BMW R1200RS,0,bmw,BMW R1200RS,1170,Class 2,Sport Bikes
+817,BMW R1200RT,0,bmw,BMW R1200RT,1170,Class 2,Sport Tourers
+818,BMW R1250GS,0,bmw,BMW R1250GS,1254,Class 2,Sport Tourers
+819,BMW R1250GS Adventure,0,bmw,BMW R1250GS Adventure,1254,Class 2,Sport Tourers
+820,BMW R1250R,0,bmw,BMW R1250R,1254,Class 2,Street Bikes
+821,BMW R1250RT,0,bmw,BMW R1250RT,1254,Class 2,Sport Tourers
+822,BMW R18 Classic,0,bmw,BMW R18 Classic,1802,Class 2,Cruiser
+823,BMW S1000R,0,bmw,BMW S1000R,999,Class 2,Street Bikes
+824,BMW S1000RR,0,bmw,BMW S1000RR,999,Class 2,Sport Bikes
+825,BMW S1000XR,0,bmw,BMW S1000XR,999,Class 2,Sport Tourers
+826,Brixton Cromwell BX150,0,brixton,Brixton Cromwell BX150,149,Class 2B,Street Bikes
+827,Brixton Felsberg 150,0,brixton,Brixton Felsberg 150,150,Class 2B,Street Bikes
+828,Brixton Rayburn 125,0,brixton,Brixton Rayburn 125,125,Class 2B,Street Bikes
+829,Can-Am Ryker,0,can-am,Can-Am Ryker,899,Class 2,Three Wheeler
+830,Can-Am Spyder F3,0,can-am,Can-Am Spyder F3,1330,Class 2,Three Wheeler
+831,Can-Am Spyder F3 Limited,0,can-am,Can-Am Spyder F3 Limited,1330,Class 2,Three Wheeler
+832,Can-Am Spyder F3-S,0,can-am,Can-Am Spyder F3-S,1330,Class 2,Three Wheeler
+833,Can-Am Spyder F3-T,0,can-am,Can-Am Spyder F3-T,1330,Class 2,Three Wheeler
+834,Can-Am Spyder RT,0,can-am,Can-Am Spyder RT,998,Class 2,Three Wheeler
+835,CFMoto 150NK,0,cfmoto,CFMoto 150NK,150,Class 2B,Street Bikes
+836,CFMoto 300SR,0,cfmoto,CFMoto 300SR,292,Class 2A,Sport Bikes
+837,CFMoto 400GT,0,cfmoto,CFMoto 400GT,400,Class 2A,Sport Tourers
+838,CFMoto 400NK,0,cfmoto,CFMoto 400NK,400,Class 2A,Street Bikes
+839,CFMoto 400NK,0,cfmoto,CFMoto 400NK,400,Class 2A,Street Bikes
+840,CFMoto 650GT,0,cfmoto,CFMoto 650GT,649,Class 2,Sport Tourers
+841,CFMoto 650MT,0,cfmoto,CFMoto 650MT,650,Class 2,Sport Tourers
+842,CFMoto 650NK,0,cfmoto,CFMoto 650NK,650,Class 2,Street Bikes
+843,CFMoto 700CL-X Heritage,0,cfmoto,CFMoto 700CL-X Heritage,693,Class 2,Street Bikes
+844,CFMoto 700CL-X Sport,0,cfmoto,CFMoto 700CL-X Sport,693,Class 2,Street Bikes
+845,CFMoto 800MT Touring,0,cfmoto,CFMoto 800MT Touring,799,Class 2,Sport Tourers
+846,CPI Aragon 125,0,cpi,CPI Aragon 125,124,Class 2B,Scooters
+847,CPI Oliver 125,0,cpi,CPI Oliver 125,124,Class 2B,Scooters
+848,CPI SM125,0,cpi,CPI SM125,124,Class 2B,Super Motards
+849,CPI SM250,0,cpi,CPI SM250,250,Class 2A,Super Motards
+850,CPI VGO,0,cpi,CPI VGO,124,Class 2B,Scooters
+851,CPI XR125,0,cpi,CPI XR125,124,Class 2B,Street Bikes
+852,CPI XR250,0,cpi,CPI XR250,227,Class 2A,Street Bikes
+853,Daelim B-bone 125,0,daelim,Daelim B-bone 125,124,Class 2B,Scooters
+854,Daelim CB115,0,daelim,Daelim CB115,113,Class 2B,Cubs
+855,Daelim Daystar XS150,0,daelim,Daelim Daystar XS150,150,Class 2B,Cruiser
+856,Daelim Roadwin R 125,0,daelim,Daelim Roadwin R 125,124,Class 2B,Sport Bikes
+857,Daelim Roadwin R 250,0,daelim,Daelim Roadwin R 250,246,Class 2A,Sport Bikes
+858,Daelim S3 SV125,0,daelim,Daelim S3 SV125,124,Class 2B,Scooters
+859,Daelim XQ125,0,daelim,Daelim XQ125,125,Class 2B,Scooters
+860,Daelim XQ250,0,daelim,Daelim XQ250,247,Class 2A,Scooters
+861,Ducati 1299 Panigale R Final Edition,0,ducati,Ducati 1299 Panigale R Final Edition,1285,Class 2,Sport Bikes
+862,Ducati 959 Panigale,0,ducati,Ducati 959 Panigale,955,Class 2,Sport Bikes
+863,Ducati 959 Panigale Corse,0,ducati,Ducati 959 Panigale Corse,955,Class 2,Sport Bikes
+864,Ducati Diavel 1260,0,ducati,Ducati Diavel 1260,1262,Class 2,Street Bikes
+865,Ducati Diavel 1260 Lamborghini,0,ducati,Ducati Diavel 1260 Lamborghini,1262,Class 2,Street Bikes
+866,Ducati Diavel 1260 S,0,ducati,Ducati Diavel 1260 S,1262,Class 2,Street Bikes
+867,Ducati Diavel Carbon,0,ducati,Ducati Diavel Carbon,1198,Class 2,Street Bikes
+868,Ducati Diavel Diesel,0,ducati,Ducati Diavel Diesel,1198,Class 2,Street Bikes
+869,Ducati Hypermotard 950,0,ducati,Ducati Hypermotard 950,937,Class 2,Super Motards
+870,Ducati Hypermotard 950 RVE,0,ducati,Ducati Hypermotard 950 RVE,937,Class 2,Super Motards
+871,Ducati Hypermotard 950 SP,0,ducati,Ducati Hypermotard 950 SP,937,Class 2,Super Motards
+872,Ducati Monster 1200,0,ducati,Ducati Monster 1200,1198,Class 2,Street Bikes
+873,Ducati Monster 1200 25°Anniversario,0,ducati,Ducati Monster 1200 25°Anniversario,1198,Class 2,Street Bikes
+874,Ducati Monster 1200R,0,ducati,Ducati Monster 1200R,1198,Class 2,Street Bikes
+875,Ducati Monster 1200S,0,ducati,Ducati Monster 1200S,1198,Class 2,Street Bikes
+876,Ducati Monster 797,0,ducati,Ducati Monster 797,803,Class 2,Street Bikes
+877,Ducati Monster 821,0,ducati,Ducati Monster 821,821,Class 2,Street Bikes
+878,Ducati Monster 937,0,ducati,Ducati Monster 937,937,Class 2,Street Bikes
+879,Ducati Multistrada 1260,0,ducati,Ducati Multistrada 1260,1262,Class 2,Sport Tourers
+880,Ducati Multistrada 1260 Enduro,0,ducati,Ducati Multistrada 1260 Enduro,1262,Class 2,Sport Tourers
+881,Ducati Multistrada 950,0,ducati,Ducati Multistrada 950,937,Class 2,Sport Tourers
+882,Ducati Multistrada V4,0,ducati,Ducati Multistrada V4,1158,Class 2,Sport Tourers
+883,Ducati Panigale V2,0,ducati,Ducati Panigale V2,955,Class 2,Sport Bikes
+884,Ducati Panigale V4,0,ducati,Ducati Panigale V4,1103,Class 2,Sport Bikes
+885,Ducati Panigale V4 R,0,ducati,Ducati Panigale V4 R,998,Class 2,Sport Bikes
+886,Ducati Panigale V4 Speciale,0,ducati,Ducati Panigale V4 Speciale,1103,Class 2,Sport Bikes
+887,Ducati Scrambler 1100,0,ducati,Ducati Scrambler 1100,1079,Class 2,Street Bikes
+888,Ducati Scrambler 1100 Special,0,ducati,Ducati Scrambler 1100 Special,1079,Class 2,Street Bikes
+889,Ducati Scrambler 1100 Sport,0,ducati,Ducati Scrambler 1100 Sport,1079,Class 2,Street Bikes
+890,Ducati Scrambler Cafe Racer,0,ducati,Ducati Scrambler Cafe Racer,803,Class 2,Street Bikes
+891,Ducati Scrambler Classic,0,ducati,Ducati Scrambler Classic,803,Class 2,Street Bikes
+892,Ducati Scrambler Desert Sled,0,ducati,Ducati Scrambler Desert Sled,803,Class 2,Street Bikes
+893,Ducati Scrambler Full Throttle,0,ducati,Ducati Scrambler Full Throttle,803,Class 2,Street Bikes
+894,Ducati Scrambler Icon,0,ducati,Ducati Scrambler Icon,803,Class 2,Street Bikes
+895,Ducati Scrambler Mach 2.0,0,ducati,Ducati Scrambler Mach 2.0,803,Class 2,Street Bikes
+896,Ducati Scrambler Sixty2,0,ducati,Ducati Scrambler Sixty2,399,Class 2A,Street Bikes
+897,Ducati Scrambler Street Classic,0,ducati,Ducati Scrambler Street Classic,803,Class 2,Street Bikes
+898,Ducati Streetfighter V4,0,ducati,Ducati Streetfighter V4,1103,Class 2,Street Bikes
+899,Ducati Superleggera V4,0,ducati,Ducati Superleggera V4,998,Class 2,Sport Bikes
+900,Ducati SuperSport,0,ducati,Ducati SuperSport,937,Class 2,Sport Bikes
+901,Ducati SuperSport S,0,ducati,Ducati SuperSport S,937,Class 2,Sport Bikes
+902,Ducati XDiavel,0,ducati,Ducati XDiavel,1262,Class 2,Street Bikes
+903,Ducati XDiavel Black Star,0,ducati,Ducati XDiavel Black Star,1262,Class 2,Street Bikes
+904,Ducati XDiavel S,0,ducati,Ducati XDiavel S,1262,Class 2,Street Bikes
+905,Gilera Fuoco 500 I.E.,0,gilera,Gilera Fuoco 500 I.E.,493,Class 2,Three Wheeler
+906,Gilera ST200 Runner,0,gilera,Gilera ST200 Runner,198,Class 2B,Scooters
+907,Harley Davidson 1200 Custom,0,harley davidson,Harley Davidson 1200 Custom,1202,Class 2,Cruiser
+908,Harley Davidson Breakout,0,harley davidson,Harley Davidson Breakout,1868,Class 2,Cruiser
+909,Harley Davidson CVO Limited,0,harley davidson,Harley Davidson CVO Limited,1923,Class 2,Cruiser
+910,Harley Davidson CVO Road Glide,0,harley davidson,Harley Davidson CVO Road Glide,1923,Class 2,Cruiser
+911,Harley Davidson CVO Street Glide,0,harley davidson,Harley Davidson CVO Street Glide,1923,Class 2,Cruiser
+912,Harley Davidson Deluxe,0,harley davidson,Harley Davidson Deluxe,1745,Class 2,Cruiser
+913,Harley Davidson Electra Glide Ultra Classic,0,harley davidson,Harley Davidson Electra Glide Ultra Classic,1746,Class 2,Cruiser
+914,Harley Davidson Fat Bob,0,harley davidson,Harley Davidson Fat Bob,1745,Class 2,Cruiser
+915,Harley Davidson Fat Boy,0,harley davidson,Harley Davidson Fat Boy,1745,Class 2,Cruiser
+916,Harley Davidson Forty-Eight,0,harley davidson,Harley Davidson Forty-Eight,1202,Class 2,Cruiser
+917,Harley Davidson Forty-Eight Special,0,harley davidson,Harley Davidson Forty-Eight Special,1202,Class 2,Cruiser
+918,Harley Davidson Freewheeler,0,harley davidson,Harley Davidson Freewheeler,1868,Class 2,Three Wheeler
+919,Harley Davidson FXDR 114,0,harley davidson,Harley Davidson FXDR 114,1868,Class 2,Cruiser
+920,Harley Davidson Heritage Classic,0,harley davidson,Harley Davidson Heritage Classic,1745,Class 2,Cruiser
+921,Harley Davidson Iron 1200,0,harley davidson,Harley Davidson Iron 1200,1202,Class 2,Cruiser
+922,Harley Davidson Iron 883,0,harley davidson,Harley Davidson Iron 883,883,Class 2,Cruiser
+923,Harley Davidson LiveWire,0,harley davidson,Harley Davidson LiveWire,0,Class 2,Street Bikes
+924,Harley Davidson Low Rider,0,harley davidson,Harley Davidson Low Rider,1745,Class 2,Cruiser
+925,Harley Davidson Road Glide,0,harley davidson,Harley Davidson Road Glide,1745,Class 2,Cruiser
+926,Harley Davidson Road Glide Special,0,harley davidson,Harley Davidson Road Glide Special,1868,Class 2,Cruiser
+927,Harley Davidson Road Glide Ultra,0,harley davidson,Harley Davidson Road Glide Ultra,1746,Class 2,Cruiser
+928,Harley Davidson Road King,0,harley davidson,Harley Davidson Road King,1745,Class 2,Cruiser
+929,Harley Davidson Road King Special,0,harley davidson,Harley Davidson Road King Special,1745,Class 2,Cruiser
+930,Harley Davidson Roadster,0,harley davidson,Harley Davidson Roadster,1202,Class 2,Cruiser
+931,Harley Davidson Softail Slim,0,harley davidson,Harley Davidson Softail Slim,1745,Class 2,Cruiser
+932,Harley Davidson Sport Glide,0,harley davidson,Harley Davidson Sport Glide,1745,Class 2,Cruiser
+933,Harley Davidson Street 500,0,harley davidson,Harley Davidson Street 500,494,Class 2,Cruiser
+934,Harley Davidson Street 750,0,harley davidson,Harley Davidson Street 750,749,Class 2,Street Bikes
+935,Harley Davidson Street Bob,0,harley davidson,Harley Davidson Street Bob,1745,Class 2,Cruiser
+936,Harley Davidson Street Glide,0,harley davidson,Harley Davidson Street Glide,1745,Class 2,Cruiser
+937,Harley Davidson Street Glide Special,0,harley davidson,Harley Davidson Street Glide Special,1868,Class 2,Cruiser
+938,Harley Davidson Street Rod,0,harley davidson,Harley Davidson Street Rod,749,Class 2,Cruiser
+939,Harley Davidson SuperLow,0,harley davidson,Harley Davidson SuperLow,883,Class 2,Cruiser
+940,Harley Davidson Tri Glide Ultra,0,harley davidson,Harley Davidson Tri Glide Ultra,1868,Class 2,Three Wheeler
+941,Harley Davidson Ultra Limited,0,harley davidson,Harley Davidson Ultra Limited,1746,Class 2,Cruiser
+942,Harley Davidson Ultra Limited Low,0,harley davidson,Harley Davidson Ultra Limited Low,1746,Class 2,Cruiser
+943,Honda Adv 150,0,honda,Honda Adv 150,150,Class 2B,Scooters
+944,Honda Adv 150,0,honda,Honda Adv 150,150,Class 2B,Scooters
+945,Honda Adv 160,0,honda,Honda Adv 160,157,Class 2B,Scooters
+946,Honda Adv 160,0,honda,Honda Adv 160,157,Class 2B,Scooters
+947,Honda Adv 350,0,honda,Honda Adv 350,330,Class 2A,Scooters
+948,Honda CB1000R,0,honda,Honda CB1000R,998,Class 2,Street Bikes
+949,Honda CB1000R,0,honda,Honda CB1000R,998,Class 2,Street Bikes
+950,Honda CB1100,0,honda,Honda CB1100,1140,Class 2,Street Bikes
+951,Honda CB1100 EX,0,honda,Honda CB1100 EX,1140,Class 2,Street Bikes
+952,Honda CB125F,0,honda,Honda CB125F,125,Class 2B,Street Bikes
+953,Honda CB125F,0,honda,Honda CB125F,125,Class 2B,Street Bikes
+954,Honda CB125R,0,honda,Honda CB125R,125,Class 2B,Street Bikes
+955,Honda CB125R,0,honda,Honda CB125R,125,Class 2B,Street Bikes
+956,Honda CB1300 Super 4 SP 30th Anniversary,0,honda,Honda CB1300 Super 4 SP 30th Anniversary,1284,Class 2,Street Bikes
+957,Honda CB1300 Super Bold'or SP 30th Anniversary,0,honda,Honda CB1300 Super Bold'or SP 30th Anniversary,1284,Class 2,Street Bikes
+958,Honda CB150R ExMotion,0,honda,Honda CB150R ExMotion,149,Class 2B,Street Bikes
+959,Honda CB150R Streetster,0,honda,Honda CB150R Streetster,149,Class 2B,Street Bikes
+960,Honda CB150X,0,honda,Honda CB150X,149,Class 2B,Sport Tourers
+961,Honda CB190R,0,honda,Honda CB190R,184,Class 2B,Street Bikes
+962,Honda CB190R,0,honda,Honda CB190R,184,Class 2B,Street Bikes
+963,Honda CB190R Repsol,0,honda,Honda CB190R Repsol,184,Class 2B,Street Bikes
+964,Honda CB190SS,0,honda,Honda CB190SS,184,Class 2B,Street Bikes
+965,Honda CB190X Tourism,0,honda,Honda CB190X Tourism,184,Class 2B,Sport Tourers
+966,Honda CB200X,0,honda,Honda CB200X,184,Class 2B,Sport Tourers
+967,Honda CB300F,0,honda,Honda CB300F,286,Class 2A,Street Bikes
+968,Honda CB300R,0,honda,Honda CB300R,286,Class 2A,Street Bikes
+969,Honda CB350 Hness,0,honda,Honda CB350 Hness,348,Class 2A,Street Bikes
+970,Honda CB400 Super 4 Revo,0,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+971,Honda CB400 Super 4 Revo,0,honda,Honda CB400 Super 4 Revo,399,Class 2A,Street Bikes
+972,Honda CB400 Super 4 SE Bold'or,0,honda,Honda CB400 Super 4 SE Bold'or,399,Class 2A,Street Bikes
+973,Honda CB400F,0,honda,Honda CB400F,399,Class 2A,Street Bikes
+974,Honda CB400X,0,honda,Honda CB400X,399,Class 2A,Sport Tourers
+975,Honda CB400X,0,honda,Honda CB400X,399,Class 2A,Sport Tourers
+976,Honda CB500F,0,honda,Honda CB500F,471,Class 2,Street Bikes
+977,Honda CB500X,0,honda,Honda CB500X,471,Class 2,Sport Tourers
+978,Honda CB650F,0,honda,Honda CB650F,649,Class 2,Street Bikes
+979,Honda CB650R,0,honda,Honda CB650R,649,Class 2,Street Bikes
+980,Honda CBF150,0,honda,Honda CBF150,149,Class 2B,Street Bikes
+981,Honda CBF190TR Scrambler,0,honda,Honda CBF190TR Scrambler,184,Class 2B,Street Bikes
+982,Honda CBF190X Fighthawk,0,honda,Honda CBF190X Fighthawk,184,Class 2B,Sport Tourers
+983,Honda CBR1000R Fireblade,0,honda,Honda CBR1000R Fireblade,999,Class 2,Sport Bikes
+984,Honda CBR1000RR,0,honda,Honda CBR1000RR,999,Class 2,Sport Bikes
+985,Honda CBR1000RR SP1,0,honda,Honda CBR1000RR SP1,999,Class 2,Sport Bikes
+986,Honda CBR150R,0,honda,Honda CBR150R,149,Class 2B,Sport Bikes
+987,Honda CBR250R,0,honda,Honda CBR250R,249,Class 2A,Sport Bikes
+988,Honda CBR250RR,0,honda,Honda CBR250RR,249,Class 2A,Sport Bikes
+989,Honda CBR300R,0,honda,Honda CBR300R,286,Class 2A,Sport Bikes
+990,Honda CBR400R,0,honda,Honda CBR400R,399,Class 2A,Sport Bikes
+991,Honda CBR500R,0,honda,Honda CBR500R,471,Class 2,Sport Bikes
+992,Honda CBR600RR,0,honda,Honda CBR600RR,599,Class 2,Sport Bikes
+993,Honda CBR650F,0,honda,Honda CBR650F,649,Class 2,Sport Bikes
+994,Honda CBR650R,0,honda,Honda CBR650R,649,Class 2,Sport Bikes
+995,Honda CRF1000L Africa Twin,0,honda,Honda CRF1000L Africa Twin,998,Class 2,Sport Tourers
+996,Honda CRF1000L Africa Twin Adventure Sports,0,honda,Honda CRF1000L Africa Twin Adventure Sports,998,Class 2,Sport Tourers
+997,Honda CRF1100 Africa Twin,0,honda,Honda CRF1100 Africa Twin,1084,Class 2,Sport Tourers
+998,Honda CRF1100 Africa Twin Adventure Sports,0,honda,Honda CRF1100 Africa Twin Adventure Sports,1084,Class 2,Sport Tourers
+999,Honda CRF190L,0,honda,Honda CRF190L,184,Class 2B,Sport Tourers
+1000,Honda CRF250L,0,honda,Honda CRF250L,249,Class 2A,Scrambler/Dirt Bike
+1001,Honda CRF250R,0,honda,Honda CRF250R,249,Class 2A,Scrambler/Dirt Bike
+1002,Honda CRF250X,0,honda,Honda CRF250X,249,Class 2A,Scrambler/Dirt Bike
+1003,Honda CRF300L,0,honda,Honda CRF300L,286,Class 2A,Scrambler/Dirt Bike
+1004,Honda CRF450L,0,honda,Honda CRF450L,449,Class 2,Scrambler/Dirt Bike
+1005,Honda CRF450R,0,honda,Honda CRF450R,449,Class 2,Scrambler/Dirt Bike
+1006,Honda CRF450X,0,honda,Honda CRF450X,449,Class 2,Scrambler/Dirt Bike
+1007,Honda CTX700 DCT,0,honda,Honda CTX700 DCT,670,Class 2,Street Bikes
+1008,Honda CTX700N,0,honda,Honda CTX700N,670,Class 2,Street Bikes
+1009,Honda F6B Goldwing,0,honda,Honda F6B Goldwing,1832,Class 2,Sport Tourers
+1010,Honda FJS400D SilverWing,0,honda,Honda FJS400D SilverWing,399,Class 2A,Scooters
+1011,Honda Forza 125,0,honda,Honda Forza 125,125,Class 2B,Scooters
+1012,Honda Forza 300,0,honda,Honda Forza 300,279,Class 2A,Scooters
+1013,Honda Forza 300,0,honda,Honda Forza 300,279,Class 2A,Scooters
+1014,Honda Forza 350,0,honda,Honda Forza 350,330,Class 2A,Scooters
+1015,Honda Forza 750,0,honda,Honda Forza 750,745,Class 2,Scooters
+1016,Honda Forza 750,0,honda,Honda Forza 750,745,Class 2,Scooters
+1017,Honda GB350,0,honda,Honda GB350,348,Class 2A,Street Bikes
+1018,Honda GB350S,0,honda,Honda GB350S,348,Class 2A,Street Bikes
+1019,Honda GB350S,0,honda,Honda GB350S,348,Class 2A,Street Bikes
+1020,Honda GL1800 Goldwing,0,honda,Honda GL1800 Goldwing,1833,Class 2,Sport Tourers
+1021,Honda GL1800A Goldwing,0,honda,Honda GL1800A Goldwing,1833,Class 2,Sport Tourers
+1022,Honda GLS200 Tiger,0,honda,Honda GLS200 Tiger,200,Class 2B,Street Bikes
+1023,Honda Hornet 2.0,0,honda,Honda Hornet 2.0,184,Class 2B,Street Bikes
+1024,Honda Monkey 125,0,honda,Honda Monkey 125,125,Class 2B,Street Bikes
+1025,Honda MSX125,0,honda,Honda MSX125,124,Class 2B,Street Bikes
+1026,Honda MSX125,0,honda,Honda MSX125,124,Class 2B,Street Bikes
+1027,Honda NC700X,0,honda,Honda NC700X,670,Class 2,Sport Tourers
+1028,Honda NC750D Integra,0,honda,Honda NC750D Integra,745,Class 2,Scooters
+1029,Honda NC750S,0,honda,Honda NC750S,745,Class 2,Street Bikes
+1030,Honda NC750X,0,honda,Honda NC750X,745,Class 2,Sport Tourers
+1031,Honda NC750XA,0,honda,Honda NC750XA,745,Class 2,Sport Tourers
+1032,Honda NC750XA,0,honda,Honda NC750XA,745,Class 2,Sport Tourers
+1033,Honda NM4 Vultus,0,honda,Honda NM4 Vultus,670,Class 2,Cruiser
+1034,Honda PCX125,0,honda,Honda PCX125,125,Class 2B,Scooters
+1035,Honda PCX150,0,honda,Honda PCX150,149,Class 2B,Scooters
+1036,Honda PCX150,0,honda,Honda PCX150,149,Class 2B,Scooters
+1037,Honda PCX160,0,honda,Honda PCX160,157,Class 2B,Scooters
+1038,Honda PCX160,0,honda,Honda PCX160,157,Class 2B,Scooters
+1039,Honda Rebel 300,0,honda,Honda Rebel 300,286,Class 2A,Cruiser
+1040,Honda Rebel 500,0,honda,Honda Rebel 500,471,Class 2,Cruiser
+1041,Honda Rebel 500,0,honda,Honda Rebel 500,471,Class 2,Cruiser
+1042,Honda Revo X,0,honda,Honda Revo X,110,Class 2B,Cubs
+1043,Honda RR150,0,honda,Honda RR150,150,Class 2B,Street Bikes
+1044,Honda RS150R Winner,0,honda,Honda RS150R Winner,150,Class 2B,Cubs
+1045,Honda RS150R Winner,0,honda,Honda RS150R Winner,150,Class 2B,Cubs
+1046,Honda Shadow Phantom,0,honda,Honda Shadow Phantom,745,Class 2,Cruiser
+1047,Honda ST1300A Pan-European,0,honda,Honda ST1300A Pan-European,1261,Class 2,Sport Tourers
+1048,Honda Super Cub C125,0,honda,Honda Super Cub C125,125,Class 2B,Cubs
+1049,Honda Supra GTR150,0,honda,Honda Supra GTR150,150,Class 2B,Cubs
+1050,Honda Vario 160,0,honda,Honda Vario 160,157,Class 2B,Scooters
+1051,Honda VFR1200,0,honda,Honda VFR1200,1237,Class 2,Sport Bikes
+1052,Honda VFR1200X Crosstourer,0,honda,Honda VFR1200X Crosstourer,1237,Class 2,Sport Tourers
+1053,Honda VFR800F Interceptor,0,honda,Honda VFR800F Interceptor,782,Class 2,Sport Bikes
+1054,Honda VFR800X CrossRunner,0,honda,Honda VFR800X CrossRunner,782,Class 2,Sport Tourers
+1055,Honda Vision,0,honda,Honda Vision,108,Class 2B,Scooters
+1056,Honda VT1300CX Fury,0,honda,Honda VT1300CX Fury,1312,Class 2,Cruiser
+1057,Honda Wave125i,0,honda,Honda Wave125i,125,Class 2B,Cubs
+1058,Honda Wave125i,0,honda,Honda Wave125i,125,Class 2B,Cubs
+1059,Honda Winner X 150,0,honda,Honda Winner X 150,149,Class 2B,Cubs
+1060,Honda X-Adv 750,0,honda,Honda X-Adv 750,745,Class 2,Scooters
+1061,Honda X-Adv 750,0,honda,Honda X-Adv 750,745,Class 2,Scooters
+1062,Honda XR650L,0,honda,Honda XR650L,644,Class 2,Scrambler/Dirt Bike
+1063,Husqvarna 701 Supermoto,0,husqvarna,Husqvarna 701 Supermoto,692,Class 2,Super Motards
+1064,Husqvarna FS450,0,husqvarna,Husqvarna FS450,450,Class 2,Super Motards
+1065,Husqvarna Svartpilen 200,0,husqvarna,Husqvarna Svartpilen 200,199,Class 2B,Street Bikes
+1066,Husqvarna Svartpilen 401,0,husqvarna,Husqvarna Svartpilen 401,373,Class 2A,Street Bikes
+1067,Husqvarna Svartpilen 701,0,husqvarna,Husqvarna Svartpilen 701,692,Class 2,Street Bikes
+1068,Husqvarna TE125,0,husqvarna,Husqvarna TE125,124,Class 2B,Super Motards
+1069,Husqvarna Vitpilen 401,0,husqvarna,Husqvarna Vitpilen 401,373,Class 2A,Street Bikes
+1070,Husqvarna Vitpilen 701,0,husqvarna,Husqvarna Vitpilen 701,693,Class 2,Street Bikes
+1071,Hyosung GD250R,0,hyosung,Hyosung GD250R,249,Class 2A,Sport Bikes
+1072,Hyosung GD450N,0,hyosung,Hyosung GD450N,249,Class 2A,Street Bikes
+1073,Hyosung GT125P,0,hyosung,Hyosung GT125P,124,Class 2B,Street Bikes
+1074,Hyosung GT125R,0,hyosung,Hyosung GT125R,124,Class 2B,Sport Bikes
+1075,Hyosung GT250R,0,hyosung,Hyosung GT250R,249,Class 2A,Sport Bikes
+1076,Hyosung GV125C,0,hyosung,Hyosung GV125C,124,Class 2B,Cruiser
+1077,Hyosung GV650 Aquila Pro,0,hyosung,Hyosung GV650 Aquila Pro,678,Class 2,Cruiser
+1078,Hyosung ST7,0,hyosung,Hyosung ST7,678,Class 2,Cruiser
+1079,Indian Challenger,0,indian,Indian Challenger,1769,Class 2,Cruiser
+1080,Indian Chief Dark Horse,0,indian,Indian Chief Dark Horse,1811,Class 2,Cruiser
+1081,Indian Chief Vintage,0,indian,Indian Chief Vintage,1811,Class 2,Cruiser
+1082,Indian Chieftain,0,indian,Indian Chieftain,1811,Class 2,Cruiser
+1083,Indian Chieftain Classic,0,indian,Indian Chieftain Classic,1811,Class 2,Cruiser
+1084,Indian Chieftain Dark Horse,0,indian,Indian Chieftain Dark Horse,1811,Class 2,Cruiser
+1085,Indian Chieftain Limited,0,indian,Indian Chieftain Limited,1811,Class 2,Cruiser
+1086,Indian Roadmaster,0,indian,Indian Roadmaster,1811,Class 2,Cruiser
+1087,Indian Scout,0,indian,Indian Scout,1133,Class 2,Cruiser
+1088,Indian Scout Bobber,0,indian,Indian Scout Bobber,1130,Class 2,Cruiser
+1089,Indian Scout Sixty,0,indian,Indian Scout Sixty,999,Class 2,Cruiser
+1090,Indian Springfield,0,indian,Indian Springfield,1811,Class 2,Cruiser
+1091,Indian Springfield Dark Horse,0,indian,Indian Springfield Dark Horse,1811,Class 2,Cruiser
+1092,Italjet Dragster 200,0,italjet,Italjet Dragster 200,200,Class 2B,Scooters
+1093,Kawasaki Concours 14 ABS,0,kawasaki,Kawasaki Concours 14 ABS,1352,Class 2,Sport Tourers
+1094,Kawasaki ER-6N,0,kawasaki,Kawasaki ER-6N,649,Class 2,Street Bikes
+1095,Kawasaki EX300 Ninja,0,kawasaki,Kawasaki EX300 Ninja,296,Class 2A,Sport Bikes
+1096,Kawasaki H2 SX,0,kawasaki,Kawasaki H2 SX,998,Class 2,Sport Tourers
+1097,Kawasaki KLR650,0,kawasaki,Kawasaki KLR650,651,Class 2,Sport Tourers
+1098,Kawasaki KLR650 Camo,0,kawasaki,Kawasaki KLR650 Camo,651,Class 2,Sport Tourers
+1099,Kawasaki KLX125,0,kawasaki,Kawasaki KLX125,125,Class 2B,Scrambler/Dirt Bike
+1100,Kawasaki KLX150,0,kawasaki,Kawasaki KLX150,144,Class 2B,Scrambler/Dirt Bike
+1101,Kawasaki KLX250,0,kawasaki,Kawasaki KLX250,249,Class 2A,Scrambler/Dirt Bike
+1102,Kawasaki Ninja 1000 ABS,0,kawasaki,Kawasaki Ninja 1000 ABS,1043,Class 2,Sport Bikes
+1103,Kawasaki Ninja 125,0,kawasaki,Kawasaki Ninja 125,125,Class 2B,Sport Bikes
+1104,Kawasaki Ninja 400,0,kawasaki,Kawasaki Ninja 400,399,Class 2A,Sport Bikes
+1105,Kawasaki Ninja 400 KRT,0,kawasaki,Kawasaki Ninja 400 KRT,399,Class 2A,Sport Bikes
+1106,Kawasaki Ninja 650 ABS,0,kawasaki,Kawasaki Ninja 650 ABS,649,Class 2,Sport Bikes
+1107,Kawasaki Ninja 650 ABS KRT,0,kawasaki,Kawasaki Ninja 650 ABS KRT,649,Class 2,Sport Bikes
+1108,Kawasaki Ninja H2,0,kawasaki,Kawasaki Ninja H2,998,Class 2,Sport Bikes
+1109,Kawasaki Ninja H2 Carbon,0,kawasaki,Kawasaki Ninja H2 Carbon,998,Class 2,Sport Bikes
+1110,Kawasaki Ninja H2 SX,0,kawasaki,Kawasaki Ninja H2 SX,998,Class 2,Sport Bikes
+1111,Kawasaki Ninja H2 SX SE,0,kawasaki,Kawasaki Ninja H2 SX SE,998,Class 2,Sport Bikes
+1112,Kawasaki Ninja H2R,0,kawasaki,Kawasaki Ninja H2R,998,Class 2,Sport Bikes
+1113,Kawasaki Versys 1000 LT,0,kawasaki,Kawasaki Versys 1000 LT,1043,Class 2,Sport Tourers
+1114,Kawasaki Versys 1000 SE LT,0,kawasaki,Kawasaki Versys 1000 SE LT,1043,Class 2,Sport Tourers
+1115,Kawasaki Versys 650 ABS,0,kawasaki,Kawasaki Versys 650 ABS,649,Class 2,Sport Tourers
+1116,Kawasaki Versys 650 LT,0,kawasaki,Kawasaki Versys 650 LT,649,Class 2,Sport Tourers
+1117,Kawasaki Versys-X 300,0,kawasaki,Kawasaki Versys-X 300,296,Class 2A,Sport Tourers
+1118,Kawasaki Vulcan 1700 Vaquero,0,kawasaki,Kawasaki Vulcan 1700 Vaquero,1700,Class 2,Cruiser
+1119,Kawasaki Vulcan 1700 Voyager ABS,0,kawasaki,Kawasaki Vulcan 1700 Voyager ABS,1700,Class 2,Cruiser
+1120,Kawasaki Vulcan 900 Classic,0,kawasaki,Kawasaki Vulcan 900 Classic,903,Class 2,Cruiser
+1121,Kawasaki Vulcan 900 Classic LT,0,kawasaki,Kawasaki Vulcan 900 Classic LT,903,Class 2,Cruiser
+1122,Kawasaki Vulcan 900 Custom,0,kawasaki,Kawasaki Vulcan 900 Custom,903,Class 2,Cruiser
+1123,Kawasaki Vulcan S ABS,0,kawasaki,Kawasaki Vulcan S ABS,649,Class 2,Cruiser
+1124,Kawasaki Vulcan S ABS SE,0,kawasaki,Kawasaki Vulcan S ABS SE,649,Class 2,Cruiser
+1125,Kawasaki Vulcan S Cafe,0,kawasaki,Kawasaki Vulcan S Cafe,649,Class 2,Cruiser
+1126,Kawasaki W175,0,kawasaki,Kawasaki W175,177,Class 2B,Classic Bikes
+1127,Kawasaki W800,0,kawasaki,Kawasaki W800,773,Class 2,Street Bikes
+1128,Kawasaki W800 Cafe,0,kawasaki,Kawasaki W800 Cafe,773,Class 2,Street Bikes
+1129,Kawasaki W800 Special Edition,0,kawasaki,Kawasaki W800 Special Edition,773,Class 2,Classic Bikes
+1130,Kawasaki Z1000 ABS,0,kawasaki,Kawasaki Z1000 ABS,1043,Class 2,Street Bikes
+1131,Kawasaki Z1000 H2,0,kawasaki,Kawasaki Z1000 H2,998,Class 2,Street Bikes
+1132,Kawasaki Z1000SX,0,kawasaki,Kawasaki Z1000SX,1043,Class 2,Sport Bikes
+1133,Kawasaki Z125,0,kawasaki,Kawasaki Z125,125,Class 2B,Street Bikes
+1134,Kawasaki Z125 Pro,0,kawasaki,Kawasaki Z125 Pro,125,Class 2B,Super Motards
+1135,Kawasaki Z125 Pro KRT,0,kawasaki,Kawasaki Z125 Pro KRT,125,Class 2B,Super Motards
+1136,Kawasaki Z125 Pro SE,0,kawasaki,Kawasaki Z125 Pro SE,125,Class 2B,Super Motards
+1137,Kawasaki Z400,0,kawasaki,Kawasaki Z400,399,Class 2A,Street Bikes
+1138,Kawasaki Z650,0,kawasaki,Kawasaki Z650,649,Class 2,Street Bikes
+1139,Kawasaki Z650RS,0,kawasaki,Kawasaki Z650RS,649,Class 2,Street Bikes
+1140,Kawasaki Z750,0,kawasaki,Kawasaki Z750,748,Class 2,Street Bikes
+1141,Kawasaki Z800,0,kawasaki,Kawasaki Z800,806,Class 2,Street Bikes
+1142,Kawasaki Z900,0,kawasaki,Kawasaki Z900,948,Class 2,Street Bikes
+1143,Kawasaki Z900RS,0,kawasaki,Kawasaki Z900RS,948,Class 2,Classic Bikes
+1144,Kawasaki Z900RS Cafe,0,kawasaki,Kawasaki Z900RS Cafe,948,Class 2,Classic Bikes
+1145,Kawasaki ZX10R Ninja ABS,0,kawasaki,Kawasaki ZX10R Ninja ABS,998,Class 2,Sport Bikes
+1146,Kawasaki ZX10R Ninja KRT,0,kawasaki,Kawasaki ZX10R Ninja KRT,998,Class 2,Sport Bikes
+1147,Kawasaki ZX10R Ninja SE,0,kawasaki,Kawasaki ZX10R Ninja SE,998,Class 2,Sport Bikes
+1148,Kawasaki ZX10R Performance Ninja,0,kawasaki,Kawasaki ZX10R Performance Ninja,998,Class 2,Sport Bikes
+1149,Kawasaki ZX10RR Ninja,0,kawasaki,Kawasaki ZX10RR Ninja,998,Class 2,Sport Bikes
+1150,Kawasaki ZX10RR Performance Ninja,0,kawasaki,Kawasaki ZX10RR Performance Ninja,998,Class 2,Sport Bikes
+1151,Kawasaki ZX14R Ninja ABS,0,kawasaki,Kawasaki ZX14R Ninja ABS,1441,Class 2,Sport Bikes
+1152,Kawasaki ZX6R Ninja ABS,0,kawasaki,Kawasaki ZX6R Ninja ABS,636,Class 2,Sport Bikes
+1153,Kawasaki ZX6R Ninja ABS KRT,0,kawasaki,Kawasaki ZX6R Ninja ABS KRT,636,Class 2,Sport Bikes
+1154,Keeway Blackster 250,0,keeway,Keeway Blackster 250,249,Class 2A,Cruiser
+1155,Keeway Cityblade 125,0,keeway,Keeway Cityblade 125,125,Class 2B,Scooters
+1156,Keeway Dorado 250,0,keeway,Keeway Dorado 250,249,Class 2A,Cruiser
+1157,Keeway K-Light 125,0,keeway,Keeway K-Light 125,125,Class 2B,Cruiser
+1158,keeway Logik 150,0,keeway,keeway Logik 150,124,Class 2B,Scooters
+1159,Keeway RKF 125,0,keeway,Keeway RKF 125,125,Class 2B,Street Bikes
+1160,Keeway RKR 125,0,keeway,Keeway RKR 125,125,Class 2B,Sport Bikes
+1161,Keeway RKS125,0,keeway,Keeway RKS125,125,Class 2B,Street Bikes
+1162,Keeway RKV125 Sport,0,keeway,Keeway RKV125 Sport,125,Class 2B,Street Bikes
+1163,Keeway RKV200S,0,keeway,Keeway RKV200S,197,Class 2B,Street Bikes
+1164,Keeway SilverBlade 125,0,keeway,Keeway SilverBlade 125,124,Class 2B,Scooters
+1165,Keeway SilverBlade 250,0,keeway,Keeway SilverBlade 250,249,Class 2A,Scooters
+1166,Keeway Superlight 125 Limited,0,keeway,Keeway Superlight 125 Limited,124,Class 2B,Cruiser
+1167,Keeway Superlight 125 SE,0,keeway,Keeway Superlight 125 SE,124,Class 2B,Cruiser
+1168,Keeway TX125 Enduro,0,keeway,Keeway TX125 Enduro,125,Class 2B,Super Motards
+1169,Keeway TX125 SM,0,keeway,Keeway TX125 SM,125,Class 2B,Super Motards
+1170,Keeway X-Light 125,0,keeway,Keeway X-Light 125,125,Class 2B,Street Bikes
+1171,Keeway Zahara 125,0,keeway,Keeway Zahara 125,124,Class 2B,Scooters
+1172,Kove 321RR,0,kove,Kove 321RR,322,Class 2A,Sport Bikes
+1173,Kove 400X,0,kove,Kove 400X,378,Class 2A,Sport Tourers
+1174,KTM 1090 Adventure,0,ktm,KTM 1090 Adventure,1050,Class 2,Sport Tourers
+1175,KTM 1090 Adventure R,0,ktm,KTM 1090 Adventure R,1050,Class 2,Sport Tourers
+1176,KTM 1190 Adventure,0,ktm,KTM 1190 Adventure,1195,Class 2,Sport Tourers
+1177,KTM 125 Duke,0,ktm,KTM 125 Duke,124,Class 2B,Street Bikes
+1178,KTM 1290 Super Adventure R,0,ktm,KTM 1290 Super Adventure R,1301,Class 2,Sport Tourers
+1179,KTM 1290 Super Adventure S,0,ktm,KTM 1290 Super Adventure S,1301,Class 2,Sport Tourers
+1180,KTM 1290 Super Duke GT,0,ktm,KTM 1290 Super Duke GT,1301,Class 2,Street Bikes
+1181,KTM 1290 Super Duke R,0,ktm,KTM 1290 Super Duke R,1301,Class 2,Street Bikes
+1182,KTM 200 Duke,0,ktm,KTM 200 Duke,199,Class 2B,Street Bikes
+1183,KTM 250 EXC TPI,0,ktm,KTM 250 EXC TPI,249,Class 2A,Scrambler/Dirt Bike
+1184,KTM 250 EXC TPI Six Days,0,ktm,KTM 250 EXC TPI Six Days,249,Class 2A,Scrambler/Dirt Bike
+1185,KTM 250 EXC-F,0,ktm,KTM 250 EXC-F,250,Class 2A,Scrambler/Dirt Bike
+1186,KTM 250 EXC-F Six Days,0,ktm,KTM 250 EXC-F Six Days,250,Class 2A,Scrambler/Dirt Bike
+1187,KTM 250 SX-F,0,ktm,KTM 250 SX-F,250,Class 2A,Scrambler/Dirt Bike
+1188,KTM 300 EXC TPI,0,ktm,KTM 300 EXC TPI,293,Class 2A,Scrambler/Dirt Bike
+1189,KTM 300 EXC TPI Six Days,0,ktm,KTM 300 EXC TPI Six Days,293,Class 2A,Scrambler/Dirt Bike
+1190,KTM 300 XC,0,ktm,KTM 300 XC,293,Class 2A,Scrambler/Dirt Bike
+1191,KTM 300 XC-W TPI,0,ktm,KTM 300 XC-W TPI,293,Class 2A,Scrambler/Dirt Bike
+1192,KTM 300 XC-W TPI Six Days,0,ktm,KTM 300 XC-W TPI Six Days,293,Class 2A,Scrambler/Dirt Bike
+1193,KTM 350 EXC-F,0,ktm,KTM 350 EXC-F,349,Class 2A,Scrambler/Dirt Bike
+1194,KTM 350 EXC-F Six Days,0,ktm,KTM 350 EXC-F Six Days,350,Class 2A,Scrambler/Dirt Bike
+1195,KTM 350 Freeride,0,ktm,KTM 350 Freeride,349,Class 2A,Scrambler/Dirt Bike
+1196,KTM 350 SX-F,0,ktm,KTM 350 SX-F,350,Class 2A,Scrambler/Dirt Bike
+1197,KTM 390 Adventure,0,ktm,KTM 390 Adventure,373,Class 2A,Sport Tourers
+1198,KTM 390 Duke,0,ktm,KTM 390 Duke,373,Class 2A,Street Bikes
+1199,KTM 450 EXC-F Six Days,0,ktm,KTM 450 EXC-F Six Days,449,Class 2,Scrambler/Dirt Bike
+1200,KTM 450 XC-F,0,ktm,KTM 450 XC-F,450,Class 2,Scrambler/Dirt Bike
+1201,KTM 500 EXC-F,0,ktm,KTM 500 EXC-F,510,Class 2,Scrambler/Dirt Bike
+1202,KTM 500 EXC-F Six Days,0,ktm,KTM 500 EXC-F Six Days,510,Class 2,Scrambler/Dirt Bike
+1203,KTM 690 Duke,0,ktm,KTM 690 Duke,690,Class 2,Street Bikes
+1204,KTM 690 Enduro R,0,ktm,KTM 690 Enduro R,690,Class 2,Scrambler/Dirt Bike
+1205,KTM 690 SMC R,0,ktm,KTM 690 SMC R,690,Class 2,Super Motards
+1206,KTM 790 Adventure,0,ktm,KTM 790 Adventure,799,Class 2,Sport Tourers
+1207,KTM 790 Adventure R,0,ktm,KTM 790 Adventure R,799,Class 2,Sport Tourers
+1208,KTM 790 Duke,0,ktm,KTM 790 Duke,799,Class 2,Street Bikes
+1209,KTM 890 Duke,0,ktm,KTM 890 Duke,890,Class 2,Street Bikes
+1210,KTM RC200,0,ktm,KTM RC200,199,Class 2B,Sport Bikes
+1211,KTM RC390,0,ktm,KTM RC390,373,Class 2A,Sport Bikes
+1212,Kymco AK550,0,kymco,Kymco AK550,550,Class 2,Scooters
+1213,Kymco Downtown 200I,0,kymco,Kymco Downtown 200I,205,Class 2B,Scooters
+1214,Kymco Downtown 300I,0,kymco,Kymco Downtown 300I,298,Class 2A,Scooters
+1215,Kymco Downtown 350I,0,kymco,Kymco Downtown 350I,320,Class 2A,Scooters
+1216,Kymco DTX 360,0,kymco,Kymco DTX 360,320,Class 2A,Scooters
+1217,Kymco K-XCT200I,0,kymco,Kymco K-XCT200I,199,Class 2B,Scooters
+1218,Kymco KRV180,0,kymco,Kymco KRV180,175,Class 2B,Scooters
+1219,Kymco Like 150i Abs,0,kymco,Kymco Like 150i Abs,150,Class 2B,Scooters
+1220,Kymco Myroad 700I,0,kymco,Kymco Myroad 700I,699,Class 2,Scooters
+1221,Kymco Super 8 125,0,kymco,Kymco Super 8 125,125,Class 2B,Scooters
+1222,Kymco X-Town 300i ABS,0,kymco,Kymco X-Town 300i ABS,276,Class 2A,Scooters
+1223,Kymco Xciting 400I,0,kymco,Kymco Xciting 400I,399,Class 2A,Scooters
+1224,Kymco Xciting 500 RI,0,kymco,Kymco Xciting 500 RI,498,Class 2,Scooters
+1225,Lambretta V200 Special,0,lambretta,Lambretta V200 Special,169,Class 2B,Scooters
+1226,Lexmoto Adrenaline 125,0,lexmoto,Lexmoto Adrenaline 125,125,Class 2B,Super Motards
+1227,Lexmoto Chieftain 125,0,lexmoto,Lexmoto Chieftain 125,125,Class 2B,Scooters
+1228,Lexmoto Diablo 125,0,lexmoto,Lexmoto Diablo 125,125,Class 2B,Scooters
+1229,Lexmoto Enigma 125,0,lexmoto,Lexmoto Enigma 125,125,Class 2B,Scooters
+1230,Lexmoto Falcon 125,0,lexmoto,Lexmoto Falcon 125,124,Class 2B,Sport Bikes
+1231,Lexmoto Kiden Aquarius 125,0,lexmoto,Lexmoto Kiden Aquarius 125,124,Class 2B,Street Bikes
+1232,Lexmoto Kiden Aries 125,0,lexmoto,Lexmoto Kiden Aries 125,124,Class 2B,Street Bikes
+1233,Lexmoto Kiden Pisces 125,0,lexmoto,Lexmoto Kiden Pisces 125,124,Class 2B,Street Bikes
+1234,Lexmoto LXR 125,0,lexmoto,Lexmoto LXR 125,125,Class 2B,Sport Bikes
+1235,Lexmoto Matador 125,0,lexmoto,Lexmoto Matador 125,125,Class 2B,Scooters
+1236,Lexmoto Michigan 125,0,lexmoto,Lexmoto Michigan 125,125,Class 2B,Cruiser
+1237,Lexmoto Milano 125,0,lexmoto,Lexmoto Milano 125,125,Class 2B,Scooters
+1238,Lexmoto Monza 125,0,lexmoto,Lexmoto Monza 125,125,Class 2B,Scooters
+1239,Lexmoto Riviera 125,0,lexmoto,Lexmoto Riviera 125,125,Class 2B,Scooters
+1240,Lexmoto Tekken 125,0,lexmoto,Lexmoto Tekken 125,124,Class 2B,Super Motards
+1241,Lexmoto Tempest 125,0,lexmoto,Lexmoto Tempest 125,125,Class 2B,Street Bikes
+1242,Lexmoto Titan 125,0,lexmoto,Lexmoto Titan 125,125,Class 2B,Scooters
+1243,Lexmoto Urban 125,0,lexmoto,Lexmoto Urban 125,125,Class 2B,Scooters
+1244,Lexmoto Valiant 125,0,lexmoto,Lexmoto Valiant 125,125,Class 2B,Street Bikes
+1245,Lexmoto Valletta 125,0,lexmoto,Lexmoto Valletta 125,125,Class 2B,Scooters
+1246,Lexmoto Venom 125,0,lexmoto,Lexmoto Venom 125,124,Class 2B,Street Bikes
+1247,Lexmoto Vienna 125,0,lexmoto,Lexmoto Vienna 125,125,Class 2B,Scooters
+1248,Lexmoto Viper 125,0,lexmoto,Lexmoto Viper 125,124,Class 2B,Sport Tourers
+1249,Lexmoto ZSX-F 125,0,lexmoto,Lexmoto ZSX-F 125,125,Class 2B,Street Bikes
+1250,Lexmoto ZSX-R 125,0,lexmoto,Lexmoto ZSX-R 125,125,Class 2B,Street Bikes
+1251,Megelli Motard 250M,0,megelli,Megelli Motard 250M,250,Class 2A,Super Motards
+1252,Megelli Naked 250S,0,megelli,Megelli Naked 250S,250,Class 2A,Street Bikes
+1253,Megelli Sport 250R,0,megelli,Megelli Sport 250R,250,Class 2A,Sport Bikes
+1254,Modenas Elegan 250,0,modenas,Modenas Elegan 250,249,Class 2A,Scooters
+1255,Modenas GT135,0,modenas,Modenas GT135,130,Class 2B,Cubs
+1256,Modenas Karisma 125,0,modenas,Modenas Karisma 125,125,Class 2B,Scooters
+1257,Moto Guzzi Audace,0,moto guzzi,Moto Guzzi Audace,1380,Class 2,Cruiser
+1258,Moto Guzzi California 1400 Touring,0,moto guzzi,Moto Guzzi California 1400 Touring,1380,Class 2,Cruiser
+1259,Moto Guzzi Eldorado,0,moto guzzi,Moto Guzzi Eldorado,1380,Class 2,Cruiser
+1260,Moto Guzzi MGX-21 Flying Fortress,0,moto guzzi,Moto Guzzi MGX-21 Flying Fortress,1380,Class 2,Cruiser
+1261,Moto Guzzi V7 III Carbon Dark,0,moto guzzi,Moto Guzzi V7 III Carbon Dark,744,Class 2,Street Bikes
+1262,Moto Guzzi V7 III Milano,0,moto guzzi,Moto Guzzi V7 III Milano,744,Class 2,Street Bikes
+1263,Moto Guzzi V7 III Racer,0,moto guzzi,Moto Guzzi V7 III Racer,744,Class 2,Street Bikes
+1264,Moto Guzzi V7 III Rough,0,moto guzzi,Moto Guzzi V7 III Rough,744,Class 2,Street Bikes
+1265,Moto Guzzi V7 III Special,0,moto guzzi,Moto Guzzi V7 III Special,744,Class 2,Street Bikes
+1266,Moto Guzzi V7 IlI Stone,0,moto guzzi,Moto Guzzi V7 IlI Stone,744,Class 2,Street Bikes
+1267,Moto Guzzi V9 Bobber,0,moto guzzi,Moto Guzzi V9 Bobber,853,Class 2,Street Bikes
+1268,Moto Guzzi V9 Roamer,0,moto guzzi,Moto Guzzi V9 Roamer,853,Class 2,Street Bikes
+1269,Mutt Akita 125,0,mutt,Mutt Akita 125,125,Class 2B,Street Bikes
+1270,Mutt Akita 125,0,mutt,Mutt Akita 125,125,Class 2B,Street Bikes
+1271,Mutt Fat Sabbath 125,0,mutt,Mutt Fat Sabbath 125,125,Class 2B,Street Bikes
+1272,Mutt Fat Sabbath 125 Bronze,0,mutt,Mutt Fat Sabbath 125 Bronze,125,Class 2B,Street Bikes
+1273,Mutt GT-SS 125,0,mutt,Mutt GT-SS 125,125,Class 2B,Street Bikes
+1274,Mutt GT-SS 250,0,mutt,Mutt GT-SS 250,250,Class 2A,Street Bikes
+1275,Mutt Hilts Green 125,0,mutt,Mutt Hilts Green 125,125,Class 2B,Street Bikes
+1276,Mutt Hilts Green 250,0,mutt,Mutt Hilts Green 250,250,Class 2A,Street Bikes
+1277,Mutt Hilts Grey 125,0,mutt,Mutt Hilts Grey 125,125,Class 2B,Street Bikes
+1278,Mutt Hilts Grey 250,0,mutt,Mutt Hilts Grey 250,250,Class 2A,Street Bikes
+1279,Mutt Mastiff 125,0,mutt,Mutt Mastiff 125,125,Class 2B,Street Bikes
+1280,Mutt Mastiff 250,0,mutt,Mutt Mastiff 250,250,Class 2A,Street Bikes
+1281,Mutt Mauler 125,0,mutt,Mutt Mauler 125,125,Class 2B,Street Bikes
+1282,Mutt Mongrel 125,0,mutt,Mutt Mongrel 125,125,Class 2B,Street Bikes
+1283,Mutt Mongrel 250,0,mutt,Mutt Mongrel 250,250,Class 2A,Street Bikes
+1284,Mutt New Imperial Tracker 125,0,mutt,Mutt New Imperial Tracker 125,125,Class 2B,Street Bikes
+1285,Mutt Razorback 125,0,mutt,Mutt Razorback 125,125,Class 2B,Street Bikes
+1286,Mutt RS-13 125,0,mutt,Mutt RS-13 125,125,Class 2B,Street Bikes
+1287,Mutt RS-13 250,0,mutt,Mutt RS-13 250,250,Class 2A,Street Bikes
+1288,Mutt Sabbath 250,0,mutt,Mutt Sabbath 250,250,Class 2A,Street Bikes
+1289,Mutt Super 4 Blue 125,0,mutt,Mutt Super 4 Blue 125,125,Class 2B,Street Bikes
+1290,Mutt Super 4 Gold 125,0,mutt,Mutt Super 4 Gold 125,125,Class 2B,Street Bikes
+1291,Mutt Super 6 125,0,mutt,Mutt Super 6 125,125,Class 2B,Street Bikes
+1292,MV Agusta Brutale 1000 RS,0,mv agusta,MV Agusta Brutale 1000 RS,998,Class 2,Street Bikes
+1293,MV Agusta Brutale 800,0,mv agusta,MV Agusta Brutale 800,798,Class 2,Street Bikes
+1294,MV Agusta Brutale 800 Dragster,0,mv agusta,MV Agusta Brutale 800 Dragster,798,Class 2,Street Bikes
+1295,MV Agusta Brutale 800 Dragster RR,0,mv agusta,MV Agusta Brutale 800 Dragster RR,798,Class 2,Street Bikes
+1296,MV Agusta Brutale 800 Dragster RR LH44,0,mv agusta,MV Agusta Brutale 800 Dragster RR LH44,798,Class 2,Street Bikes
+1297,MV Agusta Brutale 800 RC,0,mv agusta,MV Agusta Brutale 800 RC,798,Class 2,Street Bikes
+1298,MV Agusta Brutale 800 RR,0,mv agusta,MV Agusta Brutale 800 RR,798,Class 2,Street Bikes
+1299,MV Agusta Brutale 800 RR LH44,0,mv agusta,MV Agusta Brutale 800 RR LH44,798,Class 2,Street Bikes
+1300,MV Agusta Brutale 800 RR Pirelli,0,mv agusta,MV Agusta Brutale 800 RR Pirelli,798,Class 2,Street Bikes
+1301,MV Agusta Dragster 800 RC,0,mv agusta,MV Agusta Dragster 800 RC,798,Class 2,Street Bikes
+1302,MV Agusta Dragster 800 RR,0,mv agusta,MV Agusta Dragster 800 RR,798,Class 2,Street Bikes
+1303,MV Agusta Dragster 800 RR America,0,mv agusta,MV Agusta Dragster 800 RR America,798,Class 2,Street Bikes
+1304,MV Agusta F3 675,0,mv agusta,MV Agusta F3 675,675,Class 2,Sport Bikes
+1305,MV Agusta F3 675 RC,0,mv agusta,MV Agusta F3 675 RC,675,Class 2,Sport Bikes
+1306,MV Agusta F3 800,0,mv agusta,MV Agusta F3 800,798,Class 2,Sport Bikes
+1307,MV Agusta F3 800 RC,0,mv agusta,MV Agusta F3 800 RC,798,Class 2,Sport Bikes
+1308,MV Agusta F3 800 Rosso,0,mv agusta,MV Agusta F3 800 Rosso,798,Class 2,Sport Bikes
+1309,MV Agusta F4,0,mv agusta,MV Agusta F4,998,Class 2,Sport Bikes
+1310,MV Agusta F4 LH44,0,mv agusta,MV Agusta F4 LH44,998,Class 2,Sport Bikes
+1311,MV Agusta F4RC,0,mv agusta,MV Agusta F4RC,998,Class 2,Sport Bikes
+1312,MV Agusta F4RR,0,mv agusta,MV Agusta F4RR,998,Class 2,Sport Bikes
+1313,MV Agusta Rush 1000,0,mv agusta,MV Agusta Rush 1000,998,Class 2,Street Bikes
+1314,MV Agusta RVS,0,mv agusta,MV Agusta RVS,798,Class 2,Street Bikes
+1315,MV Agusta Superveloce 800,0,mv agusta,MV Agusta Superveloce 800,798,Class 2,Sport Bikes
+1316,MV Agusta Turismo Veloce 800,0,mv agusta,MV Agusta Turismo Veloce 800,798,Class 2,Sport Tourers
+1317,MV Agusta Turismo Veloce 800 Lusso SCS,0,mv agusta,MV Agusta Turismo Veloce 800 Lusso SCS,798,Class 2,Super Motards
+1318,MV Agusta Turismo Veloce Lusso 800,0,mv agusta,MV Agusta Turismo Veloce Lusso 800,798,Class 2,Sport Tourers
+1319,MV Agusta Turismo Veloce RC,0,mv agusta,MV Agusta Turismo Veloce RC,798,Class 2,Sport Tourers
+1320,Norton Commando 961 Cafe Racer,0,norton,Norton Commando 961 Cafe Racer,961,Class 2,Classic Bikes
+1321,Norton Commando 961 Sport,0,norton,Norton Commando 961 Sport,961,Class 2,Classic Bikes
+1322,Norton Dominator,0,norton,Norton Dominator,961,Class 2,Classic Bikes
+1323,Norton V4 RR,0,norton,Norton V4 RR,1200,Class 2,Sport Bikes
+1324,Peugeot Django 150,0,peugeot,Peugeot Django 150,150,Class 2B,Scooters
+1325,Peugeot Geopolis RS300,0,peugeot,Peugeot Geopolis RS300,278,Class 2A,Scooters
+1326,Peugeot Metropolis 400,0,peugeot,Peugeot Metropolis 400,399,Class 2A,Three Wheeler
+1327,Peugeot Speedfight 125,0,peugeot,Peugeot Speedfight 125,125,Class 2B,Scooters
+1328,Peugeot Tweet 150,0,peugeot,Peugeot Tweet 150,150,Class 2B,Scooters
+1329,Peugeot Vivacity 125,0,peugeot,Peugeot Vivacity 125,124,Class 2B,Scooters
+1330,PGO G-Max 220 EFI,0,pgo,PGO G-Max 220 EFI,220,Class 2A,Scooters
+1331,PGO I ME 150 Wel Bike,0,pgo,PGO I ME 150 Wel Bike,147,Class 2B,Three Wheeler
+1332,PGO Libra 125 EFI,0,pgo,PGO Libra 125 EFI,149,Class 2B,Scooters
+1333,PGO X-Hot 150 EFI,0,pgo,PGO X-Hot 150 EFI,149,Class 2B,Scooters
+1334,Piaggio Beverly 300,0,piaggio,Piaggio Beverly 300,278,Class 2A,Scooters
+1335,Piaggio Liberty 125,0,piaggio,Piaggio Liberty 125,124,Class 2B,Scooters
+1336,Piaggio Liberty 150,0,piaggio,Piaggio Liberty 150,255,Class 2B,Scooters
+1337,Piaggio Medley 125,0,piaggio,Piaggio Medley 125,125,Class 2B,Scooters
+1338,Piaggio Medley 150,0,piaggio,Piaggio Medley 150,155,Class 2B,Scooters
+1339,Piaggio MP3 500 Sport,0,piaggio,Piaggio MP3 500 Sport,493,Class 2,Three Wheeler
+1340,Piaggio MP3 Business 500 HPE,0,piaggio,Piaggio MP3 Business 500 HPE,493,Class 2,Three Wheeler
+1341,Piaggio MP3 Yourban 300,0,piaggio,Piaggio MP3 Yourban 300,278,Class 2A,Three Wheeler
+1342,Qingqi QM125,0,qingqi,Qingqi QM125,199,Class 2B,Classic Bikes
+1343,Qooder Quadro,0,qooder,Qooder Quadro,399,Class 2A,Three Wheeler
+1344,Regal-Raptor Bobber DD350E-2,0,regal-raptor,Regal-Raptor Bobber DD350E-2,320,Class 2A,Cruiser
+1345,Regal-Raptor Chopper DD350E-9B,0,regal-raptor,Regal-Raptor Chopper DD350E-9B,320,Class 2A,Cruiser
+1346,Regal-Raptor SPT DD350G,0,regal-raptor,Regal-Raptor SPT DD350G,320,Class 2A,Street Bikes
+1347,Regal-Raptor Spyder DD350E-6,0,regal-raptor,Regal-Raptor Spyder DD350E-6,320,Class 2A,Cruiser
+1348,Rieju Century 125,0,rieju,Rieju Century 125,125,Class 2B,Street Bikes
+1349,Rieju Marathon 125 SM PRO,0,rieju,Rieju Marathon 125 SM PRO,125,Class 2B,Super Motards
+1350,Rieju Marathon 200 SM PRO,0,rieju,Rieju Marathon 200 SM PRO,200,Class 2B,Super Motards
+1351,Rieju Marathon Pro 125,0,rieju,Rieju Marathon Pro 125,124,Class 2B,Super Motards
+1352,Rieju Marathon Pro 200,0,rieju,Rieju Marathon Pro 200,200,Class 2B,Scrambler/Dirt Bike
+1353,Rieju Tango 125,0,rieju,Rieju Tango 125,125,Class 2B,Street Bikes
+1354,Royal Alloy GP200,0,royal alloy,Royal Alloy GP200,181,Class 2B,Scooters
+1355,Royal Alloy GT200,0,royal alloy,Royal Alloy GT200,181,Class 2B,Scooters
+1356,Royal Alloy TG200,0,royal alloy,Royal Alloy TG200,181,Class 2B,Scooters
+1357,Royal Alloy TG300,0,royal alloy,Royal Alloy TG300,278,Class 2A,Scooters
+1358,Royal Enfield Bullet 350,0,royal enfield,Royal Enfield Bullet 350,346,Class 2A,Street Bikes
+1359,Royal Enfield Bullet 500,0,royal enfield,Royal Enfield Bullet 500,499,Class 2,Street Bikes
+1360,Royal Enfield Classic 350,0,royal enfield,Royal Enfield Classic 350,346,Class 2A,Street Bikes
+1361,Royal Enfield Classic 500,0,royal enfield,Royal Enfield Classic 500,499,Class 2,Street Bikes
+1362,Royal Enfield Classic 500 Chrome,0,royal enfield,Royal Enfield Classic 500 Chrome,499,Class 2,Street Bikes
+1363,Royal Enfield Classic 500 Desert Storm,0,royal enfield,Royal Enfield Classic 500 Desert Storm,499,Class 2,Street Bikes
+1364,Royal Enfield Classic 500 Squadron Blue,0,royal enfield,Royal Enfield Classic 500 Squadron Blue,499,Class 2,Street Bikes
+1365,Royal Enfield Continental GT,0,royal enfield,Royal Enfield Continental GT,648,Class 2,Street Bikes
+1366,Royal Enfield Himalayan,0,royal enfield,Royal Enfield Himalayan,411,Class 2,Sport Tourers
+1367,Royal Enfield Interceptor,0,royal enfield,Royal Enfield Interceptor,648,Class 2,Street Bikes
+1368,Royal Enfield Meteor 350,0,royal enfield,Royal Enfield Meteor 350,349,Class 2A,Cruiser
+1369,Royal Enfield Thunderbird 350,0,royal enfield,Royal Enfield Thunderbird 350,346,Class 2A,Street Bikes
+1370,Royal Enfield Thunderbird 500,0,royal enfield,Royal Enfield Thunderbird 500,499,Class 2,Street Bikes
+1371,Scomadi TL125 Turismo Leggera,0,scomadi,Scomadi TL125 Turismo Leggera,124,Class 2B,Scooters
+1372,Scomadi TL200 Turismo Leggera,0,scomadi,Scomadi TL200 Turismo Leggera,181,Class 2B,Scooters
+1373,Suzuki Address 110,0,suzuki,Suzuki Address 110,113,Class 2B,Scooters
+1374,Suzuki Boulevard C50,0,suzuki,Suzuki Boulevard C50,805,Class 2,Cruiser
+1375,Suzuki Boulevard C90,0,suzuki,Suzuki Boulevard C90,1462,Class 2,Cruiser
+1376,Suzuki Boulevard M109R,0,suzuki,Suzuki Boulevard M109R,1783,Class 2,Cruiser
+1377,Suzuki Boulevard M90,0,suzuki,Suzuki Boulevard M90,1462,Class 2,Cruiser
+1378,Suzuki Boulevard S40,0,suzuki,Suzuki Boulevard S40,652,Class 2,Cruiser
+1379,Suzuki Burgman 125,0,suzuki,Suzuki Burgman 125,125,Class 2B,Scooters
+1380,Suzuki Burgman 200 ABS,0,suzuki,Suzuki Burgman 200 ABS,200,Class 2B,Scooters
+1381,Suzuki Burgman 400 ABS,0,suzuki,Suzuki Burgman 400 ABS,400,Class 2A,Scooters
+1382,Suzuki Burgman 650,0,suzuki,Suzuki Burgman 650,638,Class 2,Scooters
+1383,Suzuki DR125SM,0,suzuki,Suzuki DR125SM,124,Class 2B,Super Motards
+1384,Suzuki DR200S,0,suzuki,Suzuki DR200S,199,Class 2B,Scrambler/Dirt Bike
+1385,Suzuki DR650SE,0,suzuki,Suzuki DR650SE,644,Class 2,Scrambler/Dirt Bike
+1386,Suzuki DRZ250,0,suzuki,Suzuki DRZ250,249,Class 2A,Scrambler/Dirt Bike
+1387,Suzuki DRZ400E,0,suzuki,Suzuki DRZ400E,398,Class 2A,Scrambler/Dirt Bike
+1388,Suzuki GSR750,0,suzuki,Suzuki GSR750,749,Class 2,Street Bikes
+1389,Suzuki GSX-8S,0,suzuki,Suzuki GSX-8S,776,Class 2,Street Bikes
+1390,Suzuki GSX-R1000,0,suzuki,Suzuki GSX-R1000,1000,Class 2,Sport Bikes
+1391,Suzuki GSX-R125,0,suzuki,Suzuki GSX-R125,124,Class 2B,Sport Bikes
+1392,Suzuki GSX-R1300 Hayabusa,0,suzuki,Suzuki GSX-R1300 Hayabusa,1340,Class 2,Sport Bikes
+1393,Suzuki GSX-R150,0,suzuki,Suzuki GSX-R150,147,Class 2B,Sport Bikes
+1394,Suzuki GSX-R600,0,suzuki,Suzuki GSX-R600,599,Class 2,Sport Bikes
+1395,Suzuki GSX-R750,0,suzuki,Suzuki GSX-R750,750,Class 2,Sport Bikes
+1396,Suzuki GSX-S1000,0,suzuki,Suzuki GSX-S1000,999,Class 2,Street Bikes
+1397,Suzuki GSX-S1000F,0,suzuki,Suzuki GSX-S1000F,999,Class 2,Sport Bikes
+1398,Suzuki GSX-S1000GT,0,suzuki,Suzuki GSX-S1000GT,999,Class 2,Sport Tourers
+1399,Suzuki GSX-S125,0,suzuki,Suzuki GSX-S125,124,Class 2B,Street Bikes
+1400,Suzuki GSX-S150,0,suzuki,Suzuki GSX-S150,147,Class 2B,Sport Bikes
+1401,Suzuki GSX-S750,0,suzuki,Suzuki GSX-S750,749,Class 2,Street Bikes
+1402,Suzuki GSX-S750A,0,suzuki,Suzuki GSX-S750A,749,Class 2,Street Bikes
+1403,Suzuki GSX-S750Z,0,suzuki,Suzuki GSX-S750Z,749,Class 2,Street Bikes
+1404,Suzuki GSX-S750ZA,0,suzuki,Suzuki GSX-S750ZA,749,Class 2,Street Bikes
+1405,Suzuki GSX250R,0,suzuki,Suzuki GSX250R,248,Class 2A,Sport Bikes
+1406,Suzuki Hayabusa,0,suzuki,Suzuki Hayabusa,1340,Class 2,Sport Bikes
+1407,Suzuki Inazuma GW250,0,suzuki,Suzuki Inazuma GW250,248,Class 2A,Street Bikes
+1408,Suzuki Inazuma GW250F,0,suzuki,Suzuki Inazuma GW250F,248,Class 2A,Sport Bikes
+1409,Suzuki Katana,0,suzuki,Suzuki Katana,999,Class 2,Street Bikes
+1410,Suzuki SV650,0,suzuki,Suzuki SV650,645,Class 2,Street Bikes
+1411,Suzuki SV650X,0,suzuki,Suzuki SV650X,645,Class 2,Street Bikes
+1412,Suzuki TU250X,0,suzuki,Suzuki TU250X,249,Class 2A,Street Bikes
+1413,Suzuki V-Strom 1000,0,suzuki,Suzuki V-Strom 1000,1037,Class 2,Sport Tourers
+1414,Suzuki V-Strom 1050,0,suzuki,Suzuki V-Strom 1050,1037,Class 2,Sport Tourers
+1415,Suzuki V-Strom 250,0,suzuki,Suzuki V-Strom 250,248,Class 2A,Sport Tourers
+1416,Suzuki V-Strom 650 ABS,0,suzuki,Suzuki V-Strom 650 ABS,645,Class 2,Sport Tourers
+1417,Suzuki V-Strom 650 XT ABS,0,suzuki,Suzuki V-Strom 650 XT ABS,645,Class 2,Sport Tourers
+1418,Suzuki V-Strom 650X ABS EXP,0,suzuki,Suzuki V-Strom 650X ABS EXP,645,Class 2,Sport Tourers
+1419,Suzuki V-Strom 650X ABS XA,0,suzuki,Suzuki V-Strom 650X ABS XA,645,Class 2,Sport Tourers
+1420,Suzuki Van Van 200,0,suzuki,Suzuki Van Van 200,199,Class 2B,Street Bikes
+1421,SYM Citycom 300i,0,sym,SYM Citycom 300i,262,Class 2A,Scooters
+1422,SYM Com Biz 125,0,sym,SYM Com Biz 125,124,Class 2B,Scooters
+1423,SYM Crox 125,0,sym,SYM Crox 125,124,Class 2B,Scooters
+1424,SYM Crox 150,0,sym,SYM Crox 150,151,Class 2B,Scooters
+1425,SYM Cruisym 250,0,sym,SYM Cruisym 250,249,Class 2A,Scooters
+1426,SYM Cruisym 300,0,sym,SYM Cruisym 300,278,Class 2A,Scooters
+1427,SYM DRGBT 160,0,sym,SYM DRGBT 160,158,Class 2B,Scooters
+1428,SYM Fiddle 3 125,0,sym,SYM Fiddle 3 125,124,Class 2B,Scooters
+1429,SYM Fiddle 3 200,0,sym,SYM Fiddle 3 200,169,Class 2B,Scooters
+1430,SYM Fighter 150,0,sym,SYM Fighter 150,150,Class 2B,Scooters
+1431,SYM GTS 200,0,sym,SYM GTS 200,180,Class 2B,Scooters
+1432,SYM HD300,0,sym,SYM HD300,278,Class 2A,Scooters
+1433,SYM Jet 14 125i,0,sym,SYM Jet 14 125i,125,Class 2B,Scooters
+1434,SYM Jet 14 200,0,sym,SYM Jet 14 200,169,Class 2B,Scooters
+1435,SYM Jet 14 200i ABS,0,sym,SYM Jet 14 200i ABS,169,Class 2B,Scooters
+1436,SYM Jet 4 125,0,sym,SYM Jet 4 125,124,Class 2B,Scooters
+1437,SYM Joymax 125i,0,sym,SYM Joymax 125i,125,Class 2B,Scooters
+1438,SYM Joymax 250i,0,sym,SYM Joymax 250i,249,Class 2A,Scooters
+1439,SYM Joymax 300i,0,sym,SYM Joymax 300i,278,Class 2A,Scooters
+1440,SYM Joymax Z125,0,sym,SYM Joymax Z125,125,Class 2B,Scooters
+1441,SYM Joymax Z250,0,sym,SYM Joymax Z250,249,Class 2A,Scooters
+1442,SYM Joymax Z300,0,sym,SYM Joymax Z300,278,Class 2A,Scooters
+1443,SYM Joyride 200i Evo,0,sym,SYM Joyride 200i Evo,171,Class 2B,Scooters
+1444,SYM Joyride S125i,0,sym,SYM Joyride S125i,125,Class 2B,Scooters
+1445,SYM Joyride S200i,0,sym,SYM Joyride S200i,175,Class 2B,Scooters
+1446,SYM Magic SR125i,0,sym,SYM Magic SR125i,123,Class 2B,Cubs
+1447,SYM Maxsym 400i,0,sym,SYM Maxsym 400i,399,Class 2A,Scooters
+1448,SYM Maxsym 600i ABS,0,sym,SYM Maxsym 600i ABS,565,Class 2,Scooters
+1449,SYM MIO 115,0,sym,SYM MIO 115,115,Class 2B,Scooters
+1450,SYM Orbit 2 125,0,sym,SYM Orbit 2 125,125,Class 2B,Scooters
+1451,SYM Orbit 3 125,0,sym,SYM Orbit 3 125,124,Class 2B,Scooters
+1452,SYM Symphony ST125i,0,sym,SYM Symphony ST125i,124,Class 2B,Scooters
+1453,SYM Symphony ST200i,0,sym,SYM Symphony ST200i,169,Class 2B,Scooters
+1454,SYM VF3i,0,sym,SYM VF3i,183,Class 2B,Cubs
+1455,SYM VS150,0,sym,SYM VS150,151,Class 2B,Scooters
+1456,TGB Express 150,0,tgb,TGB Express 150,151,Class 2B,Scooters
+1457,Triumph America,0,triumph,Triumph America,865,Class 2,Cruiser
+1458,Triumph Bonneville,0,triumph,Triumph Bonneville,865,Class 2,Classic Bikes
+1459,Triumph Bonneville Bobber,0,triumph,Triumph Bonneville Bobber,1200,Class 2,Classic Bikes
+1460,Triumph Bonneville SE,0,triumph,Triumph Bonneville SE,865,Class 2,Classic Bikes
+1461,Triumph Bonneville T100,0,triumph,Triumph Bonneville T100,900,Class 2,Classic Bikes
+1462,Triumph Bonneville T120,0,triumph,Triumph Bonneville T120,1200,Class 2,Classic Bikes
+1463,Triumph Bonneville T214 Land Speed LE,0,triumph,Triumph Bonneville T214 Land Speed LE,865,Class 2,Classic Bikes
+1464,Triumph Daytona 675,0,triumph,Triumph Daytona 675,675,Class 2,Sport Bikes
+1465,Triumph Daytona 675R,0,triumph,Triumph Daytona 675R,675,Class 2,Sport Bikes
+1466,Triumph Newchurch Special,0,triumph,Triumph Newchurch Special,865,Class 2,Classic Bikes
+1467,Triumph Rocket 3 GT,0,triumph,Triumph Rocket 3 GT,2458,Class 2,Street Bikes
+1468,Triumph Rocket 3 R,0,triumph,Triumph Rocket 3 R,2458,Class 2,Street Bikes
+1469,Triumph Rocket III Roadster,0,triumph,Triumph Rocket III Roadster,2294,Class 2,Cruiser
+1470,Triumph Scrambler,0,triumph,Triumph Scrambler,865,Class 2,Classic Bikes
+1471,Triumph Scrambler 1200,0,triumph,Triumph Scrambler 1200,1200,Class 2,Classic Bikes
+1472,Triumph Speed Triple RS,0,triumph,Triumph Speed Triple RS,1050,Class 2,Street Bikes
+1473,Triumph Speed Triple S,0,triumph,Triumph Speed Triple S,1050,Class 2,Street Bikes
+1474,Triumph Speed Twin,0,triumph,Triumph Speed Twin,1200,Class 2,Classic Bikes
+1475,Triumph Speedmaster,0,triumph,Triumph Speedmaster,1200,Class 2,Cruiser
+1476,Triumph Sprint GT,0,triumph,Triumph Sprint GT,1050,Class 2,Sport Tourers
+1477,Triumph Sprint ST,0,triumph,Triumph Sprint ST,1050,Class 2,Sport Tourers
+1478,Triumph Street Cup,0,triumph,Triumph Street Cup,900,Class 2,Classic Bikes
+1479,Triumph Street Scrambler,0,triumph,Triumph Street Scrambler,900,Class 2,Classic Bikes
+1480,Triumph Street Triple 765,0,triumph,Triumph Street Triple 765,765,Class 2,Street Bikes
+1481,Triumph Street Triple R,0,triumph,Triumph Street Triple R,765,Class 2,Street Bikes
+1482,Triumph Street Triple R Low,0,triumph,Triumph Street Triple R Low,765,Class 2,Street Bikes
+1483,Triumph Street Triple RS,0,triumph,Triumph Street Triple RS,765,Class 2,Street Bikes
+1484,Triumph Street Triple S,0,triumph,Triumph Street Triple S,765,Class 2,Street Bikes
+1485,Triumph Street Twin,0,triumph,Triumph Street Twin,900,Class 2,Classic Bikes
+1486,Triumph Thruxton 1200,0,triumph,Triumph Thruxton 1200,1200,Class 2,Classic Bikes
+1487,Triumph Thruxton 1200 R,0,triumph,Triumph Thruxton 1200 R,1200,Class 2,Classic Bikes
+1488,Triumph Thruxton Ace Cafe SE,0,triumph,Triumph Thruxton Ace Cafe SE,865,Class 2,Classic Bikes
+1489,Triumph Thruxton RS,0,triumph,Triumph Thruxton RS,1200,Class 2,Classic Bikes
+1490,Triumph Thunderbird,0,triumph,Triumph Thunderbird,1597,Class 2,Cruiser
+1491,Triumph Thunderbird Storm,0,triumph,Triumph Thunderbird Storm,1699,Class 2,Cruiser
+1492,Triumph Tiger 1050 SE ABS,0,triumph,Triumph Tiger 1050 SE ABS,1050,Class 2,Sport Tourers
+1493,Triumph Tiger 1200,0,triumph,Triumph Tiger 1200,1215,Class 2,Sport Tourers
+1494,Triumph Tiger 800,0,triumph,Triumph Tiger 800,800,Class 2,Sport Tourers
+1495,Triumph Tiger 800 XCa,0,triumph,Triumph Tiger 800 XCa,800,Class 2,Sport Tourers
+1496,Triumph Tiger 800 XCX,0,triumph,Triumph Tiger 800 XCX,800,Class 2,Sport Tourers
+1497,Triumph Tiger 800 XR,0,triumph,Triumph Tiger 800 XR,800,Class 2,Sport Tourers
+1498,Triumph Tiger 800 XRx,0,triumph,Triumph Tiger 800 XRx,800,Class 2,Sport Tourers
+1499,Triumph Tiger Explorer,0,triumph,Triumph Tiger Explorer,1215,Class 2,Sport Tourers
+1500,TVS Apache RR310,0,tvs,TVS Apache RR310,312,Class 2A,Sport Bikes
+1501,TVS Apache RTR160,0,tvs,TVS Apache RTR160,160,Class 2B,Street Bikes
+1502,TVS Apache RTR180,0,tvs,TVS Apache RTR180,177,Class 2B,Street Bikes
+1503,TVS Apache RTR200 4V,0,tvs,TVS Apache RTR200 4V,197,Class 2B,Street Bikes
+1504,TVS Jupiter 110,0,tvs,TVS Jupiter 110,110,Class 2B,Scooters
+1505,TVS NTORQ 125,0,tvs,TVS NTORQ 125,125,Class 2B,Scooters
+1506,TVS Radeon,0,tvs,TVS Radeon,110,Class 2B,Street Bikes
+1507,TVS Sport,0,tvs,TVS Sport,100,Class 2B,Street Bikes
+1508,TVS Starcity Plus,0,tvs,TVS Starcity Plus,110,Class 2B,Street Bikes
+1509,TVS Victor 110,0,tvs,TVS Victor 110,110,Class 2B,Street Bikes
+1510,TVS Wego 110,0,tvs,TVS Wego 110,110,Class 2B,Scooters
+1511,TVS Zest 110,0,tvs,TVS Zest 110,110,Class 2B,Scooters
+1512,Vespa 946,0,vespa,Vespa 946,155,Class 2B,Scooters
+1513,Vespa GTS 125,0,vespa,Vespa GTS 125,125,Class 2B,Scooters
+1514,Vespa GTS 150,0,vespa,Vespa GTS 150,125,Class 2B,Scooters
+1515,Vespa GTS 300 4V ABS,0,vespa,Vespa GTS 300 4V ABS,278,Class 2A,Scooters
+1516,Vespa LX150 I.E.,0,vespa,Vespa LX150 I.E.,151,Class 2B,Scooters
+1517,Vespa Primavera 125,0,vespa,Vespa Primavera 125,124,Class 2B,Scooters
+1518,Vespa Primavera 150,0,vespa,Vespa Primavera 150,155,Class 2B,Scooters
+1519,Vespa S125 I.E.,0,vespa,Vespa S125 I.E.,124,Class 2B,Scooters
+1520,Vespa Sei Giorni 300,0,vespa,Vespa Sei Giorni 300,278,Class 2A,Scooters
+1521,Vespa Sprint 125,0,vespa,Vespa Sprint 125,125,Class 2B,Scooters
+1522,Vespa Sprint 150,0,vespa,Vespa Sprint 150,155,Class 2B,Scooters
+1523,Vespa SXL150,0,vespa,Vespa SXL150,150,Class 2B,Scooters
+1524,Yamaha Aerox 155,0,yamaha,Yamaha Aerox 155,155,Class 2B,Scooters
+1525,Yamaha Aerox 155 R,0,yamaha,Yamaha Aerox 155 R,155,Class 2B,Scooters
+1526,Yamaha Bolt,0,yamaha,Yamaha Bolt,942,Class 2,Cruiser
+1527,Yamaha Bolt R-Spec,0,yamaha,Yamaha Bolt R-Spec,942,Class 2,Cruiser
+1528,Yamaha Cygnus Z 125,0,yamaha,Yamaha Cygnus Z 125,125,Class 2B,Scooters
+1529,Yamaha Delight 125,0,yamaha,Yamaha Delight 125,125,Class 2B,Scooters
+1530,Yamaha Fino 115,0,yamaha,Yamaha Fino 115,113,Class 2B,Scooters
+1531,Yamaha FJ-09,0,yamaha,Yamaha FJ-09,847,Class 2,Sport Bikes
+1532,Yamaha FJR1300,0,yamaha,Yamaha FJR1300,1298,Class 2,Sport Tourers
+1533,Yamaha FJR1300AE Ultimate Edition,0,yamaha,Yamaha FJR1300AE Ultimate Edition,1298,Class 2,Sport Tourers
+1534,Yamaha FZ-07,0,yamaha,Yamaha FZ-07,689,Class 2,Street Bikes
+1535,Yamaha FZ1-N,0,yamaha,Yamaha FZ1-N,998,Class 2,Street Bikes
+1536,Yamaha FZ1-S,0,yamaha,Yamaha FZ1-S,998,Class 2,Street Bikes
+1537,Yamaha FZ16,0,yamaha,Yamaha FZ16,153,Class 2B,Street Bikes
+1538,Yamaha FZ16 ST,0,yamaha,Yamaha FZ16 ST,153,Class 2B,Street Bikes
+1539,Yamaha FZ8-N,0,yamaha,Yamaha FZ8-N,779,Class 2,Street Bikes
+1540,Yamaha FZ8-S,0,yamaha,Yamaha FZ8-S,779,Class 2,Street Bikes
+1541,Yamaha FZN150i,0,yamaha,Yamaha FZN150i,149,Class 2B,Street Bikes
+1542,Yamaha FZS150,0,yamaha,Yamaha FZS150,149,Class 2B,Street Bikes
+1543,Yamaha FZX150,0,yamaha,Yamaha FZX150,149,Class 2B,Street Bikes
+1544,Yamaha Grand Filano 125 Hybrid,0,yamaha,Yamaha Grand Filano 125 Hybrid,125,Class 2B,Scooters
+1545,Yamaha Jupiter MX150,0,yamaha,Yamaha Jupiter MX150,150,Class 2B,Cubs
+1546,Yamaha Jupiter T115 Auto,0,yamaha,Yamaha Jupiter T115 Auto,113,Class 2B,Cubs
+1547,Yamaha Jupiter T135- Auto Clutch,0,yamaha,Yamaha Jupiter T135- Auto Clutch,135,Class 2B,Cubs
+1548,Yamaha Jupiter T135- Manual Clutch,0,yamaha,Yamaha Jupiter T135- Manual Clutch,135,Class 2B,Cubs
+1549,Yamaha Lexi 125,0,yamaha,Yamaha Lexi 125,125,Class 2B,Scooters
+1550,Yamaha Majesty S,0,yamaha,Yamaha Majesty S,155,Class 2B,Scooters
+1551,Yamaha Mio 125 MX,0,yamaha,Yamaha Mio 125 MX,124,Class 2B,Scooters
+1552,Yamaha MT-03,0,yamaha,Yamaha MT-03,321,Class 2A,Street Bikes
+1553,Yamaha MT-07,0,yamaha,Yamaha MT-07,689,Class 2,Street Bikes
+1554,Yamaha MT-07 Tracer,0,yamaha,Yamaha MT-07 Tracer,689,Class 2,Sport Tourers
+1555,Yamaha MT-09,0,yamaha,Yamaha MT-09,847,Class 2,Street Bikes
+1556,Yamaha MT-09 SP,0,yamaha,Yamaha MT-09 SP,847,Class 2,Street Bikes
+1557,Yamaha MT-09 Tracer,0,yamaha,Yamaha MT-09 Tracer,847,Class 2,Sport Tourers
+1558,Yamaha MT-09 Tracer GT,0,yamaha,Yamaha MT-09 Tracer GT,890,Class 2,Sport Tourers
+1559,Yamaha MT-10,0,yamaha,Yamaha MT-10,998,Class 2,Street Bikes
+1560,Yamaha MT-10 SP,0,yamaha,Yamaha MT-10 SP,998,Class 2,Street Bikes
+1561,Yamaha MT-125,0,yamaha,Yamaha MT-125,125,Class 2B,Street Bikes
+1562,Yamaha MT-15,0,yamaha,Yamaha MT-15,155,Class 2B,Street Bikes
+1563,Yamaha MT-15 Xabre,0,yamaha,Yamaha MT-15 Xabre,149,Class 2B,Street Bikes
+1564,Yamaha MW125 Tricity,0,yamaha,Yamaha MW125 Tricity,124,Class 2B,Three Wheeler
+1565,Yamaha MW155 Tricity,0,yamaha,Yamaha MW155 Tricity,155,Class 2B,Three Wheeler
+1566,Yamaha MX King 150,0,yamaha,Yamaha MX King 150,150,Class 2B,Cubs
+1567,Yamaha MXT850 Niken,0,yamaha,Yamaha MXT850 Niken,847,Class 2,Three Wheeler
+1568,Yamaha MXT850 Niken GT,0,yamaha,Yamaha MXT850 Niken GT,847,Class 2,Three Wheeler
+1569,Yamaha Nmax 155,0,yamaha,Yamaha Nmax 155,155,Class 2B,Scooters
+1570,Yamaha NXC 125 Fi,0,yamaha,Yamaha NXC 125 Fi,124,Class 2B,Scooters
+1571,Yamaha Raider Bullet Cowl,0,yamaha,Yamaha Raider Bullet Cowl,1854,Class 2,Cruiser
+1572,Yamaha Raider SE,0,yamaha,Yamaha Raider SE,1854,Class 2,Cruiser
+1573,Yamaha SCR950,0,yamaha,Yamaha SCR950,942,Class 2,Street Bikes
+1574,Yamaha SMAX,0,yamaha,Yamaha SMAX,155,Class 2B,Scooters
+1575,Yamaha Sniper 150,0,yamaha,Yamaha Sniper 150,149,Class 2B,Cubs
+1576,Yamaha Sniper 155,0,yamaha,Yamaha Sniper 155,155,Class 2B,Cubs
+1577,Yamaha SR400,0,yamaha,Yamaha SR400,399,Class 2A,Street Bikes
+1578,Yamaha Star Eluder,0,yamaha,Yamaha Star Eluder,1854,Class 2,Sport Tourers
+1579,Yamaha Star Venture,0,yamaha,Yamaha Star Venture,1854,Class 2,Cruiser
+1580,Yamaha Stryker Bullet Cowl,0,yamaha,Yamaha Stryker Bullet Cowl,1304,Class 2,Cruiser
+1581,Yamaha Stryker SE,0,yamaha,Yamaha Stryker SE,1304,Class 2,Cruiser
+1582,Yamaha SZ-R 150,0,yamaha,Yamaha SZ-R 150,153,Class 2B,Street Bikes
+1583,Yamaha Tenere 700,0,yamaha,Yamaha Tenere 700,689,Class 2,Sport Tourers
+1584,Yamaha Tmax 530,0,yamaha,Yamaha Tmax 530,530,Class 2,Scooters
+1585,Yamaha Tmax 560,0,yamaha,Yamaha Tmax 560,562,Class 2,Scooters
+1586,Yamaha Tmax 560 Tech MAX,0,yamaha,Yamaha Tmax 560 Tech MAX,562,Class 2,Scooters
+1587,Yamaha Tricity 300,0,yamaha,Yamaha Tricity 300,292,Class 2A,Three Wheeler
+1588,Yamaha TW200,0,yamaha,Yamaha TW200,196,Class 2B,Scrambler/Dirt Bike
+1589,Yamaha V Star 250,0,yamaha,Yamaha V Star 250,249,Class 2A,Cruiser
+1590,Yamaha V-Star 1300 Deluxe SE,0,yamaha,Yamaha V-Star 1300 Deluxe SE,1304,Class 2,Cruiser
+1591,Yamaha Vixion R 155,0,yamaha,Yamaha Vixion R 155,155,Class 2B,Street Bikes
+1592,Yamaha Vmax,0,yamaha,Yamaha Vmax,1679,Class 2,Cruiser
+1593,Yamaha WR155R,0,yamaha,Yamaha WR155R,155,Class 2B,Scrambler/Dirt Bike
+1594,Yamaha WR250F,0,yamaha,Yamaha WR250F,250,Class 2A,Super Motards
+1595,Yamaha WR250R,0,yamaha,Yamaha WR250R,250,Class 2A,Scrambler/Dirt Bike
+1596,Yamaha XJ6 Diversion F,0,yamaha,Yamaha XJ6 Diversion F,600,Class 2,Street Bikes
+1597,Yamaha XJ6-N,0,yamaha,Yamaha XJ6-N,600,Class 2,Street Bikes
+1598,Yamaha XJ6-S,0,yamaha,Yamaha XJ6-S,600,Class 2,Street Bikes
+1599,Yamaha Xmax 250,0,yamaha,Yamaha Xmax 250,249,Class 2A,Scooters
+1600,Yamaha Xmax 300,0,yamaha,Yamaha Xmax 300,292,Class 2A,Scooters
+1601,Yamaha Xmax 300SP,0,yamaha,Yamaha Xmax 300SP,292,Class 2A,Scooters
+1602,Yamaha Xmax 400,0,yamaha,Yamaha Xmax 400,395,Class 2A,Scooters
+1603,Yamaha XSR155,0,yamaha,Yamaha XSR155,155,Class 2B,Street Bikes
+1604,Yamaha XSR700,0,yamaha,Yamaha XSR700,689,Class 2,Street Bikes
+1605,Yamaha XSR900,0,yamaha,Yamaha XSR900,847,Class 2,Street Bikes
+1606,Yamaha XT1200Z Super Tenere,0,yamaha,Yamaha XT1200Z Super Tenere,1199,Class 2,Sport Tourers
+1607,Yamaha XT250,0,yamaha,Yamaha XT250,249,Class 2A,Scrambler/Dirt Bike
+1608,Yamaha XTZ125,0,yamaha,Yamaha XTZ125,124,Class 2B,Scrambler/Dirt Bike
+1609,Yamaha XV950 Bolt C-Spec,0,yamaha,Yamaha XV950 Bolt C-Spec,942,Class 2,Cruiser
+1610,Yamaha YBR125,0,yamaha,Yamaha YBR125,123,Class 2B,Street Bikes
+1611,Yamaha YP400 Majesty,0,yamaha,Yamaha YP400 Majesty,395,Class 2A,Scooters
+1612,Yamaha YS125,0,yamaha,Yamaha YS125,125,Class 2B,Street Bikes
+1613,Yamaha YZ250FX,0,yamaha,Yamaha YZ250FX,250,Class 2A,Super Motards
+1614,Yamaha YZF-R1,0,yamaha,Yamaha YZF-R1,998,Class 2,Sport Bikes
+1615,Yamaha YZF-R15,0,yamaha,Yamaha YZF-R15,155,Class 2B,Sport Bikes
+1616,Yamaha YZF-R15 Ver 4,0,yamaha,Yamaha YZF-R15 Ver 4,155,Class 2B,Sport Bikes
+1617,Yamaha YZF-R1M,0,yamaha,Yamaha YZF-R1M,998,Class 2,Sport Bikes
+1618,Yamaha YZF-R3,0,yamaha,Yamaha YZF-R3,321,Class 2A,Sport Bikes
+1619,Yamaha YZF-R6,0,yamaha,Yamaha YZF-R6,599,Class 2,Sport Bikes
+1620,Yamaha YZF-R7,0,yamaha,Yamaha YZF-R7,689,Class 2,Sport Bikes
+1621,Yamaha Zuma 125,0,yamaha,Yamaha Zuma 125,125,Class 2B,Scooters
+1622,ZongShen RA1,0,zongshen,ZongShen RA1,125,Class 2B,Cruiser
+1623,ZongShen ZS125,0,zongshen,ZongShen ZS125,125,Class 2B,Cubs
+1624,ZongShen ZS150 Pursuit,0,zongshen,ZongShen ZS150 Pursuit,150,Class 2B,Cruiser
+1625,ZongShen ZS150GY Fly,0,zongshen,ZongShen ZS150GY Fly,150,Class 2B,Scrambler/Dirt Bike
+1626,ZongShen ZS200 Zone One S,0,zongshen,ZongShen ZS200 Zone One S,200,Class 2B,Street Bikes
+1627,ZongShen ZS250GY RX3,0,zongshen,ZongShen ZS250GY RX3,2496,Class 2A,Sport Tourers
+1628,Zontes GK350,0,zontes,Zontes GK350,348,Class 2A,Street Bikes
+1629,Zontes R310,0,zontes,Zontes R310,312,Class 2A,Street Bikes
+1630,Zontes T310,0,zontes,Zontes T310,312,Class 2A,Sport Tourers
+1631,Zontes V310,0,zontes,Zontes V310,312,Class 2A,Street Bikes
+1632,Zontes X310,0,zontes,Zontes X310,312,Class 2A,Sport Tourers
+1633,Zontes ZT150G,0,zontes,Zontes ZT150G,150,Class 2B,Street Bikes
+1634,Zontes ZT150U,0,zontes,Zontes ZT150U,150,Class 2B,Street Bikes
